@@ -1,0 +1,47 @@
+.nav {
+  z-index: 100;
+}
+#sidenav {
+  transition: right 1s;
+  transition-timing-function: cubic-bezier(1, 0, 0, 1);
+  width: 345px;
+  right: -350px;
+  height: 100%;
+  z-index: 100;
+  box-shadow: -0.125rem 0.125rem 0.15rem rgba(0, 0, 0, 0.075) !important;
+}
+#download-icon-handler {
+  cursor: pointer;
+  border: 2px #2EACFF solid;
+  padding: 4px 6px;
+  transition: all 1s;
+  transition-timing-function: cubic-bezier(1, 0, 0, 1) !important;
+}
+#icon2 {
+  animation-duration: 1s;
+  animation-timing-function: cubic-bezier(1, 0, 0, 1) !important;
+  animation-fill-mode: forwards !important;
+  display: block !important;
+}
+
+#badge {
+  transition: visibility 1s;
+  animation-timing-function: cubic-bezier(1, 0, 0, 1) !important;
+}
+
+@keyframes rotation2 {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(-90deg);
+  }
+}
+@keyframes rotation1 {
+  from {
+    transform: rotate(-90deg);
+  }
+  to {
+    transform: rotate(0deg);
+  }
+}

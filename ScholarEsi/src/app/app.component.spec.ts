@@ -20,16 +20,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'ScholarEsi'`, () => {
+  it(`should have as title 'zotero-app'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
-    expect(app.title).toEqual('ScholarEsi');
+    expect(app.title).toEqual('zotero-app');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('ScholarEsi app is running!');
+    expect(compiled.querySelector('.content span').textContent).toContain('zotero-app app is running!');
   });
 });
