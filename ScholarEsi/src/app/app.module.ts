@@ -7,30 +7,25 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import {FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { DetailComponent } from './detail/detail.component';
-import {MatAutocompleteModule, MatFormFieldModule, MatOptionModule} from '@angular/material';
-
+import { NgAutoCompleteComponent } from './ng-auto-copmplete/ng-auto-complete.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
-    DetailComponent
+    DetailComponent,
+    NgAutoCompleteComponent
   ],
   imports: [
-    MatFormFieldModule,
     BrowserModule,
     AppRoutingModule,
     NoopAnimationsModule,
     FontAwesomeModule,
     FormsModule,
     ReactiveFormsModule,
-    MatAutocompleteModule,
-    MatOptionModule
   ],
   exports: [
     ReactiveFormsModule,
-    MatAutocompleteModule,
-    MatOptionModule
   ],
   providers: [],
   bootstrap: [AppComponent]

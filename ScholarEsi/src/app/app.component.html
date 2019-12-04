@@ -5,22 +5,23 @@
       <title>Title</title>
   </head>
   <body class="position-relative container-fluid p-0 wrapper" style="background-color: #F2F2F2;" id="body" (scroll)="onScroll($event)">
-      <app-navbar class="w-100"></app-navbar>
-      <div class="row align-content-center p-2 bg-white border-bottom m-0" id="nav2">
-        <div class="col-md-5 col-sm-12">
-          <form class="form-inline w-100 h-100">
-            <div class="input-group w-100 h-100">
-              <input name="searchText" type="text" class="form-control rounded-left-pill my-auto" id="" placeholder="Search" [(ngModel)]="searchText">
-              <div class="input-group-append">
-                <select class="custom-select form-control form-control-lg input-group-text bg-white rounded-right-pill my-auto"
-                        name="searchContext" style="height: 38px" [(ngModel)]="searchContext" required="required">
-                  <option *ngFor="let c of contexts" [value]="c">{{c}}</option>
-                </select>
-              </div>
+    <app-navbar class="w-100"></app-navbar>
+    <!-- Filter nav bar ----------------------------------------------------------------------------------------------->
+    <div class="row align-content-center p-2 bg-white border-bottom m-0" id="nav2">
+      <div class="col-md-5 col-sm-12">
+        <form class="form-inline w-100 h-100">
+          <div class="input-group w-100 h-100">
+            <app-ng-auto-complete class="my-auto form-control p-0" [autoCompleteData] = "autoCompleteData"></app-ng-auto-complete>
+            <div class="input-group-append">
+              <select class="custom-select form-control input-group-text bg-white rounded-right-pill my-auto"
+                      name="searchContext" style="height: 38px" (change)="contextClick($event.target.value)" required="required">
+                <option *ngFor="let c of contexts">{{ c }}</option>
+              </select>
             </div>
-          </form>
-        </div>
-        <div class="col-md-6 col-sm-12 offset-lg-1">
+          </div>
+        </form>
+      </div>
+      <div class="col-md-6 col-sm-12 offset-lg-1">
           <div class="row">
 
             <div class="position-relative col-md-4 text-center filter-holder" (click)="f1Click(1)">
@@ -49,17 +50,8 @@
           </div>
         </div>
       </div>
-    <div class="container-fluid row m-0">
-      <form class="example-form">
-        <mat-form-field class="example-full-width">
-          <input type="text" placeholder="Pick one" aria-label="Number" matInput [formControl]="myControl" [matAutocomplete]="auto">
-          <mat-autocomplete #auto="matAutocomplete">
-            <mat-option *ngFor="let option of options" [value]="option">
-              {{option}}
-            </mat-option>
-          </mat-autocomplete>
-        </mat-form-field>
-      </form>
+    <!-- End filter nav bar ------------------------------------------------------------------------------------------->
+    <div class="row container-fluid m-0">
       <div class="col-lg-3 col-md-4 col-sm-6 p-2">
         <div class="card w-100">
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ9n3qqVGzSz7zwKCDzGPb8AKXMfRnQYH1R5iLMZ4VKDUZNNXJt" class="card-img-top border rounded-circle w-50 align-self-center my-2" alt="...">

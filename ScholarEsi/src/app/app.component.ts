@@ -1,5 +1,4 @@
-import {Component, HostListener, OnInit} from '@angular/core';
-import {FormControl} from '@angular/forms';
+import { Component } from '@angular/core';
 import { faCalendar, faUserFriends, faFileSignature } from '@fortawesome/free-solid-svg-icons'
 
 @Component({
@@ -8,9 +7,6 @@ import { faCalendar, faUserFriends, faFileSignature } from '@fortawesome/free-so
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  myControl = new FormControl();
-  options: string[] = ['One', 'Two', 'Three'];
-
   navBar : any;
   sticky: any;
   body: any;
@@ -24,9 +20,18 @@ export class AppComponent {
   user = faUserFriends;
   file = faFileSignature;
   calendar = faCalendar;
-  public searchContext = "degree";
   public searchText = "";
-  public contexts = ["name", "degree", "ccc"];
+  public contexts = ["name", "degree", "group"];
+  public searchContext = this.contexts[0];
+  public autoCompleteDataArray = [
+    ["name1", "name2", "name3", "name4", "name5", "name6", "name7"],
+    ["degree1", "degree2", "degree3", "degree4", ],
+    ["group1", "group2", "group3", "group4", "group5", ]
+  ];
+  public autoCompleteData =  this.autoCompleteDataArray[0];
+  contextClick(v) {
+    this.autoCompleteData = this.autoCompleteDataArray[this.contexts.indexOf(v)];
+  }
   onScroll(event) {
     console.log(this.sticky, event.srcElement.scrollTop);
     if (event.srcElement.scrollTop >= this.sticky) {
@@ -58,5 +63,4 @@ export class AppComponent {
         break;
     }
   }
-
 }
