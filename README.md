@@ -9,7 +9,7 @@
  - make sure that `mongod` service is started .
  
  - import `articles.json & teachers.json` in mongodb :
-  1- `mongoimport --db scholar_esi --collection articles articles.json`
-  2- `mongoimport --db scholar_esi --collection teachers teachers.json`
+   - `mongoimport --db scholar_esi --collection articles articles.json`
+   - `mongoimport --db scholar_esi --collection teachers teachers.json`
   
   - run the app `npm start` or `nodemon app/bin/www` .
