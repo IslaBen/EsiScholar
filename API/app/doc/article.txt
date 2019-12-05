@@ -1,0 +1,15 @@
+GET  http://127.0.0.1:3000/scholarESI/articles
+
+------------------------------------------------------------------------------------------------------------------
+
+GET http://127.0.0.1:3000/scholarESI/articles/5de8f5f59fc7795033e9dc90
+
+
+------------------------------------------------------------------------------------------------------------------
+// find teacher by attribute
+
+GET http://127.0.0.1:3000/scholarESI/articles/:attribute/:value
+
+ex : ( http://127.0.0.1:3000/scholarESI/articles/issued/2015 ,
+   http://127.0.0.1:3000/scholarESI/articles/title/cloud )
+
