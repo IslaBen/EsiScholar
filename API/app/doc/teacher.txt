@@ -1,0 +1,58 @@
+GET  http://127.0.0.1:3000/scholarESI/teachers
+
+------------------------------------------------------------------------------------------------------------------
+
+GET http://127.0.0.1:3000/scholarESI/teachers/5de8f5f59fc7795033e9dc90
+
+------------------------------------------------------------------------------------------------------------------
+
+POST http://127.0.0.1:3000/scholarESI/teachers
+
+{
+       
+        "image": "./images/youcef.jpg",
+        "firstName": "adel youcef",
+        "lastName": "mecheref",
+        "grade": "MAA",
+        "domain": "Computer Science",
+        "group": "cc",
+        "articles": "./json/mecheref.json"
+}
+
+
+------------------------------------------------------------------------------------------------------------------
+
+PUT http://127.0.0.1:3000/scholarESI/teachers/genInfo/5de8f6d8d8d2a825b1c0d561
+
+{
+        "firstName": "joseph",
+        "lastName": "mecheref",
+        "grade": "MAA",
+        "domain": "Computer Science",
+        "group": "vv",
+        "articles": "./json/mech.json"
+}
+
+------------------------------------------------------------------------------------------------------------------
+
+PUT http://127.0.0.1:3000/scholarESI/teachers/image/5de8f6d8d8d2a825b1c0d561
+
+{
+	"image":"path/to/your/test.png"
+}
+
+------------------------------------------------------------------------------------------------------------------
+
+DELETE http://127.0.0.1:3000/scholarESI/teachers/5de8f6d8d8d2a825b1c0d561
+
+
+------------------------------------------------------------------------------------------------------------------
+// find teacher by attribute
+
+GET http://127.0.0.1:3000/scholarESI/teachers/:attribute/:value
+
+ex : ( http://127.0.0.1:3000/scholarESI/teachers/name/mal ,
+   http://127.0.0.1:3000/scholarESI/teachers/grade/mca , 
+   http://127.0.0.1:3000/scholarESI/teachers/group/ccc )
+
+
