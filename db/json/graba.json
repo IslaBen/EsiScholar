@@ -1,0 +1,49 @@
+[
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/FLA3BH3B",
+		"type": "paper-conference",
+		"title": "Meaning Negotiation",
+		"container-title": "Proceedings of the 8th International Conference on Sciences of Electronics, Technologies of Information and Telecommunications (SETIT’18), Vol.1",
+		"collection-title": "Smart Innovation, Systems and Technologies",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"page": "3-13",
+		"source": "Springer Link",
+		"event-place": "Cham",
+		"abstract": "Nowadays, the web is becoming highly used technology, in our community. This technology allows us to work in collaboration and to share knowledge. The pragmatic web represents the most recent extension of the web (semantic web); which facilitates the exploitation and the interpretation of the data by the machine. This web is based on three important components, the context, the community, and the meaning negotiation. The Meaning negotiation is the most important component of the pragmatic web on which we will fix our attention. It plays an important role in the exchanges and resolves conflicts in people cooperation activities. The knowledge (context) of each part in the community of users is heterogeneous; this will make the meaning negotiation complicated. This paper realizes a meaning negotiation scenario based on the ontologies merging into the geopolitical domain. This will reduce and simplifies the process, and improves the semantics of data.",
+		"DOI": "10.1007/978-3-030-21005-2_1",
+		"ISBN": "978-3-030-21005-2",
+		"language": "en",
+		"author": [
+			{
+				"family": "Graba",
+				"given": "Dalila Djoher"
+			},
+			{
+				"family": "Keskes",
+				"given": "Nabil"
+			},
+			{
+				"family": "Amar Bensaber",
+				"given": "Djamel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Bouhlel",
+				"given": "Med Salim"
+			},
+			{
+				"family": "Rovetta",
+				"given": "Stefano"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	}
+]

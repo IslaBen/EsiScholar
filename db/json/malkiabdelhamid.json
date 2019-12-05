@@ -1,0 +1,86 @@
+[
+	{
+		"id": "http://zotero.org/users/local/81nxslBP/items/MPIKWRFS",
+		"type": "webpage",
+		"title": "Data Services with uncertain and correlated semantics | SpringerLink",
+		"URL": "https://link.springer.com/article/10.1007/s11280-014-0317-x",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/81nxslBP/items/K3LMVG9U",
+		"type": "webpage",
+		"title": "Composing Data Services with Uncertain Semantics - IEEE Journals & Magazine",
+		"URL": "https://ieeexplore.ieee.org/abstract/document/6906289",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/81nxslBP/items/7GJXQ2ZP",
+		"type": "webpage",
+		"title": "Composing WoT services with uncertain data - ScienceDirect",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0167739X19304467",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/81nxslBP/items/RMRXJ86W",
+		"type": "thesis",
+		"title": "Modélisation sémantique du cloud computing : vers une composition de services DaaS à sémantique incertaine",
+		"genre": "Thesis",
+		"source": "rdoc.univ-sba.dz",
+		"abstract": "Avec l'émergence du mouvement Open Data, des centaines de milliers de sources de données provenant de divers domaines (e.g., santé, gouvernementale, statistique, etc.) sont maintenant disponibles sur Internet. Ces sources de données sont accessibles et interrogées via des  services cloud DaaS, et cela afin de bénéficier de la flexibilité, l'interopérabilité et la scalabilité que les paradigmes SOA et Cloud Computing  peuvent apporter à l'intégration des données. Dans ce contexte, les requêtes sont résolues par la composition de plusieurs services DaaS. Définir la sémantique des services cloud DaaS est la première étape vers l'automatisation de leur composition. Une approche intéressante pour définir la sémantique des services DaaS est de les décrire comme étant des vues sémantiques à travers une ontologie de domaine.   Cependant, la définition de ces vues sémantiques ne peut pas être toujours faite avec certitude, surtout lorsque les données retournées par un service sont trop complexes. Dans cette thèse, nous proposons une approche probabiliste pour représenter les services DaaS à sémantique incertaine.  Dans notre approche, un service DaaS dont la sémantique est  incertaine est décrit par plusieurs vues sémantiques possibles, chacune avec une probabilité.  Les services ainsi que leurs vues sémantiques possibles sont représentées dans un registre de services probabiliste (PSR).  Selon les dépendances qui existent entre les services, les corrélations dans PSR peuvent être représentées par deux modèles différents: le modèle Bloc-indépendant-disjoint (BID), et le modèle à base des réseaux bayésiens. En se basant sur nos modèles probabilistes, nous étudions le problème de l'interprétation d'une composition existante impliquant des services à sémantique incertaine. Nous étudions aussi le problème de la réécriture de requêtes à travers les services DaaS incertains, et nous proposons des algorithmes efficaces permettant de calculer les différentes compositions possibles ainsi que leurs probabilités. Nous menons une série d’expérimentation pour évaluer la performance de nos différents algorithmes de composition. Les résultats obtenus montrent l’efficacité et la scalabilité de nos solutions proposées.",
+		"URL": "http://rdoc.univ-sba.dz:8080/jspui/handle/123456789/288",
+		"title-short": "Modélisation sémantique du cloud computing",
+		"language": "fr",
+		"author": [
+			{
+				"family": "Malki",
+				"given": "Abdelhamid"
+			},
+			{
+				"family": "Encadreur: BENSLIMANE",
+				"given": "Sidi Mohammed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					4,
+					23
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					7
+				]
+			]
+		}
+	}
+]

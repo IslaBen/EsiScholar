@@ -1,0 +1,658 @@
+[
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/63ILNKEV",
+		"type": "article-journal",
+		"title": "Analysis and evaluation of the impact of climatic conditions on the photovoltaic modules performance in the desert environment",
+		"container-title": "Energy Conversion and Management",
+		"page": "1345-1355",
+		"volume": "106",
+		"source": "ScienceDirect",
+		"abstract": "The main objective of this study is to investigate the impact of climatic conditions on the performance of photovoltaic modules installed in the desert region in south of Algeria. Firstly, the performance of ISOFOTON 100 module under daily weather conditions is evaluated. Next, the effects of partial shading and accumulation of sand dust for a period of two months on power loss and the current–voltage characteristics of photovoltaic modules are examined. Finally, the visual inspection of the degradation of the UDTS 50 modules such as discoloration of encapsulant and delamination show the influence of high temperature and the other climatic factors in the Saharan environment after a long time exposure of more than 10years observed in the field at the Unit of Research in Renewable energy URERMS Adrar. The performance degradation is also assessed using (I–V and P–V) curves normalized at STC condition compared with the nominal STC data given by the manufacturer. The experimental results show that the performance parameters such as maximum output current (Imax), maximum output voltage (Vmax), maximum power output (Pmax), open-circuit voltage (Voc), short-circuit current (Isc) and fill factor (FF) of UDTS 50 modules are degraded after these years of exposition.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0196890415009954",
+		"DOI": "10.1016/j.enconman.2015.10.073",
+		"ISSN": "0196-8904",
+		"journalAbbreviation": "Energy Conversion and Management",
+		"language": "en",
+		"author": [
+			{
+				"family": "Bouraiou",
+				"given": "Ahmed"
+			},
+			{
+				"family": "Hamouda",
+				"given": "Messaoud"
+			},
+			{
+				"family": "Chaker",
+				"given": "Abdelkader"
+			},
+			{
+				"family": "Mostefaoui",
+				"given": "Mohammed"
+			},
+			{
+				"family": "Lachtar",
+				"given": "Salah"
+			},
+			{
+				"family": "Sadok",
+				"given": "Mohammed"
+			},
+			{
+				"family": "Boutasseta",
+				"given": "Nadir"
+			},
+			{
+				"family": "Othmani",
+				"given": "Mourad"
+			},
+			{
+				"family": "Issam",
+				"given": "Attoui"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/5JQBMJMD",
+		"type": "article-journal",
+		"title": "Monitoring and performance analysis of grid connected photovoltaic under different climatic conditions in south Algeria",
+		"container-title": "Energy Conversion and Management",
+		"page": "200-206",
+		"volume": "130",
+		"source": "ScienceDirect",
+		"abstract": "The main goal of this study is to present the effect of weather conditions on grid-connected photovoltaic (PV) system performance installed in the Saharan area of south Algeria (Adrar) for the year 2010 has been analyzed on daily base. This region is characterized by high ambient temperature in the summer, strong solar insolation potential and low humidity rate. The data measurement was carried out in the Unit of Research in Renewable energy URERMS in various daily climatic condition (clear, cloudy and Sandstorm day). The performance evaluation based on the monitoring of PV array and inverter performance during the system operation derived parameters included final yield, reference yield, performance ratio and system efficiency. The analysis shows that the lowest value was in the performance ratio and efficiency of the PV module, system and the inverter, and the maximum value was in the capture and system losses, since the values in clear day were 76.5%, 10.88%, 94.65%, 10.29%, 1.18h/day and 0.26h/day respectively due to high average ambient temperature 32.3 °C. The lowest value was in reference yield, array yield, final yield in sandstorm day were 2.65kWh/kWp/day, 2.17kW h/kWp/day and 2.12kW h/kWp/day respectively due to low level of solar irradiation was 2.65kW h/m2, which caused by high wind speed 6.9m/s with sand dust particles. The experimental results show that the lowest values of the system efficiency and performance ratio (10.29% and 76.5% respectively) caused by the high module temperature equal to 41.1 °C in the clear day, and the fast-changing of the solar irradiance is caused by variation of clouds cover or dust storm affects the energy generated and stability of the PV system.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0196890416309724",
+		"DOI": "10.1016/j.enconman.2016.10.058",
+		"ISSN": "0196-8904",
+		"journalAbbreviation": "Energy Conversion and Management",
+		"language": "en",
+		"author": [
+			{
+				"family": "Dabou",
+				"given": "Rachid"
+			},
+			{
+				"family": "Bouchafaa",
+				"given": "Farid"
+			},
+			{
+				"family": "Arab",
+				"given": "Amar Hadj"
+			},
+			{
+				"family": "Bouraiou",
+				"given": "Ahmed"
+			},
+			{
+				"family": "Draou",
+				"given": "Mohammed Djamel"
+			},
+			{
+				"family": "Neçaibia",
+				"given": "Ammar"
+			},
+			{
+				"family": "Mostefaoui",
+				"given": "Mohammed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					12,
+					15
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/X6WG3DRD",
+		"type": "webpage",
+		"title": "Modeling and Simulation of Photovoltaic Module and Array Based on One and Two Diode Model Using Matlab/Simulink - ScienceDirect",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1876610215015908",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/QDDTTPHF",
+		"type": "webpage",
+		"title": "Simulation of High Efficiency CIGS Solar Cells with SCAPS-1D Software - ScienceDirect",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1876610215015775",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/L35XP2R8",
+		"type": "article-journal",
+		"title": "Experimental evaluation of the performance and degradation of single crystalline silicon photovoltaic modules in the Saharan environment",
+		"container-title": "Energy",
+		"page": "22-30",
+		"volume": "132",
+		"source": "ScienceDirect",
+		"abstract": "This paper gives an experimental investigation of the effect of climatic conditions on the performance and degradation of crystalline silicon photovoltaic modules under Saharan environment in Adrar region in the south of Algeria. The first part of this study is focused on the analysis and assessment of UDTS 50 PV modules degradation after a long term outdoor exposure to these conditions (more than 12 years). The visual inspection of 62 PV modules has allowed to observe and determine the degradation modes such as, EVA discoloration, delamination, busbar corrosion, cracking of solar cell, glass breakage, AR coating and solder bond. The degradation evaluation of three modules with different defects was also performed, using (I-V/P-V) characteristics and the degradation rates of the parameters (Pmax, Imp, Vmp, Isc, Voc, FF) at Standard test conditions (STC) in order to compare with the nominal data delivered by the manufacturer of photovoltaic panels. Finally, the combination of the partial shading effect and the presence of EVA browning defect was examined to assess the changes in I-V and P-V curves caused by the drop in electrical parameters.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0360544217308113",
+		"DOI": "10.1016/j.energy.2017.05.056",
+		"ISSN": "0360-5442",
+		"journalAbbreviation": "Energy",
+		"language": "en",
+		"author": [
+			{
+				"family": "Bouraiou",
+				"given": "Ahmed"
+			},
+			{
+				"family": "Hamouda",
+				"given": "Messaoud"
+			},
+			{
+				"family": "Chaker",
+				"given": "Abdelkader"
+			},
+			{
+				"family": "Lachtar",
+				"given": "Salah"
+			},
+			{
+				"family": "Neçaibia",
+				"given": "Ammar"
+			},
+			{
+				"family": "Boutasseta",
+				"given": "Nadir"
+			},
+			{
+				"family": "Mostefaoui",
+				"given": "Mohammed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					8,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/Z9TK6XJW",
+		"type": "article-journal",
+		"title": "Analytical assessment of the outdoor performance and efficiency of grid-tied photovoltaic system under hot dry climate in the south of Algeria",
+		"container-title": "Energy Conversion and Management",
+		"page": "778-786",
+		"volume": "171",
+		"source": "ScienceDirect",
+		"abstract": "A detailed assessment analysis of 2.5 kWp photovoltaic (PV) system located in southern Algeria (Latitude 27.88 °N, Longitude −0.27 °E, Altitude 262 m) has been carried out in this paper in order to support the growth of grid-tied photovoltaic power plant implementation in the Saharan environment. The achievement of this analysis has been done by performing an accurate evaluation of the different impacts of the environment parameters on the operating performance of the grid-tied PV system. The data set covers 12 operating months and has been collected by our team from the Research Unit on Renewable Energy (URER-MS). The collected experimental data reveal that the environmental parameters variation has direct effect on the performance of both energy conversion efficiency and system losses. The grid was supplied with a power of 4322.65 kWh during the year 2015, where the annual average temperature was 28.30 °C. An important variation in performance parameters have been observed for different months. The yield values of max/min monthly average daily reference, array and final were; 7.68/5.7 kW h/kWp/day, 6.07/4.24 kW h/kWp/day and 5.75/3.98 kW h/kWp/day, respectively. The PV module, inverter and overall system efficiency reached; 14.19/11.10%, 95.34/93.94% and 13.53/10.50%, respectively. The experimental results indicate that the performance ratio (PR) varies from 66.66% to 85.93% and the annual average capacity factor was 7.91%.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0196890418306290",
+		"DOI": "10.1016/j.enconman.2018.06.020",
+		"ISSN": "0196-8904",
+		"journalAbbreviation": "Energy Conversion and Management",
+		"language": "en",
+		"author": [
+			{
+				"family": "Necaibia",
+				"given": "Ammar"
+			},
+			{
+				"family": "Bouraiou",
+				"given": "Ahmed"
+			},
+			{
+				"family": "Ziane",
+				"given": "Abderrezzaq"
+			},
+			{
+				"family": "Sahouane",
+				"given": "Nordine"
+			},
+			{
+				"family": "Hassani",
+				"given": "Samir"
+			},
+			{
+				"family": "Mostefaoui",
+				"given": "Mohammed"
+			},
+			{
+				"family": "Dabou",
+				"given": "Rachid"
+			},
+			{
+				"family": "Mouhadjer",
+				"given": "Samir"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/KH64L56N",
+		"type": "webpage",
+		"title": "Importance cleaning of PV modules for grid-connected PV systems in a desert environment - IEEE Conference Publication",
+		"URL": "https://ieeexplore.ieee.org/abstract/document/8370518/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/34PFSIIX",
+		"type": "article-journal",
+		"title": "Effect of sand dust accumulation on photovoltaic performance in the Saharan environment: southern Algeria (Adrar)",
+		"container-title": "Environmental Science and Pollution Research",
+		"page": "259-268",
+		"volume": "26",
+		"issue": "1",
+		"source": "Springer Link",
+		"abstract": "Many climatic conditions have a negative impact on production of photovoltaic (PV) systems, and sand dust could be one of the main reasons of degradation of PV panels. The objective of this study is to investigate the reduction in the electrical performance caused by sandstorm and the accumulation of sand dust on the photovoltaic module surface installed in the Saharan area of south Algeria (Adrar). For this purpose, four PV modules (ISO-100/24) were selected and their current–voltage characteristics were measured to evaluate the sand dust effect on their performances. Our results show that sandstorm and dust accumulation on the surface of the module reduce the performance in terms of energy and power, due to a decrease of the transmittance. Obtained outcomes show that in sandstorm periods, the particle deposition density is much higher. This study reveals that leaving PV module without any cleaning in the Saharan environmental conditions significantly reduces PV power output, in addition to the presence of the shading mismatch effects in case of partial cleaning.",
+		"URL": "https://doi.org/10.1007/s11356-018-3496-7",
+		"DOI": "10.1007/s11356-018-3496-7",
+		"ISSN": "1614-7499",
+		"title-short": "Effect of sand dust accumulation on photovoltaic performance in the Saharan environment",
+		"journalAbbreviation": "Environ Sci Pollut Res",
+		"language": "en",
+		"author": [
+			{
+				"family": "Mostefaoui",
+				"given": "Mohammed"
+			},
+			{
+				"family": "Ziane",
+				"given": "Abderrezzaq"
+			},
+			{
+				"family": "Bouraiou",
+				"given": "Ahmed"
+			},
+			{
+				"family": "Khelifi",
+				"given": "Seyfallah"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/GYQSGTVT",
+		"type": "paper-conference",
+		"title": "Impact of partial shading and PV array power on the performance of grid connected PV station",
+		"container-title": "2017 18th International Conference on Sciences and Techniques of Automatic Control and Computer Engineering (STA)",
+		"page": "476-481",
+		"source": "IEEE Xplore",
+		"event": "2017 18th International Conference on Sciences and Techniques of Automatic Control and Computer Engineering (STA)",
+		"abstract": "In this article, we present the study of the partial shading influence, and the effect of different PV array power on grid-connected photovoltaic stations performance mounted in the desert region of Algeria at the end of the year 2016. To evaluate these effects on PV central performance. we analyzed the measured data, which are derived from monitoring of climate parameters (solar irradiation, ambient temperature) and other electrical parameters (power, energy) during a clear day such as a monitoring period. The analysis of the experimental data shows that the partial shading can be influence on DC/AC output power and DC/AC energy of the grid connected PV system, then it affects the performance parameter such as the efficiencies (PV, inverter and system) of power and energy, the yields (array and final) and the performance ration. While the PV array power that influence on the inverter efficiency, because of the efficacy of maximum power point tracking technique for PV inverter, which is depend of the level DC input power.",
+		"DOI": "10.1109/STA.2017.8314901",
+		"note": "ISSN: 2573-539X",
+		"author": [
+			{
+				"family": "Dabou",
+				"given": "Rachid"
+			},
+			{
+				"family": "Sahouane",
+				"given": "Nordine"
+			},
+			{
+				"family": "Neçaibia",
+				"given": "Ammar"
+			},
+			{
+				"family": "Mostefaoui",
+				"given": "Mohammed"
+			},
+			{
+				"family": "Bouchafaa",
+				"given": "Farid"
+			},
+			{
+				"family": "Rouabhia",
+				"given": "Abdelkrim"
+			},
+			{
+				"family": "Ziane",
+				"given": "Abderrezzaq"
+			},
+			{
+				"family": "Bouraiou",
+				"given": "Ahmed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/CEWDP993",
+		"type": "webpage",
+		"title": "Analysis of Intermediate Band Photovoltaic Solar Cell Based on Zn...: Ingenta Connect",
+		"URL": "https://www.ingentaconnect.com/content/asp/jno/2015/00000010/00000003/art00008",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/3DVLZGXB",
+		"type": "article-journal",
+		"title": "Characterization and comparison between Ig(Vgs) structures HEMT AlInN/GaN and AlGaN/GaN",
+		"container-title": "Optical and Quantum Electronics",
+		"page": "209-219",
+		"volume": "46",
+		"issue": "1",
+		"source": "Springer Link",
+		"abstract": "In this paper, we have studied the Schottky contact of two structures AlInN/GaN and AlGaN/GaN in transistors HEMTs. The current–voltage Igs(Vgs) of AlInN/GaN and AlGaN/GaN structures were investigated at room temperature. The electrical parameters such as ideality factor (2.3 and 1.96), barrier height (0.72 and 0.71 eV) and series resistance (33 and 153 ΩΩ\\Omega ) were evaluated from I–V data. The comparison of the performance of the two structures AlInN/GaN and AlGaN/GaN in transistors HEMTs have been analyzed and discussed.",
+		"URL": "https://doi.org/10.1007/s11082-013-9747-4",
+		"DOI": "10.1007/s11082-013-9747-4",
+		"ISSN": "1572-817X",
+		"journalAbbreviation": "Opt Quant Electron",
+		"language": "en",
+		"author": [
+			{
+				"family": "Benyahya",
+				"given": "N."
+			},
+			{
+				"family": "Mazari",
+				"given": "H."
+			},
+			{
+				"family": "Benseddik",
+				"given": "N."
+			},
+			{
+				"family": "Benamara",
+				"given": "Z."
+			},
+			{
+				"family": "Mostefaoui",
+				"given": "M."
+			},
+			{
+				"family": "Ameur",
+				"given": "K."
+			},
+			{
+				"family": "Khelifi",
+				"given": "R."
+			},
+			{
+				"family": "Bluet",
+				"given": "J. M."
+			},
+			{
+				"family": "Chikhaoui",
+				"given": "W."
+			},
+			{
+				"family": "Bru-Chevallier",
+				"given": "C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/IG75ZBZ8",
+		"type": "webpage",
+		"title": "Realization and modeling of multilayer antireflection coatings for solar cells application - IOPscience",
+		"URL": "https://iopscience.iop.org/article/10.1088/2053-1591/aaca16/meta",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/8X65YNZG",
+		"type": "webpage",
+		"title": "platform.almanhal.com",
+		"URL": "https://platform.almanhal.com/GoogleScholar/Details/?ID=2-60798",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/EV4A3APD",
+		"type": "webpage",
+		"title": "Optimization of two‐dimensional electron gas characteristics of AlGaN/GaN high electron mobility transistors - Douara - 2019 - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields - Wiley Online Library",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jnm.2518",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/WFBEA8VJ",
+		"type": "webpage",
+		"title": "Simulation Analysis of Intermediate Band ZnTeO Based Thin Film So...: Ingenta Connect",
+		"URL": "https://www.ingentaconnect.com/content/asp/jno/2017/00000012/00000005/art00007",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/94PF89G6",
+		"type": "webpage",
+		"title": "Numerical simulation of solar cells based on III–V nitride compounds | SpringerLink",
+		"URL": "https://link.springer.com/article/10.1007/s11082-013-9740-y",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/M2668TW7",
+		"type": "article-journal",
+		"title": "Status of renewable energy potential and utilization in Algeria",
+		"container-title": "Journal of Cleaner Production",
+		"page": "119011",
+		"source": "ScienceDirect",
+		"abstract": "The Algerian economy is strongly dependent on fossil fuels’ market where 93.6% of its exportations are mainly oil and natural gas. During the last decade, the market price of crude oil has fallen down drastically and up to this date its price is still fluctuating which have severely affected the national economy. Consequently, the transition to renewable energy exploitation and technology development became an indispensable objective for the Algerian government. Algeria is planning to shift to the era of green economy which is the unique solution to meet future energy needs and reduce environment-related risks simultaneously. The Algerian territory is characterized by abundant renewable energy resources such as solar, wind, hydro, biomass, and geothermal energy. In this paper, a brief energy profile and renewable energy potential have been reviewed. The present study shows that the installed capacity concerning both photovoltaic and wind power plant; which have reached 354.3 MW (at June 2018), compared to the declared government targets presents slow integration progress of renewable energy compared to the large available renewable energy potential especially solar energy. Despite the considerable efforts made by the Algerian State to face of the challenges of reducing the economic dependency upon hydrocarbon revenues and greenhouse gas emissions (135.5 MT of carbon dioxide emission in 2018). This work provides useful information about the status of renewable energies in Algeria, which is considered as a scientific platform for researchers and industrial companies to seek suitable solutions for promoting the renewable energy field.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0959652619338818",
+		"DOI": "10.1016/j.jclepro.2019.119011",
+		"ISSN": "0959-6526",
+		"journalAbbreviation": "Journal of Cleaner Production",
+		"language": "en",
+		"author": [
+			{
+				"family": "Bouraiou",
+				"given": "Ahmed"
+			},
+			{
+				"family": "Necaibia",
+				"given": "Ammar"
+			},
+			{
+				"family": "Boutasseta",
+				"given": "Nadir"
+			},
+			{
+				"family": "Mekhilef",
+				"given": "Saad"
+			},
+			{
+				"family": "Dabou",
+				"given": "Rachid"
+			},
+			{
+				"family": "Ziane",
+				"given": "Abderrezzaq"
+			},
+			{
+				"family": "Sahouane",
+				"given": "Nordine"
+			},
+			{
+				"family": "Attoui",
+				"given": "Issam"
+			},
+			{
+				"family": "Mostefaoui",
+				"given": "Mohammed"
+			},
+			{
+				"family": "Touaba",
+				"given": "Oussama"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					23
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	}
+]

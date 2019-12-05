@@ -1,0 +1,37 @@
+[
+	{
+		"id": "http://zotero.org/users/local/OiK9Fa9a/items/4KIC6ZJ2",
+		"type": "article-journal",
+		"title": "PBE–DFT theoretical study of organic photovoltaic materials based on thiophene with 1D and 2D periodic boundary conditions",
+		"container-title": "Journal of Experimental and Theoretical Physics",
+		"page": "1015–1026",
+		"volume": "121",
+		"issue": "6",
+		"source": "Google Scholar",
+		"author": [
+			{
+				"family": "Sail",
+				"given": "K."
+			},
+			{
+				"family": "Bassou",
+				"given": "G."
+			},
+			{
+				"family": "Gafour",
+				"given": "M. H."
+			},
+			{
+				"family": "Miloua",
+				"given": "F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	}
+]

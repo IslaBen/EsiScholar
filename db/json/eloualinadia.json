@@ -1,0 +1,237 @@
+[
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/WNJ8VEHD",
+		"type": "paper-conference",
+		"title": "User Time Spent Between Persuasiveness and Usability of Social Networking Mobile Applications: A Case Study of Facebook and YouTube",
+		"container-title": "Proceedings of the 16th International Conference on Advances in Mobile Computing and Multimedia",
+		"publisher": "ACM",
+		"page": "15–24",
+		"source": "Google Scholar",
+		"title-short": "User Time Spent Between Persuasiveness and Usability of Social Networking Mobile Applications",
+		"author": [
+			{
+				"family": "Bedjaoui",
+				"given": "Mohammed"
+			},
+			{
+				"family": "Elouali",
+				"given": "Nadia"
+			},
+			{
+				"family": "Benslimane",
+				"given": "Sidi Mohamed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/5RKBRSIQ",
+		"type": "paper-conference",
+		"title": "Une approche de programmation par démonstration pour l'intégration de la multimodalité sous mobile",
+		"source": "Google Scholar",
+		"author": [
+			{
+				"family": "Bellal",
+				"given": "Zouhir"
+			},
+			{
+				"family": "Elouali",
+				"given": "Nadia"
+			},
+			{
+				"family": "Benslimane",
+				"given": "Sidi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/FVQ9NFTJ",
+		"type": "paper-conference",
+		"title": "A model-based approach for engineering multimodal mobile interactions",
+		"container-title": "Proceedings of the 12th International Conference on Advances in Mobile Computing and Multimedia",
+		"publisher": "ACM",
+		"page": "52–61",
+		"source": "Google Scholar",
+		"author": [
+			{
+				"family": "Elouali",
+				"given": "Nadia"
+			},
+			{
+				"family": "Le Pallec",
+				"given": "Xavier"
+			},
+			{
+				"family": "Rouillard",
+				"given": "José"
+			},
+			{
+				"family": "Tarby",
+				"given": "Jean-Claude"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/5T2JRBC8",
+		"type": "thesis",
+		"title": "Approche à base de modèles pour la construction d’applications mobiles multimodales",
+		"publisher": "Lille 1",
+		"genre": "PhD Thesis",
+		"source": "Google Scholar",
+		"author": [
+			{
+				"family": "Elouali",
+				"given": "Nadia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/NFBXUV83",
+		"type": "paper-conference",
+		"title": "MIMIC: leveraging sensor-based interactions in multimodal mobile applications",
+		"container-title": "CHI'14 Extended Abstracts on Human Factors in Computing Systems",
+		"publisher": "ACM",
+		"page": "2323–2328",
+		"source": "Google Scholar",
+		"title-short": "MIMIC",
+		"author": [
+			{
+				"family": "Elouali",
+				"given": "Nadia"
+			},
+			{
+				"family": "Le Pallec",
+				"given": "Xavier"
+			},
+			{
+				"family": "Rouillard",
+				"given": "José"
+			},
+			{
+				"family": "Tarby",
+				"given": "Jean-Claude"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/34SHXQ5G",
+		"type": "article-journal",
+		"title": "Time Well Spent with multimodal mobile interactions",
+		"container-title": "Journal on Multimodal User Interfaces",
+		"page": "395-404",
+		"volume": "13",
+		"issue": "4",
+		"source": "Springer Link",
+		"abstract": "Mobile users lose a lot of time on their smartphones. They interact even with busy hands (hands-free interactions), distracted eyes (eyes-free interactions) and in different life situations (while walking, eating, working, etc.). The Time Well Spent (TWS) is a movement that aims to design applications which respect the users choices and availability. In this paper, we discuss how the multimodal mobile interactions and the TWS movement can support each other to protect the users time. We start by giving an overview of mobile multimodal interaction and highlighting the TWS concept. Then, we present our vision about applying mobile multimodality as a means to protect the users time. We show that multimodality can support the TWS by encouraging self-restraint, while the TWS supports multimodality by making the interaction modalities meaningful. Finally, we discuss our future works in this context.",
+		"URL": "https://doi.org/10.1007/s12193-019-00310-1",
+		"DOI": "10.1007/s12193-019-00310-1",
+		"ISSN": "1783-8738",
+		"journalAbbreviation": "J Multimodal User Interfaces",
+		"language": "en",
+		"author": [
+			{
+				"family": "Elouali",
+				"given": "Nadia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/XSXZ92BY",
+		"type": "paper-conference",
+		"title": "Using Programming by Demonstration for Multimodality in Mobile-human Interactions",
+		"container-title": "Proceedings of the 29th Conference on L'Interaction Homme-Machine",
+		"collection-title": "IHM '17",
+		"publisher": "ACM",
+		"publisher-place": "New York, NY, USA",
+		"page": "243–251",
+		"source": "ACM Digital Library",
+		"event-place": "New York, NY, USA",
+		"abstract": "The emergence of sensor-based modalites enriches the human-mobile interaction. However, mobile applications end-users are often faced with interaction restrictions and do not yet have the possibility to modify their interaction modalities, according to their needs. In this paper, we present an approach that allows smartphone users to add and modify the interaction modalities of their already installed mobile applications, according to their preferences and needs. The approach is based on a Wrapper that acts as an intermediary between the user and the application and on the Programming By Demonstration (PBD) that allows the user to specify the desired changes.",
+		"URL": "http://doi.acm.org/10.1145/3132129.3132154",
+		"DOI": "10.1145/3132129.3132154",
+		"ISBN": "978-1-4503-5109-6",
+		"note": "event-place: Poitiers, France",
+		"author": [
+			{
+				"family": "Bellal",
+				"given": "Zouhir"
+			},
+			{
+				"family": "Benslimane",
+				"given": "Sidi Mohamed"
+			},
+			{
+				"family": "Elouali",
+				"given": "Nadia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	}
+]

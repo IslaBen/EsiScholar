@@ -1,0 +1,61 @@
+[
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/BE34EMN5",
+		"type": "paper-conference",
+		"title": "Combining Proactive and Reactive Approaches in Smart Services for the Web of Things",
+		"container-title": "Computational Intelligence and Its Applications",
+		"collection-title": "IFIP Advances in Information and Communication Technology",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"page": "509-520",
+		"source": "Springer Link",
+		"event-place": "Cham",
+		"abstract": "The Web of Things (WoT), facilitates the interconnection of different types of real-world objects, integrating them into the virtual world and ensuring their interoperability through Web services. However, it remains a challenge to automate the tasks connected objects need to deal with. In this paper, we focus on the development of smart web services that automate service tasks, autonomously adapt to context changes in the object’s environment, and to users’ preferences. In this article, we propose a software framework for smart services that relies on a reactive and proactive approach to deal with context and its temporal aspects. Smart web services developed according to these principles can react to current situations and proactively anticipate an unforeseen situation in order to take the right decision.",
+		"DOI": "10.1007/978-3-319-89743-1_44",
+		"ISBN": "978-3-319-89743-1",
+		"language": "en",
+		"author": [
+			{
+				"family": "Sekkal",
+				"given": "Nawel"
+			},
+			{
+				"family": "Benslimane",
+				"given": "Sidi Mohamed"
+			},
+			{
+				"family": "Mrissa",
+				"given": "Michael"
+			},
+			{
+				"family": "Boudaa",
+				"given": "Boudjemaa"
+			}
+		],
+		"editor": [
+			{
+				"family": "Amine",
+				"given": "Abdelmalek"
+			},
+			{
+				"family": "Mouhoub",
+				"given": "Malek"
+			},
+			{
+				"family": "Ait Mohamed",
+				"given": "Otmane"
+			},
+			{
+				"family": "Djebbar",
+				"given": "Bachir"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	}
+]

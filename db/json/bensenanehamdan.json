@@ -1,0 +1,120 @@
+[
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/GRP8LEDB",
+		"type": "article-journal",
+		"title": "Face recognition using Angular Radial Transform",
+		"container-title": "Journal of King Saud University - Computer and Information Sciences",
+		"page": "141-151",
+		"volume": "30",
+		"issue": "2",
+		"abstract": "Moment-based Angular Radial Transform, Legendre moment invariants and Zernike moments are a family of orthogonal functions which allow the generation of non-redundant descriptors by the projection of an image onto an orthogonal basis. These descriptors can be used for classification, such as in face recognition. Zernike moments and Legendre moments have already been used for this purpose. This paper proposes to use moment-based Angular Radial Transform for extracting the face characteristics that feed a Support Vector Machine or a Nearest Neighbor Classifier for face recognition. Facial images from the ORL database, Essex Faces94 database, Essex Faces96 database, and Yale database were used for testing the proposed approach. The experimental results obtained show that the proposed method is more efficient, in terms of recognition rate, than the methods based on Zernike and Legendre moments. It is also found that its performance is comparable to that of the best state-of-the-arts methods.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S131915781630129X",
+		"DOI": "10.1016/j.jksuci.2016.10.006",
+		"ISSN": "1319-1578",
+		"journalAbbreviation": "Journal of King Saud University - Computer and Information Sciences",
+		"author": [
+			{
+				"family": "Hamdan",
+				"given": "Bensenane"
+			},
+			{
+				"family": "Mokhtar",
+				"given": "Keche"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					4,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/V4JEDXNX",
+		"type": "article-journal",
+		"title": "The detection of spoofing by 3D mask in a 2D identity recognition system",
+		"container-title": "Egyptian Informatics Journal",
+		"page": "75-82",
+		"volume": "19",
+		"issue": "2",
+		"abstract": "Nowadays face recognition systems are facing a new problem after having won the challenge of reliability. The problem is that these systems have become vulnerable to attacks by identity theft. In order to deceive the recognition systems hackers use several methods, such as the use of face images or videos of people belonging to the system database. Luckily, this type of attack is thwarted by the use of adapted systems. But unfortunately another type of attack that uses 3D face masks appeared. This type of attack is very efficient, since as will be shown, a high percentage of hackers who use 3D masks can mislead a good facial recognition system, like the one used in our investigation. In this paper, a new method is proposed for the detection of hackers that use 3D masks to deceive face recognition systems. This method uses the Angular Radial Transformation (ART) to extract pertinent features that are fed into a classifier to decide whether the captured image represents a face image. The performance of the proposed method was evaluated using a public 3D Mask Attack Database (3DMAD). The obtained results show the efficiency of the proposed method, since it can reduce the error rate in discriminating between a real face and a face mask down to 0.90%.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S1110866517303067",
+		"DOI": "10.1016/j.eij.2017.10.001",
+		"ISSN": "1110-8665",
+		"journalAbbreviation": "Egyptian Informatics Journal",
+		"author": [
+			{
+				"family": "Hamdan",
+				"given": "Bensenane"
+			},
+			{
+				"family": "Mokhtar",
+				"given": "Keche"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/PA5AGV9D",
+		"type": "article-journal",
+		"title": "A new method for 3D maskdetection in face recognition systems",
+		"page": "4",
+		"source": "Zotero",
+		"abstract": "In this article, we propose a method forthe detection of hackers who try todeceive face recognition systems,by using 3D masks of people belonging to the system database.We first test the robustness of a well-established recognition method to attacks by 3D masks, using 3DMAD database which consists of real faces and faces with 3D masks.A recognition system essentially consists of two steps, the characteristic extraction step and the classification step.The method used for the extraction of characteristics is the polynomial decomposition,that yields the Legendre Moment Invariants (LMI), and the classifier is the wellknown Support Vector Machines classifier.The obtained results prove that facial recognition systems can easily be deceived by 3D masks.To solve this fatal problem, a verification step, posterior to the recognition stepis proposed to reject fake faces.In this step, the Legendre moments invariantsare combined withthe Linear Discriminant Analysis (LDA). This allowed us to reducethe error rate in discriminating between a real face and a face mask toapproximately 0.90%.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Hamdan",
+				"given": "Bensenane"
+			},
+			{
+				"family": "Mokhtar",
+				"given": "Keche"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/HZB6AGVZ",
+		"type": "article-journal",
+		"title": "A self-immune to 3D masks attacks face recognition system",
+		"container-title": "Signal, Image and Video Processing",
+		"page": "1053-1060",
+		"volume": "12",
+		"issue": "6",
+		"abstract": "Due to their advantages, facial recognition systems are among the most widely used biometric systems in recent years. However, their drawback is that they can easily be deceived by using 3D masks, which are replicas of real faces. To confirm this fact, we have tested the vulnerability to 3D masks attacks of the already approved Legendre moments invariants (LMI)-based face recognition method. This has been achieved by using the 3D mask attack database (3DMAD), which consists of real faces and faces with 3D masks. The obtained spoof false acceptance rate (SFAR) was close to 65%, which proves that this recognition system is vulnerable to 3D masks attacks. This is generally the case of other face recognition systems, with no anti-spoofing provision. In this paper, a face recognition method is proposed to prevent hackers from deceiving face recognition systems by using 3D masks of people belonging to the system database. This method combines the LMI and the linear discriminant analysis for characteristic features extraction, and the maximum likelihood for classification. With a 97.6% recognition rate and a SFAR equal to 0.83%, the results obtained may be considered as very satisfactory. These results, while obtained with a lower computational time, compare favorably with those of the state-of-the-art method that uses the same 3DMAD database.",
+		"URL": "https://doi.org/10.1007/s11760-018-1253-5",
+		"DOI": "10.1007/s11760-018-1253-5",
+		"ISSN": "1863-1711",
+		"journalAbbreviation": "Signal, Image and Video Processing",
+		"author": [
+			{
+				"family": "Hamdan",
+				"given": "Bensenane"
+			},
+			{
+				"family": "Mokhtar",
+				"given": "Keche"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					1
+				]
+			]
+		}
+	}
+]

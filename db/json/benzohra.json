@@ -1,0 +1,64 @@
+[
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/CZK7YWCB",
+		"type": "article-journal",
+		"title": "Integrating environmental criteria in urban waste treatment",
+		"container-title": "Environnement, Risques et Sante",
+		"page": "49-56",
+		"volume": "17",
+		"source": "ResearchGate",
+		"abstract": "The urbanization of Algeria and the new consumer habits of its cities' inhabitants generate large quantities of waste. Despite the many programs put in place, this waste potential is often managed unproductively. In the absence of an effective strategy and the necessary budget, waste treatment in most Algerian municipalities ignores environmental problems and leads to public health problems. This article therefore proposes a decision-making tool for the treatment of urban waste taking into account environmental criteria. The adopted approach consists in classifying five candidate management programs: the current program (1), selective sorting by the population (2), selective sorting by dedicated operators (3), the current program, improved by a deposit system for plastic bottles (4), and incineration and sorting of heavy metals (5). Four environmental criteria were identified: the first, an increased percentage of waste recovery, and the other three, decreases in visual pollution, toxic pollution and noise pollution. The classification approach, based on a multicriteria analysis, was applied to a city in western Algeria. After a sensitivity study, the final classification identified the second plan, (selective sorting at the source) as the dominant plan. Plans 3 and 5 both ranked second. The current management programs, 4 and 1, were in last place, and thus proved inadequate with regard to environmental criteria. They should be abandoned in favor of a strategy involving the population, with increased awareness of health impacts.",
+		"DOI": "10.1684/ers.2017.1122",
+		"journalAbbreviation": "Environnement, Risques et Sante",
+		"author": [
+			{
+				"family": "Noureddine",
+				"given": "Myriam"
+			},
+			{
+				"family": "Benzohra",
+				"given": "Abdelkader"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/775T8GZF",
+		"type": "article-journal",
+		"title": "Multi-criteria approach for strategic planning of reverse supply chain",
+		"container-title": "Decision Science Letters",
+		"page": "107-116",
+		"volume": "6",
+		"source": "ResearchGate",
+		"abstract": "A reverse supply chain is viewed as a process from consumption point to recovery point and the management of domestic waste is considered as a specific and complex reverse supply chain. This important sector represents a high challenging problem for our cities,constrained by financial,social,health and environmental considerations. This paper proposes multicriteria decision aid to help choose an efficient domestic waste management strategy. In fact,Multicriteria decision making techniques are considered as a key option to solve this type of problems,giving a solution that represents a good compromise between different preferences. The adopted approach consists in outranking a set of candidate management plans using a method based on partial aggregation criteria. This model is applied on a real case study of an Algerian city and to validate the obtained results,a deep sensitivity analysis is carried out,giving the most appropriate plans.",
+		"DOI": "10.5267/j.dsl.2016.11.003",
+		"journalAbbreviation": "Decision Science Letters",
+		"author": [
+			{
+				"family": "Benzohra",
+				"given": "Abdelkader"
+			},
+			{
+				"family": "Noureddine",
+				"given": "Myriam"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					4,
+					1
+				]
+			]
+		}
+	}
+]

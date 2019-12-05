@@ -1,0 +1,165 @@
+[
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/AWYE62BV",
+		"type": "article-journal",
+		"title": "An image encryption scheme combining chaos-memory cellular automata and weighted histogram",
+		"container-title": "Nonlinear Dynamics",
+		"page": "639-653",
+		"volume": "86",
+		"issue": "1",
+		"abstract": "This paper presents a new symmetric scheme for enciphering digital images. The proposal is based on the combination of chaos and cellular automata (CA) under the scenarios of one round enciphering/deciphering and permutation–diffusion architecture. All the generated key-streams in the proposed cryptosystem are based on the use of an improved one-dimensional (1D) chaotic system [i.e., logistic–tent system (LTS)] with excellent chaotic properties. These key-streams are related to both the secret key and the characteristics of the plain image. Before applying the encryption process, one pixel of the plain image at a random position is overwritten by inserting the weighted histogram value as a new measure to represent the plain image’s features, this pixel withholds the encryption routine and further will be used to guarantee the resistance to known/chosen plain image attacks (CPA secure). In the confusion phase, a bit-level permutation is adopted with the generated one-time key-streams using an improved 1D chaotic system. This strategy of shuffling is handled in which besides to the modification of each pixel’s position, its value is also changed, to further render the achievement of both confusion and diffusion possible within just this phase. The diffusion phase is divided into two subphases: In the first one, the value of each pixel is changed sequentially by means of an improved one-dimensional chaotic system, to fasten the diffusion process and spread the influence of a single bit over the others, and in the second subphase, two-dimensional reversible memory cellular automata are associated with quadtree decomposition strategy and applied to the output of the first subphase, to enhance both the security and the diffusion effect of the cryptosystem. Security analysis shows the capacity of the proposed scheme to resist the commonly known attacks besides to its competitive speed that traces its suitability for practical image encryption.",
+		"URL": "https://doi.org/10.1007/s11071-016-2912-0",
+		"DOI": "10.1007/s11071-016-2912-0",
+		"ISSN": "1573-269X",
+		"journalAbbreviation": "Nonlinear Dynamics",
+		"author": [
+			{
+				"family": "Souyah",
+				"given": "Amina"
+			},
+			{
+				"family": "Faraoun",
+				"given": "Kamel Mohamed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/D2RVE6M8",
+		"type": "article-journal",
+		"title": "Fast and efficient randomized encryption scheme for digital images based on Quadtree decomposition and reversible memory cellular automata",
+		"container-title": "Nonlinear Dynamics",
+		"page": "715-732",
+		"volume": "84",
+		"issue": "2",
+		"abstract": "In recent years, the efficiency of cellular automata-based image cryptosystems has drawn a great interest to deal with the problematic of fast and highly secure image encryption. In this paper, we present a novel image encryption scheme that combines image’s quadtree decomposition approach with reversible memory cellular automata mechanism. The proposed scheme provides high sensitivity to plain image, key bit alteration besides its competitive speed performance. With respect to exiting schemes, the proposed one permits to reach high sensitivity degrees without the need for multiple confusion/diffusion rounds. Additionally, the scheme is extended to handle randomized encryption mode, so becomes secure against chosen-plaintext attacks. Experimental tests and extensive security analysis have been performed to demonstrate security and time efficiency of the proposed scheme, and show its suitability for designing real-time and secure image’s cryptosystems.",
+		"URL": "https://doi.org/10.1007/s11071-015-2521-3",
+		"DOI": "10.1007/s11071-015-2521-3",
+		"ISSN": "1573-269X",
+		"journalAbbreviation": "Nonlinear Dynamics",
+		"author": [
+			{
+				"family": "Souyah",
+				"given": "Amina"
+			},
+			{
+				"family": "Faraoun",
+				"given": "Kamel Mohamed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					4,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/AUR2LLG8",
+		"type": "article-journal",
+		"title": "An efficient and secure chaotic cipher algorithm for image content preservation",
+		"container-title": "Communications in Nonlinear Science and Numerical Simulation",
+		"page": "12-32",
+		"volume": "60",
+		"abstract": "This paper proposes a new chaotic cipher algorithm for efficient and secure image content preservation, this method is specialized for both standard and medical images, and it consists of two modules which are iteratively performed: chaotic confusion and pixel diffusion. An improved 1D chaotic system (i.e., Logistic Tent System (LTS)) is employed in both confusion and diffusion modules, where its initial conditions are dynamically generated and controlled by the external secret key and SHA-256 hash value of the plain image, conducted to random-like generating key-streams, elevated the sensitivity to small changes on the plain image, and hence ensured the immunity of the proposal against known/chosen plain image attacks. The confusion module is governed by a novel nonlinear bit-shuffling and circular-shifting technique, aiming to achieve bit balancing effect, mixing effect of the pixel value, and certain diffusion mechanism. The diffusion module is ruled by means of an improved XOR operation (eXOR), to further promote the sensitivity to plain image, and accelerate the diffusion mechanism of the overall cipher algorithm. Given that the diffusion mechanism with respect to pixel value mixing are contributed by the two modules, only one encryption round is needed to make a good combination between computational performance, and sufficient security. The obtained results indicate the high performance in terms of execution-time and security level of the proposed cipher algorithm, and validate its robustness against cryptographic attacks, and hence confirm its efficiency for real-time secure image transmission.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S1007570417304392",
+		"DOI": "10.1016/j.cnsns.2017.12.017",
+		"ISSN": "1007-5704",
+		"journalAbbreviation": "Communications in Nonlinear Science and Numerical Simulation",
+		"author": [
+			{
+				"family": "Amina",
+				"given": "Souyah"
+			},
+			{
+				"family": "Mohamed",
+				"given": "Faraoun Kamel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/53A4C2AA",
+		"type": "paper-conference",
+		"title": "A Review on Different Image Encryption Approaches",
+		"container-title": "Modelling and Implementation of Complex Systems",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"page": "3-18",
+		"event-place": "Cham",
+		"abstract": "The design of image encryption schemes that make a good compromise between sufficient level of security and execution time is one of the main directions of research, due to their ever-increasing use in real-time Internet image encryption and transmission applications. For such task, a variety of mathematical and biological strategies are investigated in the literature as chaos theory, cellular automata and DNA computing. The intend of this paper is to present a complete study of some recent and prevalent proposed works in the literature, this study covers the analysis of each work by giving its advantages and limitations in terms of security level and execution time. We believe that our study within this contribution will help in the design of new secure crypto-systems for image encryption.",
+		"ISBN": "978-3-319-33410-3",
+		"author": [
+			{
+				"family": "Souyah",
+				"given": "Amina"
+			},
+			{
+				"family": "Faraoun",
+				"given": "Kamel Mohamed"
+			}
+		],
+		"editor": [
+			{
+				"family": "Chikhi",
+				"given": "Salim"
+			},
+			{
+				"family": "Amine",
+				"given": "Abdelmalek"
+			},
+			{
+				"family": "Chaoui",
+				"given": "Allaoua"
+			},
+			{
+				"family": "Kholladi",
+				"given": "Mohamed Khireddine"
+			},
+			{
+				"family": "Saidouni",
+				"given": "Djamel Eddine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/N4ZQ8A62",
+		"type": "article-journal",
+		"title": "SECURITY OF DIGITAL IMAGES USING DYNAMICAL SYSTEMS",
+		"page": "151",
+		"source": "Zotero",
+		"language": "en",
+		"author": [
+			{
+				"family": "Souyah",
+				"given": "Amina"
+			}
+		]
+	}
+]

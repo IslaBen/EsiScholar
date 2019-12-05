@@ -1,0 +1,39 @@
+[
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/6Q6MCPAY",
+		"type": "webpage",
+		"title": "Integrated solid-state optoelectronic sensor system for biochemical detection and quantification | Request PDF",
+		"URL": "https://www.researchgate.net/publication/4307404_Integrated_solid-state_optoelectronic_sensor_system_for_biochemical_detection_and_quantification",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/NWHUE9QU",
+		"type": "article-journal",
+		"title": "Approche neuro-mimétique au service du dépistage du cancer du sein",
+		"source": "ResearchGate",
+		"abstract": "Les méthodes de classification automatiques sont un outil important de nos jours pour identifier différentes données et étudier leurs propriétés. On retrouve aujourd'hui l'utilisation des réseaux de neurones en tant que classifieurs dans plusieurs domaines d'application, notamment, le dépistage du cancer du sein. En effet, dans cet axe de recherche, beaucoup de travaux ont été réalisés en employant une approche neuronale pour la reconnaissance de formes et ont abouti à des résultats intéressants. Ceci étant, chaque modèle de réseau de neurones diffère d'un autre de par ses paramètres expérimentaux, sa complexité d'implantation et son domaine d'applicabilité. Ainsi, chaque modèle possède ses avantages et ses inconvénients, faisant qu'il soit plus approprié pour une tâche donnée qu'un autre. Dans (Freeman 1987, Freeman et al., 1988) des expérimentations electrophysiologiques ont été réalisées sur des lapins prouvant l'existence de la dynamique chaotique dans les neurones réels. Depuis les années quatre-vingts, les réseaux de neurones chaotiques ont été le centre d'intérêt de plusieurs travaux en raison de leur dynamique complexe et leur application potentielle dans la dynamique associative, l'optimisation, et le traitement de l'information (Adachi et Aihara, 1997 ; Aihara et al., 1990 ; Tokuda et al., 1997). Dans cette optique, on s'intéresse dans ce travail à étudier la performance d'un modèle de réseau de neurones chaotique sur une tâche de classification reliée à la détection du cancer du sein. À cet effet, on procède dans un premier temps à la revue critique de certains travaux portant sur le sujet et qui ont été rapportés dans la littérature, de manière à situer le travail par rapport à ces travaux et mettre en évidence les contributions qu'il permet. Une étude comparative est ensuite établie où l'on met en avant les avantages d'utiliser une mémoire associative bidirectionnelle chaotique pour le travail de classification, relativement à deux modèles de réseau de neurones classiques, à savoir, une mémoire associative bidirectionnelle standard et un réseau multicouche à rétropropagation d'erreur.",
+		"author": [
+			{
+				"family": "Naoum",
+				"given": "Hanae"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	}
+]

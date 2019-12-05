@@ -1,0 +1,143 @@
+[
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/DSMYSZCW",
+		"type": "thesis",
+		"title": "تقييم أداء المؤسسة الإقتصادية من منظور خلق القيمة",
+		"genre": "Thesis",
+		"source": "rdoc.univ-sba.dz",
+		"abstract": "تختلف مؤشرات قياس الأداء في المؤسسات الاقتصادية باختلاف توجه فكرها التسييري، إلا أنها في مجملها تهدف إلى تقييم أداء هذه المؤسسات و تحسينه من خلال الوقوف عند مستواه. من بين أهم هذه المؤشرات تلك المبنية على خلق القيمة، فباعتبار أن هدف أي مؤسسة اقتصادية هو ضمان استمراريتها في محيط تغلب عليه التغيرات و الحدة التنافسية فإنها تسعى دائما للبحث عن المصادر الكفيلة بخلق القيمة و التي تمكنها من اتباع استراتيجية لقياس الأداء بشفافية. و لأن مؤشرات قياس الأداء المالية تعالج الأداء الماضي و الحالي للمؤسسة إضافة لكونها أضحت عائقا أمام قدرة المؤسسة على خلق قيمة اقتصادية على المدى الطويل اتجهت هذه الأخيرة إلى تطوير نظم و مؤشرات أداء استراتيجية تتوجه للمستقبل و تأخذ بعين الاعتبار العملاء، تحفيز الموظفين و ضمان التزامهم، و الحاجة للابتكار المستمر.",
+		"URL": "http://rdoc.univ-sba.dz:8080/jspui/handle/123456789/864",
+		"language": "other",
+		"author": [
+			{
+				"family": "Youcefi",
+				"given": "Samia"
+			},
+			{
+				"family": "Bensaid",
+				"given": "Mohamed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					6,
+					25
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/HV433NRM",
+		"type": "paper-conference",
+		"title": "Impulsive differential inclusions on an unbounded domain",
+		"container-title": "2015 3rd International Conference on Control, Engineering Information Technology (CEIT)",
+		"page": "1-7",
+		"source": "IEEE Xplore",
+		"event": "2015 3rd International Conference on Control, Engineering Information Technology (CEIT)",
+		"abstract": "In this paper, we provide sufficient conditions for the existence of solutions of second order differential inclusions with initial conditions. Our results are obtained via application of the multi-valued version of Krasnoelskii type for the sum B+G; where B is linear or nonlinear operator and G is multi-valued operator.",
+		"DOI": "10.1109/CEIT.2015.7233067",
+		"author": [
+			{
+				"family": "Youcefi",
+				"given": "Samia"
+			},
+			{
+				"family": "Ouahab",
+				"given": "Abdelghani"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/DE8L8HYU",
+		"type": "article-journal",
+		"title": "Higher Order Boundary Value Problem for Impulsive Diﬀerential Inclusions",
+		"page": "26",
+		"source": "Zotero",
+		"language": "en",
+		"author": [
+			{
+				"family": "Henderson",
+				"given": "Johnny"
+			},
+			{
+				"family": "Ouahab",
+				"given": "Abdelghani"
+			},
+			{
+				"family": "Youceﬁ",
+				"given": "Samia"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/TV2KNESI",
+		"type": "article",
+		"title": "Youcefi_Samia.pdf",
+		"URL": "http://rdoc.univ-sba.dz/bitstream/123456789/965/1/Youcefi_Samia.pdf",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/BTNRVV4H",
+		"type": "article-journal",
+		"title": "EXISTENCE AND TOPOLOGICAL STRUCTURE OF SOLUTION SETS FOR φ-LAPLACIAN IMPULSIVE DIFFERENTIAL EQUATIONS",
+		"page": "16",
+		"source": "Zotero",
+		"abstract": "In this article, we present results on the existence and the topological structure of the solution set for initial-value problems for the ﬁrst-order impulsive diﬀerential equation (φ(y )) = f (t, y(t)), a.e. t ∈ [0, b], y(tk+) − y(tk−) = Ik(y(t−k )), k = 1, . . . , m, y (tk+) − y (t−k ) = I¯k(y (tk−)), k = 1, . . . , m, y(0) = A, y (0) = B, where 0 = t0 < t1 < · · · < tm < tm+1 = b, m ∈ N. The functions Ik, I¯k characterize the jump in the solutions at impulse points tk, k = 1, . . . , m. For the ﬁnal result of the paper, the hypotheses are modiﬁed so that the nonlinearity f depends on y , but the impulsive conditions and initial conditions remain the same.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Henderson",
+				"given": "Johnny"
+			},
+			{
+				"family": "Ouahab",
+				"given": "Abdelghani"
+			},
+			{
+				"family": "Youcefi",
+				"given": "Samia"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/34JIKUJY",
+		"type": "article-journal",
+		"title": "SECURITY OF DIGITAL IMAGES USING DYNAMICAL SYSTEMS",
+		"page": "151",
+		"source": "Zotero",
+		"language": "en",
+		"author": [
+			{
+				"family": "Souyah",
+				"given": "Amina"
+			}
+		]
+	}
+]

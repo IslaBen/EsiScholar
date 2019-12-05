@@ -1,0 +1,280 @@
+[
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/FU4H5DR6",
+		"type": "paper-conference",
+		"title": "Toward Multi Criteria Optimization of Business Processes Design",
+		"container-title": "Model and Data Engineering",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"page": "98-107",
+		"event-place": "Cham",
+		"abstract": "In enterprise, optimization is seen as making business decisions by varying some parameters to maximize profit and reduce loss. We focus on business processes design optimization. It is known as the problem of creating feasible business processes while optimizing their criteria such as resource cost and execution time. In this paper, we propose an approach that focuses on tasks composing a business process, their resources and attributes rather than a full representation of a business process for its evaluation according to certain criteria. The main contribution of this work is a framework capable of (i) generating business processes using an enhanced version of evolutionary algorithm NSGAII. (ii) Verifying the feasibility of each business process created using an effective algorithm. At last, (iii) selecting Pareto optimal solutions in a multi criteria optimization environment up to three criteria, using an effectual fitness function. The experimental results showed that our proposal generates efficient business processes in terms of qualitative parameters compared with existing solutions.",
+		"ISBN": "978-3-319-45547-1",
+		"author": [
+			{
+				"family": "Mahammed",
+				"given": "Nadir"
+			},
+			{
+				"family": "Benslimane",
+				"given": "Sidi Mohamed"
+			}
+		],
+		"editor": [
+			{
+				"family": "Bellatreche",
+				"given": "Ladjel"
+			},
+			{
+				"family": "Pastor",
+				"given": "Óscar"
+			},
+			{
+				"family": "Almendros Jiménez",
+				"given": "Jesús M."
+			},
+			{
+				"family": "Aït-Ameur",
+				"given": "Yamine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/MWCG67D8",
+		"type": "article-journal",
+		"title": "An Evolutionary Algorithm Based Approach for Business Process Multi-Criteria Optimization:",
+		"container-title": "International Journal of Organizational and Collective Intelligence",
+		"page": "34-53",
+		"volume": "7",
+		"issue": "2",
+		"source": "DOI.org (Crossref)",
+		"abstract": "Business processes design optimization is known as the problem of creating feasible business processes while optimizing their criteria such as resource cost and execution time. In this paper, the authors propose an evolutionary multi-criteria approach based on a modified evolutionary algorithm for generating optimized business processes. The main contribution of this work is a framework capable of (i) generating business processes using an enhanced version of evolutionary algorithm NSGAII, (ii) verifying the feasibility of each business process created employing an effective algorithm, and (iii) selecting Pareto optimal solutions in a multi criteria optimization environment up to three criteria, with use of an effectual fitness function. The experimental results showed that the authors’ proposal generates efficient business processes with high quality in terms of qualitative parameters compared with existing solutions.",
+		"URL": "http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/IJOCI.2017040103",
+		"DOI": "10.4018/IJOCI.2017040103",
+		"ISSN": "1947-9344, 1947-9352",
+		"title-short": "An Evolutionary Algorithm Based Approach for Business Process Multi-Criteria Optimization",
+		"language": "en",
+		"author": [
+			{
+				"family": "Mahammed",
+				"given": "Nadir"
+			},
+			{
+				"family": "Benslimane",
+				"given": "Sidi Mohamed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					4
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/96J5R38Y",
+		"type": "article",
+		"title": "D_Inf_MAHAMMED_Bachir_Nadir.pdf",
+		"URL": "http://rdoc.univ-sba.dz/bitstream/123456789/2225/1/D_Inf_MAHAMMED_Bachir_Nadir.pdf",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/SZQQ7E3X",
+		"type": "webpage",
+		"title": "Dspace de universite Djillali Liabes de SBA: Contribution à l’amélioration des processus métier, en entreprise.",
+		"URL": "http://rdoc.univ-sba.dz/handle/123456789/2225",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/XRLWFYKR",
+		"type": "article-journal",
+		"title": "An Approach to Addressing a Business Process Multi-Objective Optimization Issue with MA-NSGAII",
+		"page": "4",
+		"source": "Zotero",
+		"abstract": "This article covers an evolutionary multi-objective optimization issue, which refers to utilize evolutionary algorithms to solve problem with (at least) two objectives. Using as a Framework, we present an approach for an evolutionary combinatorial multi-objective optimization of business process designs using a variation of NSGAII. We discuss an optimization Framework that uses (i) a proposal of effective Fitness function, (ii) two criteria to be optimized and (iii) an original selection technique. We test the proposed Framework with a real life case of multi-objective optimization of business process designs. The results obtained clearly indicate that an effectual Fitness function combined with the appropriate selection operator greatly affects quality and quantity of solutions.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Mahammed",
+				"given": "Nadir"
+			},
+			{
+				"family": "Benslimane",
+				"given": "Sidi Mohamed"
+			},
+			{
+				"family": "Hamdani",
+				"given": "Nesrine"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/JQPE4VVE",
+		"type": "paper-conference",
+		"title": "Evolutionary Multi-objective Optimization of Business Process Designs with MA-NSGAII",
+		"container-title": "Computational Intelligence and Its Applications",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"page": "341–351",
+		"event-place": "Cham",
+		"abstract": "Optimization is known as the process of finding the best possible solution to a problem given a set of constraints. The problem becomes challenging when dealing with conflicting objectives, which leads to a multiplicity of solutions. Evolutionary algorithms, which use a population approach in their search procedures, are advised to suitably solve the problem. In this article, we present an approach for an evolutionary combinatorial multi-objective optimization of business process designs using a variation of NSGAII, baptized MA-NSGAII. The variants of NSGAII are numerous. In fact, the vast majority deals either with the crossover operator or with the crowding distance. We discuss an optimization Framework that uses (i) a proposal of effective Fitness function, (ii) 02 contradictory criteria to optimize and (iii) an original selection technique. We test the proposed Framework with a real life case of multi-objective optimization of business process designs. The obtained results clearly indicate that an effectual Fitness function combined with the appropriate selection operator affects undeniably quality and quantity of solutions.",
+		"ISBN": "978-3-319-89743-1",
+		"author": [
+			{
+				"family": "Mahammed",
+				"given": "Nadir"
+			},
+			{
+				"family": "Benslimane",
+				"given": "Sidi Mohamed"
+			},
+			{
+				"family": "Hamdani",
+				"given": "Nesrine"
+			}
+		],
+		"editor": [
+			{
+				"family": "Amine",
+				"given": "Abdelmalek"
+			},
+			{
+				"family": "Mouhoub",
+				"given": "Malek"
+			},
+			{
+				"family": "Ait Mohamed",
+				"given": "Otmane"
+			},
+			{
+				"family": "Djebbar",
+				"given": "Bachir"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/FPQNTKPY",
+		"type": "paper-conference",
+		"title": "Evolutionary Multi Optimization Business Process Designs Using MR-Sort NSGAII",
+		"container-title": "Mobile, Secure, and Programmable Networking",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"page": "24-31",
+		"event-place": "Cham",
+		"abstract": "In this paper, a research was carried out on the problem of evolutionary multi objective business process optimization. It does involve (i) to construct feasible business process designs with optimum attributes, and (ii) to classify the obtained solutions using a simple and scientific approach understandable by the decision maker. The business process evolutionary multi objective optimization (BPMOO) approach involves the generation of a series of diverse optimized business process designs for the same process requirements using an evolutionary algorithm (EA). The work presented in this paper is aimed to investigate the benefits that come from the utilization of multiple-criteria decision analysis methods (MCDA) with an evolutionary multi objective optimization algorithms (EMOA) execution process. The experimental results clearly bring that the proposed optimization Framework is capable of producing an acceptable number of optimized design alternatives to simplify the decision maker’s choice of solutions in a reasonable runtime.",
+		"ISBN": "978-3-030-03101-5",
+		"author": [
+			{
+				"family": "Mahammed",
+				"given": "Nadir"
+			},
+			{
+				"family": "Benslimane",
+				"given": "Sidi Mohamed"
+			},
+			{
+				"family": "Ouldkradda",
+				"given": "Ali"
+			},
+			{
+				"family": "Fahsi",
+				"given": "Mahmoud"
+			}
+		],
+		"editor": [
+			{
+				"family": "Renault",
+				"given": "Éric"
+			},
+			{
+				"family": "Boumerdassi",
+				"given": "Selma"
+			},
+			{
+				"family": "Bouzefrane",
+				"given": "Samia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/C78CUPYZ",
+		"type": "paper-conference",
+		"title": "Evolutionary Business Process Optimization using a Multiple-Criteria Decision Analysis method",
+		"container-title": "2018 International Conference on Computer, Information and Telecommunication Systems (CITS)",
+		"page": "1-5",
+		"event": "2018 International Conference on Computer, Information and Telecommunication Systems (CITS)",
+		"abstract": "In this article, a research was conducted on the importance of the initialization of population on the solutions resulting from an evolutionary multi-objective optimization (EMOO). This means how the technique applied in the population's initialization can affect -supposed- optimized solutions after a certain number of iterations in a multi-objective optimization using evolutionary algorithms (EAs). Knowing that Pareto front is the ideal to reach, the presented work propose to utilize a Multiple-Criteria Decision Analysis method (MCDA) to sort or classify the initial population. To achieve this goal, an EMOO Framework is implemented which uses (i) conflicting optimization criteria, (ii) NSGAII as an EA and (iii) MR-sort method is used as a MCDA for classification. The experiments results clearly indicate that the proposed Framework is capable of producing an acceptable number of optimized design alternatives regarding the problem complexity and in a reasonable period.",
+		"DOI": "10.1109/CITS.2018.8440166",
+		"author": [
+			{
+				"literal": "N. Mahammed"
+			},
+			{
+				"literal": "S. M. Benslimane"
+			},
+			{
+				"literal": "A. Ouldkradda"
+			},
+			{
+				"literal": "M. Fahsi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					11
+				]
+			]
+		}
+	}
+]

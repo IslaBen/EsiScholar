@@ -1,0 +1,325 @@
+[
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/556VYN8F",
+		"type": "article-journal",
+		"title": "A Novel Bat Algorithm for Line-of-Sight Localization in Internet of Things and Wireless Sensor Network",
+		"container-title": "Machine Learning and Cognitive Science Applications in Cyber Security",
+		"page": "213-239",
+		"source": "www.igi-global.com",
+		"abstract": "A Novel Bat Algorithm for Line-of-Sight Localization in Internet of Things and Wireless Sensor Network: 10.4018/978-1-5225-8100-0.ch009: WSNs have recently been extensively investigated due to their numerous applications where processes have to be spread over a large area. One of the important",
+		"URL": "https://www.igi-global.com/chapter/a-novel-bat-algorithm-for-line-of-sight-localization-in-internet-of-things-and-wireless-sensor-network/227583",
+		"DOI": "10.4018/978-1-5225-8100-0.ch009",
+		"language": "en",
+		"author": [
+			{
+				"family": "Miloud",
+				"given": "Mihoubi"
+			},
+			{
+				"family": "Abdellatif",
+				"given": "Rahmoun"
+			},
+			{
+				"family": "Lorenz",
+				"given": "Pascal"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/TDN38QSP",
+		"type": "article-journal",
+		"title": "Moth Flame Optimization Algorithm Range-Based for Node Localization Challenge in Decentralized Wireless Sensor Network",
+		"container-title": "International Journal of Distributed Systems and Technologies (IJDST)",
+		"page": "82-109",
+		"volume": "10",
+		"issue": "1",
+		"source": "www.igi-global.com",
+		"abstract": "Moth Flame Optimization Algorithm Range-Based for Node Localization Challenge in Decentralized Wireless Sensor Network: 10.4018/IJDST.2019010106: Recently developments in wireless sensor networks (WSNs) have raised numerous challenges, node localization is one of these issues. The main goal in of node",
+		"URL": "https://www.igi-global.com/article/moth-flame-optimization-algorithm-range-based-for-node-localization-challenge-in-decentralized-wireless-sensor-network/218827",
+		"DOI": "10.4018/IJDST.2019010106",
+		"ISSN": "1947-3532 DOI: 10.4018/IJDST.2019010106",
+		"journalAbbreviation": "IJDST",
+		"language": "en",
+		"author": [
+			{
+				"family": "Miloud",
+				"given": "Mihoubi"
+			},
+			{
+				"family": "Abdellatif",
+				"given": "Rahmoun"
+			},
+			{
+				"family": "Lorenz",
+				"given": "Pascal"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/C5LJYTHL",
+		"type": "article-journal",
+		"title": "Moth Flame Optimization Algorithm Range-Based for Node Localization Challenge in Decentralized Wireless Sensor Network",
+		"container-title": "International Journal of Distributed Systems and Technologies (IJDST)",
+		"page": "82-109",
+		"volume": "10",
+		"issue": "1",
+		"source": "www.igi-global.com",
+		"abstract": "Moth Flame Optimization Algorithm Range-Based for Node Localization Challenge in Decentralized Wireless Sensor Network: 10.4018/IJDST.2019010106: Recently developments in wireless sensor networks (WSNs) have raised numerous challenges, node localization is one of these issues. The main goal in of node",
+		"URL": "https://www.igi-global.com/article/moth-flame-optimization-algorithm-range-based-for-node-localization-challenge-in-decentralized-wireless-sensor-network/218827",
+		"DOI": "10.4018/IJDST.2019010106",
+		"ISSN": "1947-3532 DOI: 10.4018/IJDST.2019010106",
+		"journalAbbreviation": "IJDST",
+		"language": "en",
+		"author": [
+			{
+				"family": "Miloud",
+				"given": "Mihoubi"
+			},
+			{
+				"family": "Abdellatif",
+				"given": "Rahmoun"
+			},
+			{
+				"family": "Lorenz",
+				"given": "Pascal"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/HTIWNHVD",
+		"type": "paper-conference",
+		"title": "Genetic Centralized Dynamic Clustering in Wireless Sensor Networks",
+		"container-title": "Computer Science and Its Applications",
+		"collection-title": "IFIP Advances in Information and Communication Technology",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"page": "503-511",
+		"source": "Springer Link",
+		"event-place": "Cham",
+		"abstract": "In order to overcome the energy loss involved by communications in wireless sensor networks (WSN), the use of clustering has proven to be effective. In this paper, we proposed a dynamic centralized genetic algorithm (GA)-based clustering approach to optimize the clustering configuration (cluster heads and cluster members) to limit node energy consumption. The obtained simulation results show that the proposed technique overcomes the LEACH clustering algorithm.",
+		"DOI": "10.1007/978-3-319-19578-0_41",
+		"ISBN": "978-3-319-19578-0",
+		"language": "en",
+		"author": [
+			{
+				"family": "Kheireddine",
+				"given": "Mekkaoui"
+			},
+			{
+				"family": "Abdellatif",
+				"given": "Rahmoun"
+			},
+			{
+				"family": "Ferrari",
+				"given": "Gianluigi"
+			}
+		],
+		"editor": [
+			{
+				"family": "Amine",
+				"given": "Abdelmalek"
+			},
+			{
+				"family": "Bellatreche",
+				"given": "Ladjel"
+			},
+			{
+				"family": "Elberrichi",
+				"given": "Zakaria"
+			},
+			{
+				"family": "Neuhold",
+				"given": "Erich J."
+			},
+			{
+				"family": "Wrembel",
+				"given": "Robert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/IQU8KJTP",
+		"type": "article-journal",
+		"title": "Analysis of Hops Length in Wireless Sensor Networks",
+		"container-title": "Wireless Sensor Network",
+		"page": "109-117",
+		"volume": "06",
+		"issue": "06",
+		"source": "DOI.org (Crossref)",
+		"abstract": "Wireless sensor networks are provided with a limited source of power. The lifetime of such networks is an overwhelming matter in most network applications. This lifetime depends strongly on how efficiently such energy is distributed over the nodes especially during transmitting and receiving data. Each node may route messages to destination nodes either through short hops or long hops. Optimizing the length of these hops may save energy, and therefore extend the lifetime of WSNs. In this paper, we propose a theorem to optimize the hop’s length so to make WSN power consumption minimal. The theorem establishes a simple condition on hop’s length range. Computer simulation when performing such condition on Mica2 sensors and Mica2dot sensors reveals good performance regarding WSNs energy consumption.",
+		"URL": "http://www.scirp.org/journal/doi.aspx?DOI=10.4236/wsn.2014.66012",
+		"DOI": "10.4236/wsn.2014.66012",
+		"ISSN": "1945-3078, 1945-3086",
+		"journalAbbreviation": "WSN",
+		"language": "en",
+		"author": [
+			{
+				"family": "Kheireddine",
+				"given": "Mekkaoui"
+			},
+			{
+				"family": "Abdellatif",
+				"given": "Rahmoun"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/YUHEPE9F",
+		"type": "article-journal",
+		"title": "Analysis of Hops Length in Wireless Sensor Networks",
+		"container-title": "Wireless Sensor Network",
+		"page": "109-117",
+		"volume": "06",
+		"issue": "06",
+		"source": "DOI.org (Crossref)",
+		"abstract": "Wireless sensor networks are provided with a limited source of power. The lifetime of such networks is an overwhelming matter in most network applications. This lifetime depends strongly on how efficiently such energy is distributed over the nodes especially during transmitting and receiving data. Each node may route messages to destination nodes either through short hops or long hops. Optimizing the length of these hops may save energy, and therefore extend the lifetime of WSNs. In this paper, we propose a theorem to optimize the hop’s length so to make WSN power consumption minimal. The theorem establishes a simple condition on hop’s length range. Computer simulation when performing such condition on Mica2 sensors and Mica2dot sensors reveals good performance regarding WSNs energy consumption.",
+		"URL": "http://www.scirp.org/journal/doi.aspx?DOI=10.4236/wsn.2014.66012",
+		"DOI": "10.4236/wsn.2014.66012",
+		"ISSN": "1945-3078, 1945-3086",
+		"journalAbbreviation": "WSN",
+		"language": "en",
+		"author": [
+			{
+				"family": "Kheireddine",
+				"given": "Mekkaoui"
+			},
+			{
+				"family": "Abdellatif",
+				"given": "Rahmoun"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/X4SDRFRJ",
+		"type": "article-journal",
+		"title": "Analysis of Hops Length in Wireless Sensor Networks",
+		"container-title": "Wireless Sensor Network",
+		"page": "109-117",
+		"volume": "6",
+		"issue": "6",
+		"source": "www.scirp.org",
+		"abstract": "Wireless sensor networks are provided with a limited source of power. The lifetime of such networks is an overwhelming matter in most network applications. This lifetime depends strongly on how efficiently such energy is distributed over the nodes especially during transmitting and receiving data. Each node may route messages to destination nodes either through short hops or long hops. Optimizing the length of these hops may save energy, and therefore extend the lifetime of WSNs. In this paper, we propose a theorem to optimize the hop’s length so to make WSN power consumption minimal. The theorem establishes a simple condition on hop’s length range. Computer simulation when performing such condition on Mica2 sensors and Mica2dot sensors reveals good performance regarding WSNs energy consumption.",
+		"URL": "http://www.scirp.org/Journal/Paperabs.aspx?paperid=47143",
+		"DOI": "10.4236/wsn.2014.66012",
+		"language": "en",
+		"author": [
+			{
+				"family": "Kheireddine",
+				"given": "Mekkaoui"
+			},
+			{
+				"family": "Abdellatif",
+				"given": "Rahmoun"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					6,
+					23
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	}
+]

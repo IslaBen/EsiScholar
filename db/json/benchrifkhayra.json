@@ -1,0 +1,173 @@
+[
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/4G2XCYH4",
+		"type": "article-journal",
+		"title": "Semantic Classification for Big Data Analysis",
+		"container-title": "Business Intelligence & Big Data",
+		"source": "Google Scholar",
+		"author": [
+			{
+				"family": "Taouli",
+				"given": "Amina"
+			},
+			{
+				"family": "Bensaber",
+				"given": "Djamel Amar"
+			},
+			{
+				"family": "Keskes",
+				"given": "Nabil"
+			},
+			{
+				"family": "Bencherif",
+				"given": "Khayra"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/QVFBV6TW",
+		"type": "article-journal",
+		"title": "An Unsupervised Approach for Determining Link Specifications",
+		"container-title": "International Journal of Information Technology and Web Engineering (IJITWE)",
+		"page": "104–123",
+		"volume": "13",
+		"issue": "4",
+		"source": "Google Scholar",
+		"author": [
+			{
+				"family": "Bencherif",
+				"given": "Khayra"
+			},
+			{
+				"family": "Malki",
+				"given": "Mimoun"
+			},
+			{
+				"family": "Bensaber",
+				"given": "Djamel Amar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/54BLTVK9",
+		"type": "chapter",
+		"title": "Integrating Heterogeneous Services for Semantic Mashup Construction",
+		"container-title": "Handbook of Research on Contemporary Perspectives on Web-Based Systems",
+		"publisher": "IGI Global",
+		"page": "362–386",
+		"source": "Google Scholar",
+		"author": [
+			{
+				"family": "Bencherif",
+				"given": "Khayra"
+			},
+			{
+				"family": "Bensaber",
+				"given": "Djamel Amar"
+			},
+			{
+				"family": "Malki",
+				"given": "Mimoun"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/HBURG7HA",
+		"type": "thesis",
+		"title": "Enrichissement et intégration des données liées",
+		"genre": "PhD Thesis",
+		"source": "Google Scholar",
+		"author": [
+			{
+				"family": "BENCHERIF",
+				"given": "Khayra"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/TH6LK3TE",
+		"type": "article-journal",
+		"title": "A Novel Approach to Construct Semantic Mashup using Patterns",
+		"container-title": "International Journal of Information Technology and Web Engineering (IJITWE)",
+		"page": "19–36",
+		"volume": "12",
+		"issue": "1",
+		"source": "Google Scholar",
+		"author": [
+			{
+				"family": "Bencherif",
+				"given": "Khayra"
+			},
+			{
+				"family": "Bensaber",
+				"given": "Djamel Amar"
+			},
+			{
+				"family": "Malki",
+				"given": "Mimoun"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/ZKURD9IU",
+		"type": "article-journal",
+		"title": "An effective and time-efficient approach for Linked Data fusion using genetic algorithms",
+		"container-title": "International Journal of Metadata, Semantics and Ontologies",
+		"page": "110–123",
+		"volume": "11",
+		"issue": "2",
+		"source": "Google Scholar",
+		"author": [
+			{
+				"family": "Bencherif",
+				"given": "Khayra"
+			},
+			{
+				"family": "Malki",
+				"given": "Mimoun"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	}
+]

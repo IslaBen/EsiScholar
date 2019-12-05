@@ -1,0 +1,83 @@
+[
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/NP8SVJ4J",
+		"type": "article-journal",
+		"title": "Local linear regression modelization when all variables are curves",
+		"container-title": "Statistics & Probability Letters",
+		"page": "37-44",
+		"volume": "121",
+		"source": "ScienceDirect",
+		"abstract": "A nonparametric local linear estimator of the regression function when both the response and the explanatory variables are of the functional kind is constructed. Then its rate of uniform almost-complete convergence is stated. This theoretical result will be a key tool for many further developments in nonparametric functional data analysis (FDA).",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0167715216301845",
+		"DOI": "10.1016/j.spl.2016.09.021",
+		"ISSN": "0167-7152",
+		"journalAbbreviation": "Statistics & Probability Letters",
+		"language": "en",
+		"author": [
+			{
+				"family": "Demongeot",
+				"given": "Jacques"
+			},
+			{
+				"family": "Naceri",
+				"given": "Amina"
+			},
+			{
+				"family": "Laksaci",
+				"given": "Ali"
+			},
+			{
+				"family": "Rachdi",
+				"given": "Mustapha"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					2,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/Q4VIYE2Z",
+		"type": "webpage",
+		"title": "Estimation locale linéaire de la fonction de régression pour des variables hilbertiennes - ScienceDirect",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1631073X16301078",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/UUU3IPDI",
+		"type": "webpage",
+		"title": "Exact Quadratic Error of the Local Linear Regression Operator Estimator for Functional Covariates | SpringerLink",
+		"URL": "https://link.springer.com/chapter/10.1007/978-3-319-22476-3_5",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	}
+]

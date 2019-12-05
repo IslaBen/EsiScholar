@@ -1,0 +1,42 @@
+[
+	{
+		"id": "http://zotero.org/users/local/OiK9Fa9a/items/97BIH9BR",
+		"type": "article-journal",
+		"title": "Designing Robust LMCA-based Threshold Secret Sharing Scheme for Digital Images Using Multiple Configurations Assignment",
+		"source": "Google Scholar",
+		"author": [
+			{
+				"family": "Anani",
+				"given": "Djihed"
+			},
+			{
+				"family": "Faraoun",
+				"given": "Kamel Mohamed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/OiK9Fa9a/items/86WEVNRM",
+		"type": "article-journal",
+		"title": "LINEAR THRESHOLD MULTI-SECRET SHARING OF HIGH RESOLUTION IMAGES OVER RIJNDAEL'S FINITE FIELD: AN OPTIMAL SCHEME",
+		"source": "Google Scholar",
+		"title-short": "LINEAR THRESHOLD MULTI-SECRET SHARING OF HIGH RESOLUTION IMAGES OVER RIJNDAEL'S FINITE FIELD",
+		"author": [
+			{
+				"family": "Djihed",
+				"given": "ANANI"
+			},
+			{
+				"family": "Mohamed",
+				"given": "FARAOUN Kamel"
+			}
+		]
+	}
+]

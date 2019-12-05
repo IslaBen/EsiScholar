@@ -1,0 +1,62 @@
+[
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/XNKL7Z47",
+		"type": "article-journal",
+		"title": "Attractors for a nonautonomous reaction-diffusion equation with delay",
+		"container-title": "Applied Mathematics and Nonlinear Sciences",
+		"page": "127-150",
+		"volume": "3",
+		"issue": "1",
+		"source": "content.sciendo.com",
+		"URL": "https://content.sciendo.com/view/journals/amns/3/1/article-p127.xml",
+		"DOI": "10.21042/AMNS.2018.1.00010",
+		"language": "en",
+		"author": [
+			{
+				"family": "Harraga",
+				"given": "Hafidha"
+			},
+			{
+				"family": "Yebdri",
+				"given": "Mustapha"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					5,
+					4
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/ZQMSPD9E",
+		"type": "article-journal",
+		"title": "PULLBACK ATTRACTORS FOR A CLASS OF SEMILINEAR NONCLASSICAL DIFFUSION EQUATIONS WITH DELAY",
+		"page": "33",
+		"source": "Zotero",
+		"abstract": "In this article, we analyze the existence of solutions for a nonclassical reaction-diﬀusion equation with critical nonlinearity, a time-dependent force with exponential growth and delayed force term, where the delay term can be entrained by a function under assumptions of measurability. Using a priori estimates we obtain the pullback D-absorbing process and the pullback ω-D-limit compactness that allow us to prove the existence of the pullback D-attractors for the associated process to the problem.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Harraga",
+				"given": "Hafidha"
+			},
+			{
+				"family": "Yebdri",
+				"given": "Mustapha"
+			}
+		]
+	}
+]

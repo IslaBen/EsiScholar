@@ -1,0 +1,57 @@
+[
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/I2832B55",
+		"type": "article-journal",
+		"title": "Composing WoT services with uncertain data",
+		"container-title": "Future Generation Computer Systems",
+		"page": "940-950",
+		"volume": "101",
+		"source": "ScienceDirect",
+		"abstract": "The Web of Things (WoT) represents a set of technologies that allow everyday objects to connect to the Web. Often, the creation of new applications requires the composition of multiple objects. However, the interconnection of these objects poses a great problem of heterogeneity. In this paper, we propose to use WoT services as a solution to the heterogeneity problem, such that the composition of connected objects (things) will become a composition of WoT services. During the composition process, data exchanged between WoT services is often uncertain due to various reasons. To handle the problem of data uncertainty, we propose a probabilistic approach to model and evaluate WoT service composition. We also propose an efficient algorithm to execute uncertain WoT service compositions. Our proposal is implemented and evaluated, and the results of the evaluation prove the scalability and efficiency of our approach.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0167739X19304467",
+		"DOI": "10.1016/j.future.2019.07.048",
+		"ISSN": "0167-739X",
+		"journalAbbreviation": "Future Generation Computer Systems",
+		"language": "en",
+		"author": [
+			{
+				"family": "Awad",
+				"given": "Samir"
+			},
+			{
+				"family": "Malki",
+				"given": "Abdelhamid"
+			},
+			{
+				"family": "Malki",
+				"given": "Mimoun"
+			},
+			{
+				"family": "Barhamgi",
+				"given": "Mahmoud"
+			},
+			{
+				"family": "Benslimane",
+				"given": "Djamal"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					14
+				]
+			]
+		}
+	}
+]

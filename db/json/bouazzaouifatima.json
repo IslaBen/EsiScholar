@@ -1,0 +1,47 @@
+[
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/D985379P",
+		"type": "thesis",
+		"title": "Existence et Contrôlabilité pour des Equations Différentielles Aléatoires",
+		"genre": "PhD Thesis",
+		"source": "Google Scholar",
+		"author": [
+			{
+				"family": "BOUAZZAOUI",
+				"given": "Fatima"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/8HU9TTFJ",
+		"type": "article-journal",
+		"title": "Controllability of functional differential equations with state-dependent delay and random effects",
+		"container-title": "Rom. J. Math. Comput. Sci8 (1)",
+		"page": "38–51",
+		"source": "Google Scholar",
+		"author": [
+			{
+				"family": "BENCHOHRA",
+				"given": "MOUFFAK"
+			},
+			{
+				"family": "BOUAZZAOUI",
+				"given": "FATIMA"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	}
+]

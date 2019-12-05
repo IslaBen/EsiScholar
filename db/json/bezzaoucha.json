@@ -1,0 +1,64 @@
+[
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/E32HMLZX",
+		"type": "paper-conference",
+		"title": "Wind Turbine Components Classification based on Failure Causes for Proactive Maintenance Simulation",
+		"source": "ResearchGate",
+		"abstract": "Predictive, proactive and reliability-based maintenance are considered among the most widely used approaches in the field of maintenance optimization of wind turbines. Nevertheless, most existing models are designed to optimize the maintenance of a single component of a wind turbine and do not take into consideration the different dependencies that exist between components, which does not guarantee the performance of the system.\nThis paper proposes a detailed classification of the various components of a wind turbine according to their causes of failure based on the stochastic dependencies, which characterize the process of degradation of the system. The purpose of this classification is to allow maintenance operators and manufacturers both to have efficient systems in terms of performance, reliability and cost.",
+		"DOI": "10.1109/ICMSAO.2019.8880370",
+		"author": [
+			{
+				"family": "Bezzaoucha",
+				"given": "Fatima Souad"
+			},
+			{
+				"family": "Sahnoun",
+				"given": "M'hammed"
+			},
+			{
+				"family": "Benslimane",
+				"given": "Sidi Mohamed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					4,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/NIWZSLPC",
+		"type": "paper-conference",
+		"title": "Failure causes Based Wind Turbine Components Classification and Failure Propagation: For proactive maintenance implementatio",
+		"source": "ResearchGate",
+		"DOI": "10.1109/ICWEAA.2018.8605082",
+		"title-short": "Failure causes Based Wind Turbine Components Classification and Failure Propagation",
+		"author": [
+			{
+				"family": "Bezzaoucha",
+				"given": "Fatima Souad"
+			},
+			{
+				"family": "Sahnoun",
+				"given": "M'hammed"
+			},
+			{
+				"family": "Benslimane",
+				"given": "Sidi Mohamed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					11,
+					6
+				]
+			]
+		}
+	}
+]

@@ -1,0 +1,49 @@
+[
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/YXZ2LX74",
+		"type": "paper-conference",
+		"title": "Using Programming by Demonstration for Multimodality in Mobile-human Interactions",
+		"container-title": "Proceedings of the 29th Conference on L'Interaction Homme-Machine",
+		"collection-title": "IHM '17",
+		"publisher": "ACM",
+		"publisher-place": "New York, NY, USA",
+		"page": "243–251",
+		"source": "ACM Digital Library",
+		"event-place": "New York, NY, USA",
+		"abstract": "The emergence of sensor-based modalites enriches the human-mobile interaction. However, mobile applications end-users are often faced with interaction restrictions and do not yet have the possibility to modify their interaction modalities, according to their needs. In this paper, we present an approach that allows smartphone users to add and modify the interaction modalities of their already installed mobile applications, according to their preferences and needs. The approach is based on a Wrapper that acts as an intermediary between the user and the application and on the Programming By Demonstration (PBD) that allows the user to specify the desired changes.",
+		"URL": "http://doi.acm.org/10.1145/3132129.3132154",
+		"DOI": "10.1145/3132129.3132154",
+		"ISBN": "978-1-4503-5109-6",
+		"note": "event-place: Poitiers, France",
+		"author": [
+			{
+				"family": "Bellal",
+				"given": "Zouhir"
+			},
+			{
+				"family": "Benslimane",
+				"given": "Sidi Mohamed"
+			},
+			{
+				"family": "Elouali",
+				"given": "Nadia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					14
+				]
+			]
+		}
+	}
+]

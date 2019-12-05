@@ -1,0 +1,40 @@
+[
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/TDMSXXRC",
+		"type": "thesis",
+		"title": "Convergence presque complète des suites de variables aléatoires dépendantes, Applications aux modèles autorégressifs non linéaires.",
+		"genre": "Thesis",
+		"source": "rdoc.univ-sba.dz",
+		"abstract": "The dissertation is composed of four chapters. In the first chapter, we explain the basic notions and highlight some of the objectives of time series analysis.  In chapter two, we study a new concentration inequality and complete convergence of weighted sums for arrays of row-wise linearly negative quadrant dependent random variables, then in chapter three we demonstrate almost complete convergence of dependant random variables sequences with application to non-linear autoregressive processes model. Regarding the fourth and last chapter, we discuss the almost complete convergence of the value of the process of autoregressive Hilbertian of order one.",
+		"URL": "http://rdoc.univ-sba.dz:8080/jspui/handle/123456789/2342",
+		"language": "en",
+		"author": [
+			{
+				"family": "Boulenoir",
+				"given": "Zouaouia"
+			},
+			{
+				"family": "Encadreur: BENAISSA",
+				"given": "Samir"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					17
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	}
+]

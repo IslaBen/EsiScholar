@@ -1,0 +1,54 @@
+[
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/JHVMQC2T",
+		"type": "article-journal",
+		"title": "Hartogs phenomenon and the problem of complex spheres",
+		"source": "ResearchGate",
+		"abstract": "In this paper, we solve the following problem : Is there any complex structure on the sphere S^6?",
+		"author": [
+			{
+				"family": "Mekri",
+				"given": "Zouaoui"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					9,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/T349TN5V",
+		"type": "article-journal",
+		"title": "Left Cauchy-Riemann operator. l H and Dolbeault-Grothendieck lemma on the group of Heisenberg type H-n(B)(C)",
+		"container-title": "Complex Variables and Elliptic Equations",
+		"volume": "59",
+		"source": "ResearchGate",
+		"abstract": "We extend to differential forms the system of partial differential equations <(partial derivative(l)(H))over bar> u = f defined for functions as follows {partial derivative u/partial derivative(z) over bar (j) + i/4 Sigma(k=1) (k=n-m) (partial derivative Bk/partial derivative(z) over bar (j) partial derivative u/partial derivative zeta(k) + partial derivative(B) over bar (k)/partial derivative(z) over bar (j) partial derivative u/partial derivative(zeta) over bar (k)) - fj 1 <= j <= m, partial derivative u/partial derivative(zeta) over bar (k) = f(m+k) 1 <= k <= n - m. This leads to the <(partial derivative(l)(H))over bar>-cohomology, and then we will prove the corresponding Dolbeault-Grothendieck lemma.",
+		"DOI": "10.1080/17476933.2013.823163",
+		"journalAbbreviation": "Complex Variables and Elliptic Equations",
+		"author": [
+			{
+				"family": "Mekri",
+				"given": "Zouaoui"
+			},
+			{
+				"family": "Ali",
+				"given": "Hakem"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					8,
+					3
+				]
+			]
+		}
+	}
+]

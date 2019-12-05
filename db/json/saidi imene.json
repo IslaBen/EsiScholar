@@ -1,0 +1,106 @@
+[
+	{
+		"id": "http://zotero.org/users/local/S8IRzvvx/items/R6CVUNCJ",
+		"type": "article-journal",
+		"title": "An Approach for Indexing Web Data Sources",
+		"container-title": "International Journal of Information Technology and Computer Science",
+		"page": "52-58",
+		"volume": "6",
+		"issue": "9",
+		"source": "DOI.org (Crossref)",
+		"abstract": "Web information sources such as forums, blogs, and news articles are becoming increasingly large and diverse. Even if advances in technology are helping to improve techniques for dealing with the large amounts of the generated data, such data sources are heterogeneous in structure (semi structured or unstructured sources) and nature (texts or images). Implementation of software solutions is then necessary to prepare data and access these sources in a homogenous way. In this paper we present an approach for indexing heterogeneous data sources. Our objective is to offer techniques for efficient indexing of web sources by storing only the necessary information. We propose automatic indexing for semi structured or unstructured sources (e.g., xml files, html files) and annotation for other sources (e.g., images, videos that exist within a page). We present our algorithms of indexing and propose the use of MapReduce model to build a scalable inverted index. Experiments on a real-world corpus show that our approach achieves a good performance.",
+		"URL": "http://www.mecs-press.org/ijitcs/ijitcs-v6-n9/v6n9-7.html",
+		"DOI": "10.5815/ijitcs.2014.09.07",
+		"ISSN": "20749007, 20749015",
+		"journalAbbreviation": "IJITCS",
+		"language": "en",
+		"author": [
+			{
+				"family": "Imene",
+				"given": "Saidi"
+			},
+			{
+				"family": "Safia",
+				"given": "Nait Bahloul"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					8,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/S8IRzvvx/items/7BGTECRK",
+		"type": "webpage",
+		"title": "Archive ouverte HAL - Diversité dans la recherche d’entités",
+		"URL": "https://hal.archives-ouvertes.fr/hal-02000615/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/S8IRzvvx/items/DG9LLSH2",
+		"type": "webpage",
+		"title": "Depot institutionnel de l'Universite Abou Bekr Belkaid Tlemcen UABT: Conception de services web pour l’indexation sémantique des sources de données médicales en vue de médiation",
+		"URL": "http://dspace.univ-tlemcen.dz/handle/112/937",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/S8IRzvvx/items/QGNCC549",
+		"type": "article-journal",
+		"title": "An Approach to Diversify Entity Search Results",
+		"page": "8",
+		"source": "Zotero",
+		"abstract": "Having named entities (person, country, company...) in response to users’ queries is becoming more and more important in search engines. Indeed, in some cases users are not searching for a ranked list of documents, but for specific information (i.e. entities). In this work, we assume that users are interested in finding entities (e.g., name of a politician) and related entities (e.g., country of the politician ’x’, name of the wife of the politician ’x’...) and the documents related to each entity. The user can then search entities by keywords or entities. Our goal is to return to the user diverse and relevant entities and documents. We then use the different types of an entity (Washington: city, person) and different categories of documents (Sport, Politics...) to diversify the results. In this paper, we develop a search semantics based on the types and categories of ranked results of entities. This new approach provides a variety of interpretations of relevant results. We conduct user studies to show the effectiveness of our approach and the quality of the results.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Saidi",
+				"given": "Imène"
+			},
+			{
+				"family": "Amer-Yahia",
+				"given": "Sihem"
+			},
+			{
+				"family": "Bahloul",
+				"given": "Safia Nait"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	}
+]

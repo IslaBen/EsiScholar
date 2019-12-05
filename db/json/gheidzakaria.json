@@ -1,0 +1,226 @@
+[
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/VFW6TFPJ",
+		"type": "paper-conference",
+		"title": "Efficient and Privacy-Preserving k-Means Clustering for Big Data Mining",
+		"container-title": "2016 IEEE Trustcom/BigDataSE/ISPA",
+		"page": "791-798",
+		"source": "IEEE Xplore",
+		"event": "2016 IEEE Trustcom/BigDataSE/ISPA",
+		"abstract": "Recent advances in sensing and storing technologies have led to big data age where a huge amount of data are distributed across sites to be stored and analysed. Indeed, cluster analysis is one of the data mining tasks that aims to discover patterns and knowledge through different algorithmic techniques such as k-means. Nevertheless, running k-means over distributed big data stores has given rise to serious privacy issues. Accordingly, many proposed works attempted to tackle this concern using cryptographic protocols. However, these cryptographic solutions introduced performance degradation issues in analysis tasks which does not meet big data properties. In this work, we propose a novel privacy-preserving k-means algorithm based on a simple yet secure and efficient multiparty additive scheme that is cryptography-free. We designed our solution for horizontally partitioned data. Moreover, we demonstrate that our scheme resists against adversaries passive model.",
+		"DOI": "10.1109/TrustCom.2016.0140",
+		"note": "ISSN: 2324-9013",
+		"author": [
+			{
+				"family": "Gheid",
+				"given": "Zakaria"
+			},
+			{
+				"family": "Challal",
+				"given": "Yacine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/7IJ89AMS",
+		"type": "paper-conference",
+		"title": "Novel Efficient and Privacy-Preserving Protocols for Sensor-Based Human Activity Recognition",
+		"container-title": "2016 Intl IEEE Conferences on Ubiquitous Intelligence Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress (UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld)",
+		"page": "301-308",
+		"source": "IEEE Xplore",
+		"event": "2016 Intl IEEE Conferences on Ubiquitous Intelligence Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Cloud and Big Data Computing, Internet of People, and Smart World Congress (UIC/ATC/ScalCom/CBDCom/IoP/SmartWorld)",
+		"abstract": "Human activity recognition (HAR) has become an important emerging field of application for sensor networks (SN) technologies. Nevertheless, the pervasiveness of SN in everyday life has given rise to new privacy concerns especially when mining personal sensed data in external environments. From that perspective, many research works have proposed cryptography-based techniques so as to tackle SN privacy issues, yet have costed significant degradations in computational-time efficiency. In this work, we propose a novel privacy-preserving Knn classification protocol to be used in HAR process, that is based on a novel privacy-preserving protocol that aims to assess similarity between personal recorded activities, external patterns using the cosine similarity metric. We build our proposals without any cryptographic schemes in order to provide a high efficient recognition service.",
+		"DOI": "10.1109/UIC-ATC-ScalCom-CBDCom-IoP-SmartWorld.2016.0062",
+		"author": [
+			{
+				"family": "Gheid",
+				"given": "Zakaria"
+			},
+			{
+				"family": "Challal",
+				"given": "Yacine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/XWIYNFGN",
+		"type": "paper-conference",
+		"title": "An Efficient and Privacy-Preserving Similarity Evaluation for Big Data Analytics",
+		"container-title": "2015 IEEE/ACM 8th International Conference on Utility and Cloud Computing (UCC)",
+		"page": "281-289",
+		"source": "IEEE Xplore",
+		"event": "2015 IEEE/ACM 8th International Conference on Utility and Cloud Computing (UCC)",
+		"abstract": "Big data systems are gathering more and more information in order to discover new values through data analytics and depth insights. However, mining sensitive personal information breaches privacy and degrades services' reputation. Accordingly, many research works have been proposed to address the privacy issues of data analytics, but almost seem to be not suitable in big data context either in data types they support or in computation time efficiency. In this paper we propose a novel privacy-preserving cosine similarity computation protocol that will support both binary and numerical data types within an efficient computation time, and we prove its adequacy for big data high volume, high variety and high velocity.",
+		"DOI": "10.1109/UCC.2015.46",
+		"author": [
+			{
+				"family": "Gheid",
+				"given": "Zakaria"
+			},
+			{
+				"family": "Challal",
+				"given": "Yacine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/JRBWFMM4",
+		"type": "article-journal",
+		"title": "Efficient and privacy-aware multi-party classification protocol for human activity recognition",
+		"container-title": "Journal of Network and Computer Applications",
+		"page": "84-96",
+		"volume": "98",
+		"source": "ScienceDirect",
+		"abstract": "Human activity recognition (HAR) is an important research field that relies on sensing technologies to enable many context-aware applications. Nevertheless, tracking personal signs to enable such applications has given rise to serious privacy issues, especially when using external activity recognition services. In this paper, we propose (Π-Knn): a privacy-preserving version of the K Nearest Neighbors (k-NN) classifier that is mainly built on (Π-CSP+): a novel cryptography-free private similarity evaluation protocol. As a sample application, we consider a medical monitoring system enhanced with a HAR process based on our privacy preserving classifier. The integration of the privacy preserving HAR aims to improve the accuracy of the clinical decision support. We conduct a standard security analysis to prove that our protocols provide a complete privacy protection against malicious adversaries. We perform a comparative performance evaluation through several experiments while using real HAR system parameters. Experimental evaluations show that our protocol (Π-CSP+) incurs a low increasing overhead (37% in Online classification and 50% in Offline classification) compared to PCSC, a representative state-of-the art protocol, which incurs 3600% and 4800% in online and offline classification respectively. Besides, Π-CSP+ provides a stable and efficient response time (W=0.0x ms) for both short and long duration activities while serving up to 1000 clients. Comparative results confirm the computational efficiency of our protocol against a competitive state-of-the-art protocol.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S1084804517303016",
+		"DOI": "10.1016/j.jnca.2017.09.005",
+		"ISSN": "1084-8045",
+		"journalAbbreviation": "Journal of Network and Computer Applications",
+		"language": "en",
+		"author": [
+			{
+				"family": "Gheid",
+				"given": "Zakaria"
+			},
+			{
+				"family": "Challal",
+				"given": "Yacine"
+			},
+			{
+				"family": "Yi",
+				"given": "Xun"
+			},
+			{
+				"family": "Derhab",
+				"given": "Abdelouahid"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					11,
+					15
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/VZTF3LB8",
+		"type": "paper-conference",
+		"title": "Private and efficient set intersection protocol for RFID-based food adequacy check",
+		"container-title": "2018 IEEE Wireless Communications and Networking Conference (WCNC)",
+		"page": "1-6",
+		"source": "IEEE Xplore",
+		"event": "2018 IEEE Wireless Communications and Networking Conference (WCNC)",
+		"abstract": "Radio Frequency Identification (RFID) is a technology for automatic object identification that has been implemented in several real-life applications. In this work, we expand a novel relevant application of RFID tags for grocery stores, which aims to check the adequacy of food items with respect to the shoppers' personal preferences. Unlike similar works, we focus on shoppers' privacy and running time efficiency. For this aim, we propose a novel private set intersection (PSI) protocol to be used in matching the shoppers' personal preferences with the set of each item's adequate profiles that are held by the back-end server of the store. We provide a standard security proof against curious stores and malicious customers. For efficiency concern, we build our protocol without cryptographic operations, and we achieve a linear asymptotic complexity of O (v + c) for communications and store-side computations, where v and c are the numbers of profiles in the store's back-end server and the shopper's list of preferences respectively. Moreover, experimental results and comparisons with state-of-the art solutions reveal the scalability of our novel PSI protocol for big market stores.",
+		"DOI": "10.1109/WCNC.2018.8377207",
+		"note": "ISSN: 1558-2612",
+		"author": [
+			{
+				"family": "Gheid",
+				"given": "Zakaria"
+			},
+			{
+				"family": "Challal",
+				"given": "Yacine"
+			},
+			{
+				"family": "Chen",
+				"given": "Lin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/5TH7QBIJ",
+		"type": "paper-conference",
+		"title": "Private and Efficient Set Intersection Protocol for Big Data Analytics",
+		"container-title": "Algorithms and Architectures for Parallel Processing",
+		"collection-title": "Lecture Notes in Computer Science",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"page": "149-164",
+		"source": "Springer Link",
+		"event-place": "Cham",
+		"abstract": "Private Set Intersection (PSI) is a fundamental multi-party computation primitive used to secure many political, commercial, and social applications. PSI allows mistrustful parties to compute the intersection of their private sets without leaking additional information. PSI protocols have been largely proposed for both the semi-honest and the malicious settings. Nevertheless, the semi-honest setting does not suffice in many realistic scenarios and security in the malicious setting is built upon cryptographic schemes, which require hard assumptions and induce a high computational cost. In this work, we propose a novel two-party PSI protocol secure under the mixed model, where the server may be semi-honest and the client may be malicious. We build our protocol upon matrix algebra without using any cryptographic schemes or non-standard assumptions and we provide simulation-based security proof. Our protocol achieves a linear asymptotic complexity of O(kv+kc)O(kv+kc)O(k_v+k_c) for communications and server computations, where kvkvk_v and kckck_c are sizes of the server and the client sets. Besides, we compare empirical performance of our solution to the insecure hashing solution used in practice. Experimental results reveal the efficiency and the scalability of our new PSI protocol, which makes it adequate for Big Data analytics.",
+		"DOI": "10.1007/978-3-319-65482-9_10",
+		"ISBN": "978-3-319-65482-9",
+		"language": "en",
+		"author": [
+			{
+				"family": "Gheid",
+				"given": "Zakaria"
+			},
+			{
+				"family": "Challal",
+				"given": "Yacine"
+			}
+		],
+		"editor": [
+			{
+				"family": "Ibrahim",
+				"given": "Shadi"
+			},
+			{
+				"family": "Choo",
+				"given": "Kim-Kwang Raymond"
+			},
+			{
+				"family": "Yan",
+				"given": "Zheng"
+			},
+			{
+				"family": "Pedrycz",
+				"given": "Witold"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	}
+]

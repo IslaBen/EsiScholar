@@ -1,0 +1,345 @@
+[
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/UE9C2Q28",
+		"type": "article-journal",
+		"title": "Facilitating the specification of WSMO ontology using model-driven development",
+		"container-title": "International Journal of Metadata, Semantics and Ontologies",
+		"page": "103",
+		"volume": "9",
+		"issue": "2",
+		"source": "Crossref",
+		"abstract": "A semantic web service extends the capabilities of a web service by associating a semantic description of the web service in order to enable better search, discovery, selection, composition and integration. Semantically rich language such as Web Service Modeling Ontology (WSMO) has been created in order to provide a mechanism for describing the semantics of semantic web services. Unfortunately, for the common developer the learning curve for such languages can be steep, providing a barrier for adoption and widespread use. In this paper, we present a ModelDriven Architecture (MDA) approach for facilitating the specification of WSMO ontology through the use of meta-model and UML profile for modelling semantic web services; we concentrate our efforts to develop a transformation approach based on MDA to automate the generation of code by translating XMI specifications (e.g. XML encodings of UML) into equivalent WSMO specifications using Atlas Transformation Language (ATL) transformations.",
+		"URL": "http://www.inderscience.com/link.php?id=60322",
+		"DOI": "10.1504/IJMSO.2014.060322",
+		"ISSN": "1744-2621, 1744-263X",
+		"language": "en",
+		"author": [
+			{
+				"family": "Bensaber",
+				"given": "Djamel Amar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/699X3HAP",
+		"type": "article-journal",
+		"title": "Big Data analytics for prediction: parallel processing of the big learning base with the possibility of improving the final result of the prediction",
+		"container-title": "Information Discovery and Delivery",
+		"page": "147-160",
+		"volume": "46",
+		"issue": "3",
+		"source": "Emerald Insight",
+		"abstract": "Purpose This paper aims to solve the problems of big data analytics for prediction including volume, veracity and velocity by improving the prediction result to an acceptable level and in the shortest possible time. Design/methodology/approach This paper is divided into two parts. The first one is to improve the result of the prediction. In this part, two ideas are proposed: the double pruning enhanced random forest algorithm and extracting a shared learning base from the stratified random sampling method to obtain a representative learning base of all original data. The second part proposes to design a distributed architecture supported by new technologies solutions, which in turn works in a coherent and efficient way with the sampling strategy under the supervision of the Map-Reduce algorithm. Findings The representative learning base obtained by the integration of two learning bases, the partial base and the shared base, presents an excellent representation of the original data set and gives very good results of the Big Data predictive analytics. Furthermore, these results were supported by the improved random forests supervised learning method, which played a key role in this context. Originality/value All companies are concerned, especially those with large amounts of information and want to screen them to improve their knowledge for the customer and optimize their campaigns.",
+		"URL": "https://doi.org/10.1108/IDD-02-2018-0002",
+		"DOI": "10.1108/IDD-02-2018-0002",
+		"ISSN": "2398-6247",
+		"shortTitle": "Big Data analytics for prediction",
+		"author": [
+			{
+				"family": "Djafri",
+				"given": "Laouni"
+			},
+			{
+				"family": "Amar",
+				"given": "Bensaber Djamel"
+			},
+			{
+				"family": "Adjoudj",
+				"given": "Reda"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/R7WHI9MI",
+		"type": "paper-conference",
+		"title": "Meaning Negotiation",
+		"container-title": "Proceedings of the 8th International Conference on Sciences of Electronics, Technologies of Information and Telecommunications (SETIT’18), Vol.1",
+		"collection-title": "Smart Innovation, Systems and Technologies",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"page": "3-13",
+		"source": "Springer Link",
+		"event-place": "Cham",
+		"abstract": "Nowadays, the web is becoming highly used technology, in our community. This technology allows us to work in collaboration and to share knowledge. The pragmatic web represents the most recent extension of the web (semantic web); which facilitates the exploitation and the interpretation of the data by the machine. This web is based on three important components, the context, the community, and the meaning negotiation. The Meaning negotiation is the most important component of the pragmatic web on which we will fix our attention. It plays an important role in the exchanges and resolves conflicts in people cooperation activities. The knowledge (context) of each part in the community of users is heterogeneous; this will make the meaning negotiation complicated. This paper realizes a meaning negotiation scenario based on the ontologies merging into the geopolitical domain. This will reduce and simplifies the process, and improves the semantics of data.",
+		"DOI": "10.1007/978-3-030-21005-2_1",
+		"ISBN": "978-3-030-21005-2",
+		"language": "en",
+		"author": [
+			{
+				"family": "Graba",
+				"given": "Dalila Djoher"
+			},
+			{
+				"family": "Keskes",
+				"given": "Nabil"
+			},
+			{
+				"family": "Amar Bensaber",
+				"given": "Djamel"
+			}
+		],
+		"editor": [
+			{
+				"family": "Bouhlel",
+				"given": "Med Salim"
+			},
+			{
+				"family": "Rovetta",
+				"given": "Stefano"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/HBSVZHTR",
+		"type": "article-journal",
+		"title": "An Unsupervised Approach for Determining Link Specifications",
+		"container-title": "International Journal of Information Technology and Web Engineering (IJITWE)",
+		"page": "104-123",
+		"volume": "13",
+		"issue": "4",
+		"source": "www.igi-global.com",
+		"abstract": "An Unsupervised Approach for Determining Link Specifications: 10.4018/IJITWE.2018100106: This article describes how the Linked Open Data Cloud project allows data providers to publish structured data on the web according to the Linked Data",
+		"URL": "https://www.igi-global.com/article/an-unsupervised-approach-for-determining-link-specifications/209723",
+		"DOI": "10.4018/IJITWE.2018100106",
+		"journalAbbreviation": "IJITWE",
+		"language": "en",
+		"author": [
+			{
+				"family": "Bencherif",
+				"given": "Khayra"
+			},
+			{
+				"family": "Malki",
+				"given": "Mimoun"
+			},
+			{
+				"family": "Bensaber",
+				"given": "Djamel Amar"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					10,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/6I7I496V",
+		"type": "article",
+		"title": "EDA18-Conference-Proceedings-Business-Intelligence-Big-data-14th-edition.pdf",
+		"URL": "https://www.researchgate.net/profile/Badir_Hassan/publication/331160314_EDA18_Conference_Proceedings_Business_Intelligence_Big_data_14th_edition/links/5c695020a6fdcc404eb63c9b/EDA18-Conference-Proceedings-Business-Intelligence-Big-data-14th-edition.pdf#page=289",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/HQVDC4D7",
+		"type": "article-journal",
+		"title": "Integrating Heterogeneous Services for Semantic Mashup Construction",
+		"container-title": "Handbook of Research on Contemporary Perspectives on Web-Based Systems",
+		"page": "362-386",
+		"source": "www.igi-global.com",
+		"abstract": "Integrating Heterogeneous Services for Semantic Mashup Construction: 10.4018/978-1-5225-5384-7.ch016: Semantic mashup applications allow automating the process of services and data integration to create a composite application with a new user interface.",
+		"URL": "https://www.igi-global.com/chapter/integrating-heterogeneous-services-for-semantic-mashup-construction/203431",
+		"DOI": "10.4018/978-1-5225-5384-7.ch016",
+		"language": "en",
+		"author": [
+			{
+				"family": "Bencherif",
+				"given": "Khayra"
+			},
+			{
+				"family": "Bensaber",
+				"given": "Djamel Amar"
+			},
+			{
+				"family": "Malki",
+				"given": "Mimoun"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/FZZJKU9Y",
+		"type": "webpage",
+		"title": "Fault tolerance model based on service delivery quality levels in cloud computing - IEEE Conference Publication",
+		"URL": "https://ieeexplore.ieee.org/abstract/document/8259700",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/DUYAC8UB",
+		"type": "article-journal",
+		"title": "A Novel Approach to Construct Semantic Mashup using Patterns",
+		"container-title": "International Journal of Information Technology and Web Engineering (IJITWE)",
+		"page": "19-36",
+		"volume": "12",
+		"issue": "1",
+		"source": "www.igi-global.com",
+		"abstract": "A Novel Approach to Construct Semantic Mashup using Patterns: 10.4018/IJITWE.2017010102: With the coming of Web 2.0, several technologies are developed to facilitate creating, sharing and reusing of web resources. In this context, the mashup is a",
+		"URL": "https://www.igi-global.com/article/a-novel-approach-to-construct-semantic-mashup-using-patterns/170369",
+		"DOI": "10.4018/IJITWE.2017010102",
+		"ISSN": "1554-1045 DOI: 10.4018/IJITWE.2017010102",
+		"journalAbbreviation": "IJITWE",
+		"language": "en",
+		"author": [
+			{
+				"family": "Bencherif",
+				"given": "Khayra"
+			},
+			{
+				"family": "Bensaber",
+				"given": "Djamel Amar"
+			},
+			{
+				"family": "Malki",
+				"given": "Mimoun"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/9B67RP3A",
+		"type": "article-journal",
+		"title": "Approche Médiateur pour l’Intégration des données hétérogènes et autonomes à base d’ontologie",
+		"page": "12",
+		"source": "Zotero",
+		"language": "fr",
+		"author": [
+			{
+				"family": "Bensaber",
+				"given": "Djamel Amar"
+			},
+			{
+				"family": "Bellatreche",
+				"given": "Ladjel"
+			},
+			{
+				"family": "Malki",
+				"given": "Mimoun"
+			}
+		]
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/54NGUBRA",
+		"type": "article-journal",
+		"title": "Semantic data warehouse based on multi-representation ontology",
+		"page": "12",
+		"source": "Zotero",
+		"abstract": "The importance of the semantics in approaches for the interoperability of systems becomes ineluctable. New tools as ontology, play an essential role in the semantic interoperability of the information sources. The objective of this article is to propose an original methodology of making data warehouse that aims to define a system of interrogation, transparent and uniform access to heterogeneous information sources. The proposed approach is based on the utilization of a multirepresentation ontology specified in description logics language extended by stamping mechanism, resulting following a process of integration from local ontology. This solution provides a structured and shared vocabulary of several domains, serving as support to a semantic data warehouse charged to analyse and answer a request.",
+		"language": "en",
+		"author": [
+			{
+				"family": "Bensaber",
+				"given": "Djamel Amar"
+			},
+			{
+				"family": "Benslimane",
+				"given": "Sidi Mohamed"
+			},
+			{
+				"family": "Malki",
+				"given": "Mimoun"
+			}
+		]
+	}
+]
