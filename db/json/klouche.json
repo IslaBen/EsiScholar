@@ -1,0 +1,28 @@
+[
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/LFX2VFYB",
+		"type": "paper-conference",
+		"title": "Multilingual sentiments analysis to improve the quality of services provided by Algerian telephone operator",
+		"source": "ResearchGate",
+		"abstract": "In the world of BI, the importance of facts is undeniable. Sentiment Analysis (SA) is a research area at the crossroads of many areas, such as data mining, natural language processing, and machine learning. This is the automatic extraction of opinions expressed in a given text. Due to its many applications, numerous studies have been conducted in the field of Opinion Manning. Most approaches in this area are focused on English because of the lack of trusted resources in other languages such as the Arabic language and its great diversity dialects, especially in texts in the Algerian Arabic dialect. As other companies, Algerian telephone operators, attach great importance to the opinion of their customers. Nonetheless, customers generally use Algerian Arabic dialect to answer Short Message Services (SMS) questionnaires. In this work, we propose multilingual sentiments analysis approach based on the feedback of the customers of the Telephone operator Ooredoo, written in Modern Standard Arabic, Arabizi or Algerian dialect. The proposed approach permit to the operator to improve the quality of its services in order to conquer new customers and expand its usual clientele.",
+		"author": [
+			{
+				"family": "Badia",
+				"given": "Klouche"
+			},
+			{
+				"family": "Benslimane",
+				"given": "Sidi Mohamed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					4,
+					27
+				]
+			]
+		}
+	}
+]

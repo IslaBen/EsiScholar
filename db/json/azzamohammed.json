@@ -1,0 +1,53 @@
+[
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/CV88FP5V",
+		"type": "webpage",
+		"title": "International Journal of Computer Network and Information Security(IJCNIS)",
+		"URL": "http://www.mecs-press.org/ijcnis/ijcnis-v7-n10/v7n10-5.html",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mS25gQMC/items/6HNBJIC2",
+		"type": "article-journal",
+		"title": "Distributed certificate authority in cluster-based manet using multi secret sharing scheme",
+		"container-title": "Advances in Science and Technology Research Journal",
+		"volume": "Vol. 9",
+		"issue": "nr 28",
+		"source": "yadda.icm.edu.pl",
+		"URL": "http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-fedb9567-e707-45af-b342-a06c80b71fd4",
+		"author": [
+			{
+				"family": "Azza",
+				"given": "M."
+			},
+			{
+				"family": "Hacene",
+				"given": "S. B."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	}
+]

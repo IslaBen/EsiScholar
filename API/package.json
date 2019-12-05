@@ -1,11 +1,23 @@
 {
-  "name": "api",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "scholar-esi",
+  "description": "This is an API for ScholarESI project",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "export DEBUG=manage-alpha:server ; export NODE_ENV=dev && nodemon app/bin/www"
   },
-  "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "count-lines-in-file": "^1.1.0",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-formidable": "^1.2.0",
+    "mongoose": "^5.7.13",
+    "morgan": "~1.9.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.1"
+  }
 }

@@ -1,0 +1,262 @@
+[
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/93N4G7P6",
+		"type": "article-journal",
+		"title": "Parallel Distributed Patterns Mining Using Hadoop MapReduce Framework",
+		"container-title": "International Journal of Grid and High Performance Computing (IJGHPC)",
+		"page": "70-85",
+		"volume": "9",
+		"issue": "2",
+		"source": "www.igi-global.com",
+		"abstract": "Parallel Distributed Patterns Mining Using Hadoop MapReduce Framework: 10.4018/IJGHPC.2017040105: The treatment of large data is proving more difficult in different axes, but the arrival of the framework MapReduce is a solution of this problem. With it we",
+		"URL": "https://www.igi-global.com/article/parallel-distributed-patterns-mining-using-hadoop-mapreduce-framework/182342",
+		"DOI": "10.4018/IJGHPC.2017040105",
+		"ISSN": "1938-0259 DOI: 10.4018/IJGHPC.2017040105",
+		"journalAbbreviation": "IJGHPC",
+		"language": "en",
+		"author": [
+			{
+				"family": "Meddah",
+				"given": "Ishak H. A."
+			},
+			{
+				"family": "Belkadi",
+				"given": "Khaled"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					4,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/BCKNQYYF",
+		"type": "article-journal",
+		"title": "Discovering Patterns using Process Mining",
+		"container-title": "International Journal of Rough Sets and Data Analysis (IJRSDA)",
+		"page": "21-31",
+		"volume": "3",
+		"issue": "4",
+		"source": "www.igi-global.com",
+		"abstract": "Discovering Patterns using Process Mining: 10.4018/IJRSDA.2016100102: Process mining provides an important bridge between data mining and business process analysis, his techniques allow for extracting information from event",
+		"URL": "https://www.igi-global.com/article/discovering-patterns-using-process-mining/163101",
+		"DOI": "10.4018/IJRSDA.2016100102",
+		"ISSN": "2334-4598 DOI: 10.4018/IJRSDA.2016100102",
+		"journalAbbreviation": "IJRSDA",
+		"language": "en",
+		"author": [
+			{
+				"family": "Meddah",
+				"given": "Ishak"
+			},
+			{
+				"family": "Khaled",
+				"given": "Belkadi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/RZNGZNUT",
+		"type": "article-journal",
+		"title": "Parallel Mining Small Patterns from Business Process Traces",
+		"container-title": "International Journal of Software Science and Computational Intelligence (IJSSCI)",
+		"page": "32-45",
+		"volume": "8",
+		"issue": "1",
+		"source": "www.igi-global.com",
+		"abstract": "Parallel Mining Small Patterns from Business Process Traces: 10.4018/IJSSCI.2016010103: Hadoop MapReduce has arrived to solve the problem of treatment of big data, also the parallel treatment, with this framework the authors analyze, process a",
+		"URL": "https://www.igi-global.com/article/parallel-mining-small-patterns-from-business-process-traces/161711",
+		"DOI": "10.4018/IJSSCI.2016010103",
+		"ISSN": "1942-9045 DOI: 10.4018/IJSSCI.2016010103",
+		"journalAbbreviation": "IJSSCI",
+		"language": "en",
+		"author": [
+			{
+				"family": "Meddah",
+				"given": "Ishak H. A."
+			},
+			{
+				"family": "Belkadi",
+				"given": "Khaled"
+			},
+			{
+				"family": "Boudia",
+				"given": "Mohamed Amine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/25GXQAD2",
+		"type": "article-journal",
+		"title": "Efficient Implementation of Hadoop MapReduce-Based Dataflow",
+		"container-title": "Handbook of Research on Biomimicry in Information Retrieval and Knowledge Management",
+		"page": "372-385",
+		"source": "www.igi-global.com",
+		"abstract": "Efficient Implementation of Hadoop MapReduce-Based Dataflow: 10.4018/978-1-5225-3004-6.ch020: MapReduce is a solution for the treatment of large data. With it we can analyze and process data. It does this by distributing the computation in a large set",
+		"URL": "https://www.igi-global.com/chapter/efficient-implementation-of-hadoop-mapreduce-based-dataflow/197711",
+		"DOI": "10.4018/978-1-5225-3004-6.ch020",
+		"language": "en",
+		"author": [
+			{
+				"family": "Meddah",
+				"given": "Ishak H. A."
+			},
+			{
+				"family": "Belkadi",
+				"given": "Khaled"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/9XBICKBH",
+		"type": "article-journal",
+		"title": "Mining Patterns Using Business Process Management",
+		"container-title": "Handbook of Research on Biomimicry in Information Retrieval and Knowledge Management",
+		"page": "78-89",
+		"source": "www.igi-global.com",
+		"abstract": "Mining Patterns Using Business Process Management: 10.4018/978-1-5225-3004-6.ch005: Process mining provides an important bridge between data mining and business process analysis. This technique allows for the extraction of information from",
+		"URL": "https://www.igi-global.com/chapter/mining-patterns-using-business-process-management/197696",
+		"DOI": "10.4018/978-1-5225-3004-6.ch005",
+		"language": "en",
+		"author": [
+			{
+				"family": "Meddah",
+				"given": "Ishak H. A."
+			},
+			{
+				"family": "Belkadi",
+				"given": "Khaled"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/TL3KYS68",
+		"type": "article-journal",
+		"title": "Efficient Implementation of Hadoop MapReduce based Business Process Dataflow",
+		"container-title": "International Journal of Decision Support System Technology (IJDSST)",
+		"page": "49-60",
+		"volume": "9",
+		"issue": "1",
+		"source": "www.igi-global.com",
+		"abstract": "Efficient Implementation of Hadoop MapReduce based Business Process Dataflow: 10.4018/IJDSST.2017010104: Hadoop MapReduce is one of the solutions for the process of large and big data, with-it the authors can analyze and process data, it does this by distributing",
+		"URL": "https://www.igi-global.com/article/efficient-implementation-of-hadoop-mapreduce-based-business-process-dataflow/173477",
+		"DOI": "10.4018/IJDSST.2017010104",
+		"ISSN": "1941-6296 DOI: 10.4018/IJDSST.2017010104",
+		"journalAbbreviation": "IJDSST",
+		"language": "en",
+		"author": [
+			{
+				"family": "Meddah",
+				"given": "Ishak H. A."
+			},
+			{
+				"family": "Belkadi",
+				"given": "Khaled"
+			},
+			{
+				"family": "Boudia",
+				"given": "Mohamed Amine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	}
+]

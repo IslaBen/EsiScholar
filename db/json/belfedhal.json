@@ -1,0 +1,45 @@
+[
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/2J7GY6PS",
+		"type": "article-journal",
+		"title": "Building Secure and Fast Cryptographic Hash Functions Using Programmable Cellular Automata",
+		"container-title": "Journal of computing and information technology",
+		"page": "317-328",
+		"volume": "23",
+		"issue": "4",
+		"source": "hrcak.srce.hr",
+		"abstract": "Cryptographic hash functions have recently brought an exceptional research interest. With the increasing number of attacks against the widely used functions as MD5, SHA-1 and RIPEMD, the need to consider new hash functions design and...",
+		"URL": "https://hrcak.srce.hr/149737",
+		"DOI": "10.2498/cit.1002639",
+		"ISSN": "1330-1136",
+		"language": "en",
+		"author": [
+			{
+				"family": "Belfedhal",
+				"given": "Alaa Eddine"
+			},
+			{
+				"family": "Faraoun",
+				"given": "Kamel Mohamed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12,
+					18
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	}
+]

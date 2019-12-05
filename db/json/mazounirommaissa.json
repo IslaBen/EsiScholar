@@ -1,0 +1,81 @@
+[
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/ESG6EL77",
+		"type": "article-journal",
+		"title": "FuAGGE: A novel system to automatically generate fuzzy rule based learners",
+		"container-title": "Informatica",
+		"volume": "40",
+		"issue": "2",
+		"source": "Google Scholar",
+		"title-short": "FuAGGE",
+		"author": [
+			{
+				"family": "Mazouni",
+				"given": "Romaissaa"
+			},
+			{
+				"family": "Rahmoun",
+				"given": "Abdellatif"
+			},
+			{
+				"family": "Hervet",
+				"given": "Eric"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/ZBCTEFFD",
+		"type": "thesis",
+		"title": "A GENERIC GENETIC PROGRAMMING (GGP) TO GENERATE AUTOMATICALLY DEFINED FUNCTIONS (ADF's): application in datamining and information retrieval",
+		"genre": "PhD Thesis",
+		"source": "Google Scholar",
+		"title-short": "A GENERIC GENETIC PROGRAMMING (GGP) TO GENERATE AUTOMATICALLY DEFINED FUNCTIONS (ADF's)",
+		"author": [
+			{
+				"family": "MAZOUNI",
+				"given": "Romaissaa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/a4mEbG3l/items/X4KNQZQP",
+		"type": "chapter",
+		"title": "AGGE: A Novel Method to Automatically Generate Rule Induction Classifiers Using Grammatical Evolution",
+		"container-title": "Intelligent Distributed Computing VIII",
+		"publisher": "Springer",
+		"page": "279–288",
+		"source": "Google Scholar",
+		"title-short": "AGGE",
+		"author": [
+			{
+				"family": "Mazouni",
+				"given": "Romaissaa"
+			},
+			{
+				"family": "Rahmoun",
+				"given": "Abdellatif"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	}
+]

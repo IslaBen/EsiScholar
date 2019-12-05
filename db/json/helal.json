@@ -1,0 +1,64 @@
+[
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/TBR3PJBT",
+		"type": "webpage",
+		"title": "Kernel conditional quantile estimator under left truncation for functional regressors - Opuscula Mathematica - Tom Vol. 36, no. 1 (2016) - BazTech - Yadda",
+		"URL": "https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-5c857f3b-4dde-452e-8791-e09d85e0d792",
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/QWRLSW6G",
+		"type": "thesis",
+		"title": "Etude de la fonction des quantiles conditionnels pour des variables tronquées aléatoirement à gauche et à covariables fonctionnelles",
+		"genre": "Thesis",
+		"source": "rdoc.univ-sba.dz",
+		"abstract": "Dans cette thèse, nous étudions les propriétés asymptotiques de paramètres fonctionnelles en statistique non paramétrique pour des données incomplètes. Plus précisément, nous nous intéressons à la fonction quantile conditionnelle pour lesquelles nous construisons des estimateurs et nous étudions le comportement asymptotique dans le modèle tronqué.\nDans le premier travail, nous considérons une suite de variable aléatoire $\\{Y_{i}, i\\geq 1\\}$ identiquement distribuée, de fonction de répartition $F$,\ntronquée à gauche par une autre variable $\\{T_{i},  i\\geq 1\\}$  supposée aussi indépendante identiquement distribuée et indépendante de $Y_{i}$,  de telle sorte que l'on observe $(Y_{i},T_{i})$ seulement lorsque $Y_{i}\\geq T_{i}$, sinon rien n'est observé. Nous\nproposons un estimateur du quantile conditionnel et nous prouvons la convergence uniforme avec vitesse sur un sous-ensemble compact.\nDans le deuxième travail, nous établissons la normalité asymptotique de l'estimateur à noyau du quantile conditionnel. Nos résultats sont illustrés par des simulations.",
+		"URL": "http://rdoc.univ-sba.dz:8080/jspui/handle/123456789/959",
+		"language": "fr",
+		"author": [
+			{
+				"family": "Helal",
+				"given": "Nacera"
+			},
+			{
+				"family": "Encadreur: OUELD SAID",
+				"given": "Elias"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					2,
+					14
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	}
+]

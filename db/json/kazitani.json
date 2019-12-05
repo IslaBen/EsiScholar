@@ -1,0 +1,190 @@
+[
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/PTU9R3ZY",
+		"type": "webpage",
+		"title": "A Semi-Automatic Soccer Video Annotation System based on Ontology Paradigm - IEEE Conference Publication",
+		"URL": "https://ieeexplore.ieee.org/abstract/document/8809161/",
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/GCET98P6",
+		"type": "article-journal",
+		"title": "OVIS: ontology video surveillance indexing and retrieval system",
+		"container-title": "International Journal of Multimedia Information Retrieval",
+		"page": "295-316",
+		"volume": "6",
+		"issue": "4",
+		"source": "Springer Link",
+		"abstract": "Nowadays, the diversity and large deployment of video recorders result in a large volume of video data, whose effective use requires a video indexing process. However, this process generates a major problem consisting in the semantic gap between the extracted low-level features and the ground truth. The ontology paradigm provides a promising solution to overcome this problem. However, no naming syntax convention has been followed in the concept creation step, which constitutes another problem. In this paper, we have considered these two issues and have developed a full video surveillance ontology following a formal naming syntax convention and semantics that addresses queries of both academic research and industrial applications. In addition, we propose an ontology video surveillance indexing and retrieval system (OVIS) using a set of semantic web rule language (SWRL) rules that bridges the semantic gap problem. Currently, the existing indexing systems are essentially based on low-level features and the ontology paradigm is used only to support this process with representing surveillance domain. In this paper, we developed the OVIS system based on the SWRL rules and the experiments prove that our approach leads to promising results on the top video evaluation benchmarks and also shows new directions for future developments.",
+		"URL": "https://doi.org/10.1007/s13735-017-0133-z",
+		"DOI": "10.1007/s13735-017-0133-z",
+		"ISSN": "2192-662X",
+		"title-short": "OVIS",
+		"journalAbbreviation": "Int J Multimed Info Retr",
+		"language": "en",
+		"author": [
+			{
+				"family": "Tani",
+				"given": "Mohammed Yassine Kazi"
+			},
+			{
+				"literal": "Abdelghani Ghomari"
+			},
+			{
+				"family": "Lablack",
+				"given": "Adel"
+			},
+			{
+				"family": "Bilasco",
+				"given": "Ioan Marius"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					12,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/H2XLNS7Z",
+		"type": "paper-conference",
+		"title": "Events Detection Using a Video-Surveillance Ontology and a Rule-Based Approach",
+		"container-title": "Computer Vision - ECCV 2014 Workshops",
+		"collection-title": "Lecture Notes in Computer Science",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"page": "299-308",
+		"source": "Springer Link",
+		"event-place": "Cham",
+		"abstract": "In this paper, we propose the use of a Video-surveillance Ontology and a rule-based approach to detect an event. The scene is described using the concepts presented in the ontology. Then, the blobs are extracted from the video stream and are represented using the bounding boxes that enclose them. Finally, a set of rules have been proposed and have been applied to videos selected from PETS 2012 challenge that contain multiple objects events (e.g. Group walking, Group splitting, etc.).",
+		"DOI": "10.1007/978-3-319-16181-5_21",
+		"ISBN": "978-3-319-16181-5",
+		"language": "en",
+		"author": [
+			{
+				"family": "Kazi Tani",
+				"given": "Mohammed Yassine"
+			},
+			{
+				"family": "Lablack",
+				"given": "Adel"
+			},
+			{
+				"family": "Ghomari",
+				"given": "Abdelghani"
+			},
+			{
+				"family": "Bilasco",
+				"given": "Ioan Marius"
+			}
+		],
+		"editor": [
+			{
+				"family": "Agapito",
+				"given": "Lourdes"
+			},
+			{
+				"family": "Bronstein",
+				"given": "Michael M."
+			},
+			{
+				"family": "Rother",
+				"given": "Carsten"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/ZYNMR4ZA",
+		"type": "paper-conference",
+		"title": "Towards a new approach for video database semantic annotation",
+		"container-title": "2014 Science and Information Conference",
+		"page": "1030-1033",
+		"source": "IEEE Xplore",
+		"event": "2014 Science and Information Conference",
+		"abstract": "Video database annotation has become the area field of interest recently, where several methods and techniques emerge. Regarding manual annotation as seriously time-consuming and automatic ones as large-scale of video unsatisfied, our topic of interest belongs to the semi-automatic annotation, where a little set of video is annotated manually and this will be propagated to the entire databases. We try to consider annotation able to exploit unconsidered concepts to help for improving annotation and XML performance. Our approach takes the low level descriptors' MPEG7 file added to the ontology's lexicon as input, and defines concepts of high level as output. Hence, an annotated video database is created.",
+		"DOI": "10.1109/SAI.2014.6918316",
+		"author": [
+			{
+				"family": "Dali Youcef",
+				"given": "Lamia Fatiha"
+			},
+			{
+				"family": "Ghomari",
+				"given": "Abdelghani"
+			},
+			{
+				"family": "Tani",
+				"given": "Mohammed Yassine Kazi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/GJXEW663",
+		"type": "webpage",
+		"title": "An ontology based approach for inferring multiple object events in surveillance domain - IEEE Conference Publication",
+		"URL": "https://ieeexplore.ieee.org/abstract/document/6918219",
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	}
+]

@@ -1,0 +1,128 @@
+[
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/72MWI95Q",
+		"type": "paper-conference",
+		"title": "Soft Subspace Growing Neural Gas for Data Stream Clustering",
+		"container-title": "Artificial Neural Networks and Machine Learning – ICANN 2019: Text and Time Series",
+		"collection-title": "Lecture Notes in Computer Science",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"page": "569-580",
+		"source": "Springer Link",
+		"event-place": "Cham",
+		"abstract": "Subspace clustering aims at discovering the clusters embedded in multiple, overlapping subspaces of high dimensional data. It has been successfully applied in many domains such as financial transactions, telephone records, sensor network monitoring, website analysis, weather monitoring, etc. Data stream are ordered and potentially unbounded sequences of data points created by a typically non-stationary data generating process. Clustering this type of data requires both time and memory restrictions. In this paper, we propose S2G-Stream based on growing neural gas and soft subspace clustering. We introduce two types of entropy weighting for both features and subspaces. Experiments on public datasets showed the ability of S2G-Stream to: (1) detect relevant features and subspaces; (2) detect clusters of arbitrary shape; (3) enhance the clustering results.",
+		"DOI": "10.1007/978-3-030-30490-4_46",
+		"ISBN": "978-3-030-30490-4",
+		"language": "en",
+		"author": [
+			{
+				"family": "Attaoui",
+				"given": "Mohammed Oualid"
+			},
+			{
+				"family": "Lebbah",
+				"given": "Mustapha"
+			},
+			{
+				"family": "Keskes",
+				"given": "Nabil"
+			},
+			{
+				"family": "Azzag",
+				"given": "Hanene"
+			},
+			{
+				"family": "Ghesmoune",
+				"given": "Mohammed"
+			}
+		],
+		"editor": [
+			{
+				"family": "Tetko",
+				"given": "Igor V."
+			},
+			{
+				"family": "Kůrková",
+				"given": "Věra"
+			},
+			{
+				"family": "Karpov",
+				"given": "Pavel"
+			},
+			{
+				"family": "Theis",
+				"given": "Fabian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/YUVD7LW7",
+		"type": "paper-conference",
+		"title": "Soft Subspace Topological Clustering over Evolving Data Stream",
+		"container-title": "Advances in Self-Organizing Maps, Learning Vector Quantization, Clustering and Data Visualization",
+		"collection-title": "Advances in Intelligent Systems and Computing",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"page": "225-230",
+		"source": "Springer Link",
+		"event-place": "Cham",
+		"abstract": "Subspace clustering has been successfully applied in many domains and its goal is to simultaneously detect both clusters and subspaces of the original feature space where these clusters exist. A Data stream is a massive sequences of data coming continuously. Clustering this type of data requires some restrictions in time and memory. In this paper we propose a new method named S2G-Stream based on clustering data streams and soft subspace clustering. Experiments on public datasets showed the ability of S2G-Stream to detect simultaneously the best features, subspaces and the best clustering.",
+		"DOI": "10.1007/978-3-030-19642-4_22",
+		"ISBN": "978-3-030-19642-4",
+		"language": "en",
+		"author": [
+			{
+				"family": "Attaoui",
+				"given": "Mohammed Oualid"
+			},
+			{
+				"family": "Lebbah",
+				"given": "Mustapha"
+			},
+			{
+				"family": "Keskes",
+				"given": "Nabil"
+			},
+			{
+				"family": "Azzag",
+				"given": "Hanene"
+			},
+			{
+				"family": "Ghesmoune",
+				"given": "Mohammed"
+			}
+		],
+		"editor": [
+			{
+				"family": "Vellido",
+				"given": "Alfredo"
+			},
+			{
+				"family": "Gibert",
+				"given": "Karina"
+			},
+			{
+				"family": "Angulo",
+				"given": "Cecilio"
+			},
+			{
+				"family": "Martín Guerrero",
+				"given": "José David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	}
+]

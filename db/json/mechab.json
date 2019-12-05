@@ -1,0 +1,40 @@
+[
+	{
+		"id": "http://zotero.org/users/local/81nxslBP/items/6DSNF5XF",
+		"type": "thesis",
+		"title": "Analyse non-paramétrique par régression relative",
+		"genre": "Thesis",
+		"source": "rdoc.univ-sba.dz",
+		"abstract": "Les résultats que nous énonçons dans cette thèse sont principalement liés aux propriétés asymptotiques de la régression relative. Nous supposons pour commencer que le modèle de régression est de nature non-paramétrique et par la méthode du noyau, l'estimateur sera construit à partir de la minimisation de l'erreur relative au carré moyen.  Dans un premier temps, nous traitons le cas de la régression relative réelle et comme résultat asymptotique, on s'intéresse à la démonstration de la convergence presque complète de l'estimateur. Dans la deuxième partie de ce travail, nous supposons que l'échantillon étudié  est constitué de variables quasi-associées; sous des conditions de régularité qui caractérisent l'espace de notre modèle non-paramétrique, nous démontrons la convergence presque complète uniforme ainsi que la normalité asymptotique de notre estimateur. Ensuite, nous considérons le cas où la variable explicative est de type fonctionnel. Nous supposons que l'échantillon est composé de variables fortement-mélangeantes et nous établissons la convergence presque complète de l'estimateur étudié. Et à la fin, une application en liaison avec un problème de la congestion routière motive notre interprétation pour ce sujet.",
+		"URL": "http://rdoc.univ-sba.dz:8080/jspui/handle/123456789/1905",
+		"language": "fr",
+		"author": [
+			{
+				"family": "Mechab",
+				"given": "Wardia Chahinez"
+			},
+			{
+				"family": "Encadreur: LAKSACI",
+				"given": "Ali"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1,
+					31
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					7
+				]
+			]
+		}
+	}
+]

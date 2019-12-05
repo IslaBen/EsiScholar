@@ -1,0 +1,343 @@
+[
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/XZR6ZYMA",
+		"type": "webpage",
+		"title": "Object-based stereo video compression using fractals and shape-adaptive DCT - ScienceDirect",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S1434841114000521",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/E9PEGMC5",
+		"type": "webpage",
+		"title": "Object-based stereo video compression using fractals and shape-adaptive DCT",
+		"URL": "https://www.infona.pl/resource/bwmeta1.element.elsevier-236912f8-bc6c-3e84-93c0-0f373db16934",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/B9GSKLP5",
+		"type": "paper-conference",
+		"title": "Region based image retrieval using Shape-Adaptive DCT",
+		"container-title": "2014 IEEE China Summit & International Conference on Signal and Information Processing (ChinaSIP)",
+		"publisher": "IEEE",
+		"publisher-place": "Xi'an, China",
+		"page": "470-474",
+		"source": "Crossref",
+		"event": "2014 IEEE China Summit & International Conference on Signal and Information Processing (ChinaSIP)",
+		"event-place": "Xi'an, China",
+		"abstract": "Content-Based Image Retrieval (CBIR) is the process of searching digital images in a large database based on features, such as colour, texture and shape of a given query image. As many images are compressed by transforms, constructing the feature vector directly in transform domain is a very popular topic. Therefore features can be extracted directly from images in compressed format by using, for example, Discrete Cosine Transform (DCT) for JPEG compressed images. This paper proposes a new Region-Based Image Retrieval approach using a Shape Adaptive Discrete Cosine Transform (SADCT). In this retrieval system, an image has a prior segmentation alpha plane, which is deﬁned exactly as in MPEG-4. Therefore, an image is represented by segmented regions, and each region is associated with a feature vector derived from DCT and SA-DCT coefﬁcients. So we can select any region as the main theme of the query image. For those images without distinctive objects and scenes, users can still select the whole image as the query condition. The experimental results show that the proposed approach is able to identify main objects and reduce the inﬂuence of background in the image, and thus improve the performance of image retrieval in comparison with a conventional Content-Based Image Retrieval based on DCT.",
+		"URL": "http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6889287",
+		"DOI": "10.1109/ChinaSIP.2014.6889287",
+		"ISBN": "978-1-4799-5403-2",
+		"language": "en",
+		"author": [
+			{
+				"family": "Belloulata",
+				"given": "Kamel"
+			},
+			{
+				"family": "Belallouche",
+				"given": "Lakhdar"
+			},
+			{
+				"family": "Belalia",
+				"given": "Amina"
+			},
+			{
+				"family": "Kpalma",
+				"given": "Kidiyo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					7
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/LDRVBAMD",
+		"type": "article-journal",
+		"title": "Region-based image retrieval in the compressed domain using shape-adaptive DCT",
+		"container-title": "Multimedia Tools and Applications",
+		"page": "10175-10199",
+		"volume": "75",
+		"issue": "17",
+		"source": "Crossref",
+		"URL": "http://link.springer.com/10.1007/s11042-015-3026-2",
+		"DOI": "10.1007/s11042-015-3026-2",
+		"ISSN": "1380-7501, 1573-7721",
+		"language": "en",
+		"author": [
+			{
+				"family": "Belalia",
+				"given": "Amina"
+			},
+			{
+				"family": "Belloulata",
+				"given": "Kamel"
+			},
+			{
+				"family": "Kpalma",
+				"given": "Kidiyo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					9
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/UXWCJPGS",
+		"type": "article-journal",
+		"title": "Region-based image retrieval using shape-adaptive DCT",
+		"container-title": "International Journal of Multimedia Information Retrieval",
+		"page": "261-276",
+		"volume": "4",
+		"issue": "4",
+		"source": "Crossref",
+		"abstract": "Content-based image retrieval (CBIR) is the process of searching digital images in a large database based on features, such as color, texture and shape of a given query image. As many images are compressed by transforms, constructing the feature vector directly in transform domain is a very popular topic. Therefore, features can be extracted directly from images in compressed format by using, for example, discrete cosine transform (DCT) for JPEG compressed images. Also, region-based image retrieval (RBIR) has attracted great interest in recent years. This paper proposes a new RBIR approach using shape-adaptive discrete cosine transform (SA-DCT). In this retrieval system, an image has a prior segmentation alpha plane, which is deﬁned exactly as in MPEG-4. Therefore, an image is represented by segmented regions, each of which is associated with a feature vector derived from DCT and SA-DCT coefﬁcients. Users can select any region as the main theme of the query image. The similarity between a query image and any database image is ranked according to a same similarity measure computed from the selected regions between two images. For those images without distinctive objects and scenes, users can still select the whole image as the query condition. The experimental results show that the proposed approach is able to identify main objects and reduce the inﬂuence of background in the image, and thus improve the performance of image retrieval in comparison with a conventional CBIR based on DCT.",
+		"URL": "http://link.springer.com/10.1007/s13735-015-0084-1",
+		"DOI": "10.1007/s13735-015-0084-1",
+		"ISSN": "2192-6611, 2192-662X",
+		"language": "en",
+		"author": [
+			{
+				"family": "Belalia",
+				"given": "Amina"
+			},
+			{
+				"family": "Belloulata",
+				"given": "Kamel"
+			},
+			{
+				"family": "Kpalma",
+				"given": "Kidiyo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/3MFPNBP4",
+		"type": "article-journal",
+		"title": "Indexation Basée-Région d’Image Utilisant Shape-Adaptive DCT (SA-DCT)",
+		"source": "hal.univ-nantes.fr",
+		"abstract": "Ce papier propose une nouvelle approche dans le domaine de la recherche d’images par région (RBIR), utilisant la transformation cosinus discrète adaptée aux objets (SA-DCT). Dans ce système de recherche, une image a une segmentation a priori (alpha-plane), tel qu’il a était définit dans MPEG-4. Autrement dit, une image est représentée par des régions segmentées, et chaque région est associée à un vecteur de caractéristiques dérivé à partir de la DCT et la SA-DCT. Une fois les caractéristiques sont extraites, on désigne deux systèmes différents pour tester l’efficacité de la recherche. Ces deux systèmes diffèrent dans la formulation de la requête et le calcul de la mesure de similarité entre les images. Le premier système utilise la région d’intérêt comme requête, on le nomme: Technique basée sur une seule région (région par région) . Dans ce système, la distance entre la requête et les images de la base de données est le minimum de distances entre la région requête et toutes les régions des images de la base de données. Le deuxième système utilise une requête globale dans lequel une image requête entière est comparée avec les images entières de la base de données. On nomme ce système: Technique basée sur l’image globale (image par image). Les distances individuelles entre les régions des deux images sont combinées pour avoir une seule mesure de distance. Les résultats obtenus montrent que l’approche proposée est capable d’identifier l’objet principal et de réduire l’influence de l’arrière-plan, ceci améliore la performance de la recherche d’images en comparaison avec d’autres systèmes conventionnels utilisant la DCT dans le domaine CBIR et même avec des systèmes dans le domaine RBIR",
+		"URL": "https://hal.archives-ouvertes.fr/hal-01244463",
+		"language": "fr",
+		"author": [
+			{
+				"family": "Belalia",
+				"given": "Amina"
+			},
+			{
+				"family": "Belloulata",
+				"given": "Kamel"
+			},
+			{
+				"family": "Kpalma",
+				"given": "Kidiyo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12,
+					2
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/PXTNX8NS",
+		"type": "article-journal",
+		"title": "Nouvelle Méthode d’Indexation et de Recherche d’Image Basée-Région (RBIR) dans le Domaine Transformé Utilisant la SA-DCT",
+		"source": "hal.univ-nantes.fr",
+		"abstract": "La recherche d’images par le contenu (CBIR) est le processus qui permet la recherche des images numériques dans une large base de données. Comme la majorité des images sont stockées dans un format compressé, les caractéristiques peuvent être extraites directement à partir de la Transformée Cosinus Discrète (DCT) des images JPEG compressées. Dans la recherche d’images par le contenu qui utilise les blocs DCT, les blocs sont définis indépendamment du contenu de l’image. Les blocs contours contiennent des pixels de l’objet et d’autres de l’arrière-plan ou bien d’un autre objet qui se trouve à côté. Ainsi, l’indexation et la recherche indépendante des objets par cette méthode est impossible. Toutefois, la qualité de la recherche est très mauvaise. Aussi l’application de la DCT standard aux blocs frontières des objets entraîne une oscillation spectrale très importante. Pour contourner ce problème, on propose un système d’indexation et de la recherche d’images basée région (RBIR) qui prend en considération une segmentation à priori de l’image en régions, tel qu’il a était définit dans MPEG-4 et utilise la SA-DCT pour l’extraction des caractéristiques des blocs frontières. Donc une image est représentée par des régions segmentées, et chaque région est associée à un vecteur de caractéristiques dérivé à partir de la DCT pour les blocs intérieurs et la SA-DCT pour les segments des blocs frontières. Chaque région de l’image requête, peut être sélectionnée comme objet principal pour faire la recherche. Pour les images qui n’ont pas un objet principal, l’utilisateur peut sélectionner l’image entière comme requête. L’objectif du travail proposé est la confirmation de l’efficacité du système proposé par des résultats expérimentaux et des comparaisons par rapport aux systèmes déjà existants. Les résultats montrent l’efficacité et la justesse du système proposé et il est comparable avec des systèmes connus dans le domaine RBIR.",
+		"URL": "https://hal.archives-ouvertes.fr/hal-01244461",
+		"language": "fr",
+		"author": [
+			{
+				"family": "Belalia",
+				"given": "Amina"
+			},
+			{
+				"family": "Belloulata",
+				"given": "Kamel"
+			},
+			{
+				"family": "Kpalma",
+				"given": "Kidiyo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12,
+					2
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/F3YUIQGG",
+		"type": "thesis",
+		"title": "Compression et Indexation Basées-Région d'Image dans le Domaine Transformé Utilisant la SA-DCT",
+		"genre": "Thesis",
+		"source": "rdoc.univ-sba.dz",
+		"abstract": "Depuis de nombreuses années, l'image numérique est un outil favorisé dans des domaines très divers telles que la médecine, l'imagerie satellitaire et la télévision numérique. Dans ces domaines, lorsqu'on parle d'images et de séquences vidéo, ces sources d'informations brutes représentent une quantité de données très importantes et contiennent beaucoup de textures redondantes. D'où la nécessiter de mise en place des méthodes d'encodage et de compression, avant la transmission ou le stockage, qui permettent de représenter la même information mais avec beaucoup moins de données. En plus, puis ce que les images prennent une part de plus en plus volumineuse, il apparaît important de concevoir des systèmes d'indexations, capables de mener à terme la recherche d'informations au sein de très grandes collections d'images numériques.\r\nDans cette thèse, deux nouveaux systèmes basés-régions et basés sur les transformations DCT et SA-DCT, qui sont largement utilisées dans le domaine de la compression, sont proposés.\r\nLe premier système est un système de codage de la vidéo qui permet de coder les objets dans les images de la séquence de façon indépendante et d'offrir plus de flexibilité sur le contrôle de la largeur de bande pour la transmission. Ce codec permet de mieux coder les frontières de différentes régions.\r\nTandis que le deuxième système est un système d'indexation et de la recherche d'images basée région (RBIR) qui prend en considération une segmentation a priori de l'image en région, tel qu'il a été défini dans MPEG-4. Autrement dit, une image est représentée par des régions segmentées, et chaque région est associée à un vecteur de caractéristiques dérivé à partir de la DCT et la SA-DCT. Chaque région de l'image requête, peut être sélectionnée comme l'objet principal. Pour les images qui n'ont pas un objet principal, l'utilisateur peut sélectionner l'image entière comme requête.\r\nL'objectif du travail proposé est la confirmation de l'efficacité des systèmes proposés par des résultats expérimentaux et des comparaisons par rapport aux systèmes déjà existants. Un système conjoint peut être réalisé à partir des deux systèmes proposés puisqu'il s'agit de deux systèmes qui ont le même objectif (basé-région) et qui travaillent avec les mêmes transformations DCT et SA-DCT.",
+		"URL": "http://rdoc.univ-sba.dz:8080/jspui/handle/123456789/904",
+		"language": "fr",
+		"author": [
+			{
+				"family": "Belalia",
+				"given": "Amina"
+			},
+			{
+				"family": "Encadreur: BELLOULATA",
+				"given": "Kamel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/mPw2SqPs/items/MW992U2M",
+		"type": "article-journal",
+		"title": "Erratum to: Region-based image retrieval using shape-adaptive DCT",
+		"container-title": "International Journal of Multimedia Information Retrieval",
+		"page": "277-278",
+		"volume": "4",
+		"issue": "4",
+		"source": "Springer Link",
+		"URL": "https://doi.org/10.1007/s13735-015-0087-y",
+		"DOI": "10.1007/s13735-015-0087-y",
+		"ISSN": "2192-662X",
+		"shortTitle": "Erratum to",
+		"journalAbbreviation": "Int J Multimed Info Retr",
+		"language": "en",
+		"author": [
+			{
+				"family": "Belalia",
+				"given": "Amina"
+			},
+			{
+				"family": "Belloulata",
+				"given": "Kamel"
+			},
+			{
+				"family": "Kpalma",
+				"given": "Kidiyo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					6
+				]
+			]
+		}
+	}
+]

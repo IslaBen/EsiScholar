@@ -12,7 +12,7 @@ export class NgAutoCompleteComponent implements OnInit, OnChanges {
     if (changes['autoCompleteData']) {
       let x = document.getElementsByClassName("autocomplete-items")[0];
       if (x) x.parentNode.removeChild(x);
-      document.getElementById("myInput").value = "";
+      (<HTMLInputElement>document.getElementById("myInput")).value = "";
     }
   }
   constructor() { }

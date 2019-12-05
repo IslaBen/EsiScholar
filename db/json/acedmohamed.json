@@ -1,0 +1,126 @@
+[
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/4W2YSA5W",
+		"type": "article-journal",
+		"title": "Investigation of the structural and electronic properties of quantum well superlattices made of CuCl, CuBr and CuI",
+		"container-title": "Physica E: Low-dimensional Systems and Nanostructures",
+		"page": "45-49",
+		"volume": "41",
+		"issue": "1",
+		"source": "DOI.org (Crossref)",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S1386947708002178",
+		"DOI": "10.1016/j.physe.2008.05.022",
+		"ISSN": "13869477",
+		"journalAbbreviation": "Physica E: Low-dimensional Systems and Nanostructures",
+		"language": "en",
+		"author": [
+			{
+				"family": "Badi",
+				"given": "F."
+			},
+			{
+				"family": "Louhibi",
+				"given": "S."
+			},
+			{
+				"family": "Aced",
+				"given": "M.R."
+			},
+			{
+				"family": "Mehnane",
+				"given": "N."
+			},
+			{
+				"family": "Sekkal",
+				"given": "N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					10
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/J9TT344F",
+		"type": "article-journal",
+		"title": "Evidence of the correlation between a strong 4d-As/2p-N orbitals coupling and the bowing effect in GaAsN",
+		"container-title": "Physica B: Condensed Matter",
+		"page": "4281-4287",
+		"volume": "403",
+		"issue": "23-24",
+		"source": "DOI.org (Crossref)",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0921452608004109",
+		"DOI": "10.1016/j.physb.2008.09.019",
+		"ISSN": "09214526",
+		"journalAbbreviation": "Physica B: Condensed Matter",
+		"language": "en",
+		"author": [
+			{
+				"family": "Mehnane",
+				"given": "Noureddine"
+			},
+			{
+				"family": "Badi",
+				"given": "Fouzia"
+			},
+			{
+				"family": "Aced",
+				"given": "Mohammed Reda"
+			},
+			{
+				"family": "Abid",
+				"given": "Hamza"
+			},
+			{
+				"family": "Sekkal",
+				"given": "Nadir"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					12
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/aRhceXRC/items/APTGMMPU",
+		"type": "article-journal",
+		"title": "Les matériaux à Bandes Interdites Photoniques (BIPs)",
+		"abstract": "Les matériaux à bande interdite photonique ont une constante diélectrique structurée périodiquement, octroient ainsi aux photons un comportement analogue à celui des électrons dans les semi-conducteurs, c’est ainsi que des états photoniques se structurent en bandes spectrales séparées par des bandes interdites (où gaps) complètement dépourvues d’états. Dans ces domaines certaines fréquences ne peuvent pas être transmis, on comprend alors que ces matériaux apparaissent comme un véritable moyen par ingénierie des bandes interdites de contrôler la propagation des ondes électromagnétiques. Dans cette communication nous allons présenter les résultats obtenus concernant l’influence de certain paramètre sur la transmission dans les structures à bandes interdites photoniques 1D et 2D.",
+		"author": [
+			{
+				"family": "Aced",
+				"given": "MR"
+			},
+			{
+				"family": "Naoum",
+				"given": "R"
+			}
+		]
+	}
+]

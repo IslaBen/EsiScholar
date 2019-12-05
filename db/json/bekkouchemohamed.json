@@ -1,0 +1,261 @@
+[
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/K5MIHXSN",
+		"type": "paper-conference",
+		"title": "LocFaults: A New Flow-driven and Constraint-based Error Localization Approach",
+		"container-title": "Proceedings of the 30th Annual ACM Symposium on Applied Computing",
+		"collection-title": "SAC '15",
+		"publisher": "ACM",
+		"publisher-place": "New York, NY, USA",
+		"page": "1773–1780",
+		"source": "ACM Digital Library",
+		"event-place": "New York, NY, USA",
+		"abstract": "We introduce in this paper LocFaults, a new flow-driven and constraint-based approach for error localization. The input is a faulty program for which a counter-example and a postcondition are provided. To identify helpful information for error location, we generate a constraint system for the paths of the control flow graph for which at most k conditional statements may be erroneous. Then, we calculate Minimal Correction Sets (MCS) of bounded size for each of these paths. The removal of one of these sets of constraints yields a maximal satisfiable subset, in other words, a maximal subset of constraints satisfying the post condition. To compute the MCS, we extend the algorithm proposed by Liffiton and Sakallah [21] in order to handle programs with numerical statements more efficiently. The main advantage of this flow-driven approach is that the computed sets of suspicious instructions are small, each of them being associated with an identified path. Moreover, the constraint-programming based framework of LocFaults allows mixing Boolean and numerical constraints in an efficient and straightforward way. Preliminary experiments are quite encouraging.",
+		"URL": "http://doi.acm.org/10.1145/2695664.2695822",
+		"DOI": "10.1145/2695664.2695822",
+		"ISBN": "978-1-4503-3196-8",
+		"note": "event-place: Salamanca, Spain",
+		"title-short": "LocFaults",
+		"author": [
+			{
+				"family": "Bekkouche",
+				"given": "Mohammed"
+			},
+			{
+				"family": "Collavizza",
+				"given": "Hélène"
+			},
+			{
+				"family": "Rueher",
+				"given": "Michel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/YVJYLNQI",
+		"type": "article-journal",
+		"title": "Une approche CSP pour l'aide \\`a la localisation d'erreurs",
+		"container-title": "arXiv:1404.6567 [cs]",
+		"source": "arXiv.org",
+		"abstract": "We introduce in this paper a new CP-based approach to support errors location in a program for which a counter-example is available, i.e. an instantiation of the input variables that violates the post-condition. To provide helpful information for error location, we generate a constraint system for the paths of the CFG (Control Flow Graph) for which at most k conditional statements may be erroneous. Then, we calculate Minimal Correction Sets (MCS) of bounded size for each of these paths. The removal of one of these sets of constraints yields a maximal satisfiable subset, in other words, a maximal subset of constraints satisfying the post condition. We extend the algorithm proposed by Liffiton and Sakallah \\cite{LiS08} to handle programs with numerical statements more efficiently. We present preliminary experimental results that are quite encouraging.",
+		"URL": "http://arxiv.org/abs/1404.6567",
+		"note": "arXiv: 1404.6567",
+		"author": [
+			{
+				"family": "Bekkouche",
+				"given": "Mohammed"
+			},
+			{
+				"family": "Collavizza",
+				"given": "Hélène"
+			},
+			{
+				"family": "Rueher",
+				"given": "Michel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					4,
+					25
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/RBQLTNHG",
+		"type": "webpage",
+		"title": "[1503.05508] Exploration of the scalability of LocFaults approach for error localization with While-loops programs",
+		"URL": "https://arxiv.org/abs/1503.05508",
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/TFI5B7FF",
+		"type": "webpage",
+		"title": "[1505.06324] Un algorithme incrémental dirigé par les flots et basé sur les contraintes pour l'aide à la localisation d'erreurs",
+		"URL": "https://arxiv.org/abs/1505.06324",
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/VBMDXEGD",
+		"type": "article-journal",
+		"title": "Combining techniques of bounded model checking and constraint programming to aid for error localization",
+		"container-title": "Constraints",
+		"page": "93-94",
+		"volume": "22",
+		"issue": "1",
+		"source": "Springer Link",
+		"abstract": "A model checker can produce a trace of counter-example for erroneous program, which is often difficult to exploit to locate errors in source code. In my thesis, we proposed an error localization algorithm from counter-examples, named LocFaults, combining approaches of Bounded Model-Checking (BMC) with constraint satisfaction problem (CSP). This algorithm analyzes the paths of CFG (Control Flow Graph) of the erroneous program to calculate the subsets of suspicious instructions to correct the program. Indeed, we generate a system of constraints for paths of control flow graph for which at most k conditional statements can be wrong. Then we calculate the MCSs (Minimal Correction Sets) of limited size on each of these paths. Removal of one of these sets of constraints gives a maximal satisfiable subset, in other words, a maximal subset of constraints satisfying the postcondition. To calculate the MCSs, we extend the generic algorithm proposed by Liffiton and Sakallah in order to deal with programs with numerical instructions more efficiently. This approach has been experimentally evaluated on a set of academic and realistic programs.",
+		"URL": "https://doi.org/10.1007/s10601-016-9259-5",
+		"DOI": "10.1007/s10601-016-9259-5",
+		"ISSN": "1572-9354",
+		"journalAbbreviation": "Constraints",
+		"language": "en",
+		"author": [
+			{
+				"family": "Bekkouche",
+				"given": "Mohammed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/ZYHTC23M",
+		"type": "webpage",
+		"title": "Archive ouverte HAL - Combinaison des techniques de Bounded Model Checking et de Programmation Par Contraintes pour l'aide à la localisation d'erreurs",
+		"URL": "https://hal.archives-ouvertes.fr/tel-01242557/",
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/UBFW6WWB",
+		"type": "report",
+		"title": "Une approche combinant les techniques BMC et un problème CSP pour l'aide à la localisation d'erreurs",
+		"publisher": "Université Nice Sophia Antipolis ; Université d'Oran 1",
+		"genre": "Research Report",
+		"source": "HAL Archives Ouvertes",
+		"abstract": "Un véricateur de modèle peut produire une trace de contre-exemple, pour un programme erroné, qui est souvent inutile (longue et dicile) pour localiser les erreurs dans le code source. Dans ma thèse, nous avons proposé un algorithme de localisation d'erreurs à partir de contre-exemples, nommé LocFaults, combinant les approches de Bounded Model-Checking (BMC) avec un problème de satisfaction de contraintes (CSP). Cet algorithme analyse les chemins du CFG (Control Flow Graph) du programme erroné pour calculer les sous-ensembles d'instructions sus-pectes permettant de corriger le programme. En eet, nous générons un système de contraintes pour les chemins du graphe de ot de contrôle pour lesquels au plus k instructions conditionnelles peuvent être erronées. Ensuite, nous calculons les MCSs (Minimal Correction Sets) de taille lim-itée sur chacun de ces chemins. La suppression de l'un de ces ensembles de contraintes donne un sous-ensemble satisable maximal, en d'autres termes, un sous-ensemble maximal de contraintes satisfaisant la post-condition. Pour calculer les MCSs, nous étendons l'algorithme générique proposé par Liton et Sakallah dans le but de traiter des programmes avec des instructions numériques plus ecacement.",
+		"URL": "https://hal.archives-ouvertes.fr/hal-01246824",
+		"author": [
+			{
+				"family": "Bekkouche",
+				"given": "Mohammed"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					6
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/VSVIDJJB",
+		"type": "webpage",
+		"title": "[1503.05530] Exploration of the scalability of LocFaults",
+		"URL": "https://arxiv.org/abs/1503.05530",
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	}
+]

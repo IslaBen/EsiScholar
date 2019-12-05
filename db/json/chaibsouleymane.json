@@ -1,0 +1,86 @@
+[
+	{
+		"id": "http://zotero.org/users/local/81nxslBP/items/JQLJUKZ3",
+		"type": "webpage",
+		"title": "Deep feature extraction and combination for remote sensing image classification based on pre-trained CNN models",
+		"URL": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10420/104203D/Deep-feature-extraction-and-combination-for-remote-sensing-image-classification/10.1117/12.2281755.short?SSO=1",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/81nxslBP/items/9SXM8MN6",
+		"type": "article-journal",
+		"title": "Deep Feature Fusion for VHR Remote Sensing Scene Classification",
+		"container-title": "IEEE Transactions on Geoscience and Remote Sensing",
+		"page": "4775-4784",
+		"volume": "55",
+		"issue": "8",
+		"source": "IEEE Xplore",
+		"abstract": "The rapid development of remote sensing technology allows us to get images with high and very high resolution (VHR). VHR imagery scene classification has become an important and challenging problem. In this paper, we introduce a framework for VHR scene understanding. First, the pretrained visual geometry group network (VGG-Net) model is proposed as deep feature extractors to extract informative features from the original VHR images. Second, we select the fully connected layers constructed by VGG-Net in which each layer is regarded as separated feature descriptors. And then we combine between them to construct final representation of the VHR image scenes. Third, discriminant correlation analysis (DCA) is adopted as feature fusion strategy to further refine the original features extracting from VGG-Net, which allows a more efficient fusion approach with small cost than the traditional feature fusion strategies. We apply our approach to three challenging data sets: 1) UC MERCED data set that contains 21 different areal scene categories with submeter resolution; 2) WHU-RS data set that contains 19 challenging scene categories with various resolutions; and 3) the Aerial Image data set that has a number of 10 000 images within 30 challenging scene categories with various resolutions. The experimental results demonstrate that our proposed method outperforms the state-of-the-art approaches. Using feature fusion technique achieves a higher accuracy than solely using the raw deep features. Moreover, the proposed method based on DCA fusion produces good informative features to describe the images scene with much lower dimension.",
+		"DOI": "10.1109/TGRS.2017.2700322",
+		"ISSN": "0196-2892, 1558-0644",
+		"author": [
+			{
+				"family": "Chaib",
+				"given": "Souleyman"
+			},
+			{
+				"family": "Liu",
+				"given": "Huan"
+			},
+			{
+				"family": "Gu",
+				"given": "Yanfeng"
+			},
+			{
+				"family": "Yao",
+				"given": "Hongxun"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/81nxslBP/items/E9U6FNW7",
+		"type": "webpage",
+		"title": "Feature extraction based on extended multi-attribute profiles and sparse autoencoder for remote sensing image classification",
+		"URL": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10607/106070W/Feature-extraction-based-on-extended-multi-attribute-profiles-and-sparse/10.1117/12.2288350.short",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/81nxslBP/items/IK6V8R6I",
+		"type": "webpage",
+		"title": "Bag-of-visual-words based feature extraction for SAR target classification",
+		"URL": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10420/104201J/Bag-of-visual-words-based-feature-extraction-for-SAR-target/10.1117/12.2281707.short",
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					7
+				]
+			]
+		}
+	}
+]

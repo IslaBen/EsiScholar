@@ -1,0 +1,135 @@
+[
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/RGYBX9U6",
+		"type": "paper-conference",
+		"title": "Hybrid Fragmentation of XML Data Warehouse Using K-Means Algorithm",
+		"container-title": "Advances in Databases and Information Systems",
+		"collection-title": "Lecture Notes in Computer Science",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"page": "70-82",
+		"source": "Springer Link",
+		"event-place": "Cham",
+		"abstract": "The efficiency of the decision-making process in an XML data warehouse environment, is in a narrow relation with the performances of decision-support queries. Optimize these performances, automatically contribute in improving decision making. One of the important performances optimization techniques in XML data warehouse is fragmentation with its different variants (horizontal fragmentation and vertical fragmentation). In this paper, we develop a hybrid fragmentation algorithm combining a vertical fragmentation based on XPath expressions and a horizontal fragmentation based on selection predicates. To control the number of fragments, we use the K-Means algorithm. Finally, we validate our approach under Oracle Berkeley DB XML by several experiments done on XML data, derived from the XWB benchmark.",
+		"DOI": "10.1007/978-3-319-10933-6_6",
+		"ISBN": "978-3-319-10933-6",
+		"language": "en",
+		"author": [
+			{
+				"family": "Kechar",
+				"given": "Mohamed"
+			},
+			{
+				"family": "Bahloul",
+				"given": "Safia Nait"
+			}
+		],
+		"editor": [
+			{
+				"family": "Manolopoulos",
+				"given": "Yannis"
+			},
+			{
+				"family": "Trajcevski",
+				"given": "Goce"
+			},
+			{
+				"family": "Kon-Popovska",
+				"given": "Margita"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/SIJWSRRN",
+		"type": "paper-conference",
+		"title": "An Access Control System Architecture for XML Data Warehouse Using XACML",
+		"container-title": "Proceedings of the International Conference on Intelligent Information Processing, Security and Advanced Communication",
+		"collection-title": "IPAC '15",
+		"publisher": "ACM",
+		"publisher-place": "New York, NY, USA",
+		"page": "15:1–15:6",
+		"source": "ACM Digital Library",
+		"event-place": "New York, NY, USA",
+		"abstract": "Controlling access to the XML data warehouse without affecting the performances of the decision-support queries, allows protecting its XML data against unauthorized access, and helps to a good decision making leading to the growth of the company. In this paper, we propose to secure the XML documents of the warehouse at a fine level without deteriorating its performances. To achieve this, we implement independently of the XML data warehouse, a role based access control system by exploiting both the policy language, and the architecture of the XACML standard.",
+		"URL": "http://doi.acm.org/10.1145/2816839.2816897",
+		"DOI": "10.1145/2816839.2816897",
+		"ISBN": "978-1-4503-3458-7",
+		"note": "event-place: Batna, Algeria",
+		"author": [
+			{
+				"family": "Kechar",
+				"given": "Mohamed"
+			},
+			{
+				"family": "Bahloul",
+				"given": "Safia Nait"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/33GY7ZAJ",
+		"type": "article-journal",
+		"title": "Performance optimisation of the decision-support queries by the horizontal fragmentation of the data warehouse",
+		"container-title": "International Journal of Business Information Systems",
+		"page": "506-537",
+		"volume": "26",
+		"issue": "4",
+		"source": "inderscienceonline.com (Atypon)",
+		"abstract": "The horizontal fragmentation of the data warehouse is considered as one of the important performance optimisation techniques of the decision-support queries. This optimisation is reached only if the large data volume of the fact table is horizontally fragmented. For that, the fragments of the fact table are always derived from the fragments of the dimension tables. Unfortunately, in this type of fragmentation, the fragments number can dramatically increase, and their maintenance becomes quite hard and costly. Thus, to reduce the number of the fragments and to further optimise the decision-support queries performances, we propose to fragment horizontally only the fact table by exploiting jointly: the selectivities of the selection predicates, their occurrence numbers, and their access frequencies. To prove the effectiveness of our fragmentation technique, we present at the end, a set of experimental results conducted under Oracle 10g on the APB-1 benchmark.",
+		"URL": "https://www.inderscienceonline.com/doi/abs/10.1504/IJBIS.2017.087750",
+		"DOI": "10.1504/IJBIS.2017.087750",
+		"ISSN": "1746-0972",
+		"journalAbbreviation": "International Journal of Business Information Systems",
+		"author": [
+			{
+				"family": "Kechar",
+				"given": "Mohamed"
+			},
+			{
+				"family": "Nait-Bahloul",
+				"given": "Safia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1,
+					1
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	}
+]

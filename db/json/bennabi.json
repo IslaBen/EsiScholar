@@ -1,0 +1,90 @@
+[
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/UR3EGWSU",
+		"type": "paper-conference",
+		"title": "An Empirical Study on the Effect of Weighting Schemes and Machine Learning Algorithms on the Arabic Text Classification",
+		"source": "ResearchGate",
+		"author": [
+			{
+				"family": "Bennabi",
+				"given": "Sakina Rim"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/HULR43MN",
+		"type": "paper-conference",
+		"title": "Text Mining on the Grid computing",
+		"source": "ResearchGate",
+		"author": [
+			{
+				"family": "Bennabi",
+				"given": "Sakina Rim"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					11,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/NX6T9HWU",
+		"type": "paper-conference",
+		"title": "An Empirical Study on the Effect of Weighting Schemes and Machine Learning Algorithms on the Arabic Text Classification",
+		"source": "ResearchGate",
+		"author": [
+			{
+				"family": "Bennabi",
+				"given": "Sakina Rim"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					11,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2r2V2iui/items/5RKKBGYL",
+		"type": "paper-conference",
+		"title": "Using Text Preprocessing on the Grid Environment",
+		"source": "ResearchGate",
+		"author": [
+			{
+				"family": "Bennabi",
+				"given": "Sakina Rim"
+			},
+			{
+				"family": "ELBERRICHI",
+				"given": "Zakaria"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					3,
+					10
+				]
+			]
+		}
+	}
+]

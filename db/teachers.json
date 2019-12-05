@@ -1,0 +1,508 @@
+{
+	"image":"./images/mimoun malki.jpg",
+	"firstName" : "Mimoun",
+	"lastName": "Malki",
+	"grade" : "professor",
+	"domain":"Computer Science",
+	"group" : "ISEWD TM", 
+	"articles": "./json/mimounmalki.json"
+	}
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Wardia Chanhinez",
+	"lastName": "Mechab",
+	"grade" : "MCB",
+	"domain":"Mathematics",
+	"group" : "",
+	"articles" : "./json/mechab.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Djihed",
+	"lastName": "Anani",
+	"grade" : "MCB",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/ananidjihed.json" }
+
+{
+	"image":"./images/aced mohamed.jpg",
+	"firstName" : "Mohamed Réda",
+	"lastName": "Aced",
+	"grade" : "MAA",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/acedmohamed.json" }
+
+{
+	"image":"./images/azza mohamed.jpg",
+	"firstName" : "Mohamed",
+	"lastName": "Azza",
+	"grade" : "MCB",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/azzamohammed.json" }
+
+{
+	"image":"./images/allal lamia.jpg",
+	"firstName" : "Lamia",
+	"lastName": "Allal",
+	"grade" : "MCB",
+	"domain":"Computer Science",
+	"group" : "", 
+	"articles": "./json/allallamia.json"}
+
+{
+	"image":"./images/badsi hichem.jpg",
+	"firstName" : "Hichem",
+	"lastName": "Badsi",
+	"grade" : "MAA",
+	"domain":"Computer Science",
+	"group" : "CISCO TM",
+	"articles" : "./json/badsihichem.json" }
+
+{
+	"image":"./images/amar bensaber djamel.jpg",
+	"firstName" : "Djamel",
+	"lastName": "Amar Bensaber",
+	"grade" : "MCA",
+	"domain":"Computer Science",
+	"group" : "DASE TM",
+	"articles" : "./json/amarbensaberdjamel.json" }
+
+{
+	"image":"./images/baghli asmaa.jpg",
+	"firstName" : "Asmaa",
+	"lastName": "Baghli",
+	"grade" : "MAA",
+	"domain":"English",
+	"group" : "",
+	"articles" : "./json/baghliasmaa.json" }
+
+{
+	"image":"./images/bekkouche mohamed.jpg",
+	"firstName" : "Mohammed",
+	"lastName": "Bekkouche",
+	"grade" : "MAB",
+	"domain":"English",
+	"group" : "",
+	"articles" : "./json/bekkouchemohamed.json" }
+
+{
+	"image":"./images/bendaoued fayssel.jpg",
+	"firstName" : "Fayssal",
+	"lastName": "Bendaoud",
+	"grade" : "MAB",
+	"domain":"English",
+	"group" : "ISEWD TM",
+	"articles" : "./json/bendaouedfayssal.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Amina",
+	"lastName": "Belalia",
+	"grade" : "MCB",
+	"domain":"Electronic",
+	"group" : "",
+	"articles" :"./json/aminabelalia.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Sakina Rim",
+	"lastName": "Bennabi",
+	"grade" : "MAB",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/bennabi.json" }
+
+{
+	"image":"./images/belfedhal alaa edine.jpg",
+	"firstName" : "Alaa Eddine",
+	"lastName": "Belfedhal",
+	"grade" : "MCB",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/belfedhal.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Khayra",
+	"lastName": "Benchrif",
+	"grade" : "MAB",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/benchrifkhayra.json" }
+
+{
+	"image":"./images/benslimane sidi mohamed.jpg",
+	"firstName" : "Sidi Mohamed",
+	"lastName": "Benslimane",
+	"grade" : "professor",
+	"domain":"Computer Science",
+	"group" : "SOC TM",
+	"articles" : "./json/benslimanmohamed.json" }
+
+{
+	"image":"./images/bouachria ahmed.jpg",
+	"firstName" : "Ahmed",
+	"lastName": "Bouachria",
+	"grade" : "MCB",
+	"domain":"Computer Science",
+	"group" : "CISCO TM" }
+
+{
+	"image":"./images/elouali nadia.jpg",
+	"firstName" : "Nadia",
+	"lastName": "Elouali",
+	"grade" : "MAB",
+	"domain":"Computer Science",
+	"group" : "SOC TM",
+	"articles" : "./json/eloualinadia.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Fatima",
+	"lastName": "Bouazzaoui",
+	"grade" : "MCB",
+	"domain":"Mathematics",
+	"group" : "",
+	"articles" : "./json/bouazzaouifatima.json"}
+
+{
+	"image":"./images/ferroui ramzi.jpg",
+	"firstName" : "Ramzi",
+	"lastName": "Ferroui",
+	"grade" : "MAB",
+	"domain":"Economy",
+	"group" : "",
+	"articles" : "" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Zouaouia",
+	"lastName": "Boulenoir",
+	"grade" : "MCB",
+	"domain":"Mathematics",
+	"group" : "",
+	"articles" : "./json/boulenoir.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Hafidha",
+	"lastName": "Harraga",
+	"grade" : "MCB",
+	"domain":"Mathematics",
+	"group" : "",
+	"articles" : "./json/hafidhaharraga.json" }
+
+{
+	"image":"./images/el arbi boudhir mohamed.jpg",
+	"firstName" : "Mohamed",
+	"lastName": "El Arbi Boudihir",
+	"grade" : "MCA",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/elarbiboudhirmohammed.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Hanae",
+	"lastName": "Naoum",
+	"grade" : "professor",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/naoumhanae.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Nacera",
+	"lastName": "Helal",
+	"grade" : "MCB",
+	"domain":"Mathematics",
+	"group" : "",
+	"articles" : "./json/helal.json" }
+
+{
+	"image":"./images/kazi tani mohammed yacine.jpg",
+	"firstName" : "Mohammed Yacine",
+	"lastName": "Kazi Tani ",
+	"grade" : "MAB",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/kazitani.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Badia",
+	"lastName": "Klouche",
+	"grade" : "MAB",
+	"domain":"Computer Science",
+	"group" : "SOC TM",
+	"articles" : "./json/klouche.json" }
+
+{
+	"image":"./images/kechar mohamed.jpg",
+	"firstName" : "Mohamed",
+	"lastName": "Kechar",
+	"grade" : "MCB",
+	"domain":"Computer Science",
+	"group" : "SOC TM",
+	"articles" : "./json/kecharmohamed.json" }
+
+{
+	"image":"./images/mahammed nadir.jpg",
+	"firstName" : "Nadir",
+	"lastName": "Mahammed",
+	"grade" : "MCB",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/mahammednadir.json" }
+
+{
+	"image":"./images/kies nadia.jpg",
+	"firstName" : "Nadia",
+	"lastName": "Kies",
+	"grade" : "professor",
+	"domain":"English",
+	"group" : "",
+	"articles" : "./json/kiesnadia.json" }
+
+{
+	"image":"./images/keskes nabil.jpg",
+	"firstName" : "Nabil",
+	"lastName": "KesKes",
+	"grade" : "professor",
+	"domain":"Computer Science",
+	"group" : "DASE TM",
+	"articles" : "./json/keskesnabil.json" }
+
+{
+	"image":"./images/malki abdelhamid.jpg",
+	"firstName" : "Abdelhamid",
+	"lastName": "Malki",
+	"grade" : "MCB",
+	"domain":"Computer Science",
+	"group" : "SOC TM",
+	"articles" : "./json/malkiabdelhamid.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Hind",
+	"lastName": "Mami",
+	"grade" : "MAB",
+	"domain":"French",
+	"group" : "",
+	"articles" : "./json/mami.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Nafissa",
+	"lastName": "Messabihi",
+	"grade" : "professor",
+	"domain":"Mathematics",
+	"group" : "",
+	"articles" : "" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Roumaissaa",
+	"lastName": "Mazouni",
+	"grade" : "MCB",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/mazounirommaissa.json" }
+
+{
+	"image":"./images/mostefaoui mohammed.jpg",
+	"firstName" : "Mohammed",
+	"lastName": "Mostefaoui",
+	"grade" : "MAB",
+	"domain":"Electronic",
+	"group" : "",
+	"articles" : "./json/mostafaouimohammed.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Ishak Hibat Allah Abdelouahab",
+	"lastName": "Meddah",
+	"grade" : "MAB",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/meddahishak.json" }
+
+{
+	"image":"./images/naceri amina.jpg",
+	"firstName" : "Amina",
+	"lastName": "Naceri",
+	"grade" : "MAB",
+	"domain":"Mathematics",
+	"group" : "",
+	"articles" : "./json/naceriamina.json" }
+
+{
+	"image":"./images/rahmoun abdellatif.jpg",
+	"firstName" : "Abdellatif",
+	"lastName": "Rahmoun",
+	"grade" : "professor",
+	"domain":"Computer Science",
+	"group" : "CISCO TM",
+	"articles" : "./json/rahmoun.json" }
+
+{
+	"image":"./images/simohamed nasredine.jpg",
+	"firstName" : "Nasredine",
+	"lastName": "Simohamed",
+	"grade" : "MAA",
+	"domain":"Computer Science",
+	"group" : "DASE TM" ,
+	"articles" : ""}
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Imene",
+	"lastName": "Saidi",
+	"grade" : "MAB",
+	"domain":"Computer Science",
+	"group" : "DASE TM",
+	"articles" : "./json/saidiimene.json" }
+
+{
+	"image":"./images/smahat mohamed.jpg",
+	"firstName" : "Mohamed",
+	"lastName": "Smahat",
+	"grade" : "MAA",
+	"domain":"Computer Science",
+	"group" : "ISEWD TM",
+	"articles" : "" }
+
+{
+	"image":"./images/saidi mohammed.jpg",
+	"firstName" : "Mohammed El-Fatih",
+	"lastName": "Saidi",
+	"grade" : "MAA",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/saidimohammed.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Amina",
+	"lastName": "Souyah",
+	"grade" : "MAB",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/souyahamina.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Karima",
+	"lastName": "Sail",
+	"grade" : "MCB",
+	"domain":"Electronic",
+	"group" : "",
+	"articles" : "./json/sailkarima.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Samia",
+	"lastName": "Youcefi",
+	"grade" : "MCB",
+	"domain":"Mathematics",
+	"group" : "",
+	"articles" : "./json/youcefisamia.json" }
+
+{
+	"image":"./images/mekri zouaoui.jpg",
+	"firstName" : "Zouaoui",
+	"lastName": "Mekri",
+	"grade" : "",
+	"domain":"Mathematics",
+	"group" : "",
+	"articles" : "./json/mekrizouaoui.json" }
+
+{
+	"image":"./images/chaib souleyman.jpg",
+	"firstName" : "Souleyman",
+	"lastName": "Chaib",
+	"grade" : "",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/chaibsouleymane.json"}
+
+{
+	"image":"./images/bensenane hamdan.jpg",
+	"firstName" : "Hamdan",
+	"lastName": "Bensenane",
+	"grade" : "MAB",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/bensenanehamdan.json"}
+
+{
+	"image":"./images/gheid zakaria.jpg",
+	"firstName" : "Zakaria",
+	"lastName": "Gheid",
+	"grade" : "",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/gheidzakaria.json" }
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Mohammed Oualid",
+	"lastName": "Attaoui",
+	"grade" : "",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/attaoui.json" }
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Samir",
+	"lastName": "Awad",
+	"grade" : "",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/awad.json" }
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Zouhir",
+	"lastName": "Bellal",
+	"grade" : "",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/bellal.json" }
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Abdelkader",
+	"lastName": "Benzohra",
+	"grade" : "",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/benzohra.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Fatima Souad",
+	"lastName": "Bezzaoucha",
+	"grade" : "",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/bezzaoucha.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Dalila Djoher",
+	"lastName": "Graba",
+	"grade" : "",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/graba.json" }
+
+{
+	"image":"./images/random.jpg",
+	"firstName" : "Nawel",
+	"lastName": "Sekkal",
+	"grade" : "",
+	"domain":"Computer Science",
+	"group" : "",
+	"articles" : "./json/sekkal.json" }

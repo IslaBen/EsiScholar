@@ -1,0 +1,206 @@
+[
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/P7I235F4",
+		"type": "webpage",
+		"title": "An audio indexing and retrieval approach using a video surveillance ontology - IEEE Conference Publication",
+		"URL": "https://ieeexplore.ieee.org/abstract/document/8252112",
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/K5J59QYV",
+		"type": "article-journal",
+		"title": "A modified-SAW for network selection in heterogeneous wireless networks",
+		"container-title": "ECTI Transactions on Electrical Engineering, Electronics, and Communications",
+		"page": "8-17",
+		"volume": "15",
+		"issue": "2",
+		"source": "ecti-eec.org",
+		"abstract": "In the context of heterogeneous networks, users with multi-mode terminals can connect to different radio access technologies such as 802.16, 802.11, HSPA and LTE at the same time. The challenge here is to achieve the Always Best Connected ABC concept; the main issue is the automatic choice of the suitable Radio Access Technology RAT from the list of the available RATs. This decision is called the network selection. In this paper, we propose a modified-SAW function to deal with the drawbacks of the existing solutions. Indeed, the existing MADMs methods suffer mainly from the famous problem of rank reversal once an alternative is added or removed, other problems occur in the legacy MADMs such as the sensitiveness to the user preference in TOPSIS; the penalization of the alternatives with poor attributes values in WPM. Our simulations brought out the lakes of the traditional MADMs approach in the context of network selection. We modify the SAW method intelligently and we use it to solve the network selection problem. Finally, we compare the performance of our solution with the previous works in different scenarios; the simulations show that our proposal outperforms the other existing methods.",
+		"URL": "https://ecti-eec.org/index.php/ecti-eec/article/view/382",
+		"ISSN": "1685-9545",
+		"language": "en",
+		"author": [
+			{
+				"family": "Bendaoud",
+				"given": "Fayssal"
+			},
+			{
+				"family": "Didi",
+				"given": "Fedoua"
+			},
+			{
+				"family": "Abdennebi",
+				"given": "Marwen"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					9,
+					5
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/4T7IW3ET",
+		"type": "article",
+		"title": "Network Selection in Wireless Heterogeneous Networks: a Survey"
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/SBDPEM55",
+		"type": "paper-conference",
+		"title": "Network selection using game theory",
+		"container-title": "2015 3rd International Conference on Control, Engineering Information Technology (CEIT)",
+		"page": "1-6",
+		"source": "IEEE Xplore",
+		"event": "2015 3rd International Conference on Control, Engineering Information Technology (CEIT)",
+		"abstract": "Heterogeneous Wireless Networks HWNs are combined networks made of different Radio Access Technologies RATs aiming to achieve the ABC (Always Best Connected) concept. In this context, users with multi interface terminal can connect to different wireless technologies such as 802.16, 802.11, UMTS, HSPA and LTE in the same time. The main issue of HWNs is the choice of the suitable access network from the available RATs list; this decision is called the network selection. Network selection process depend on several parameters such QoS, mobility, cost (money and battery-life)...etc. this paper propose a network selection model using game theory. The paper presents the network selection problem, after that, introduces the game theory models, and finally solving the network selection problem using the game theory framework.",
+		"DOI": "10.1109/CEIT.2015.7233014",
+		"author": [
+			{
+				"family": "Bendaoud",
+				"given": "Fayssal"
+			},
+			{
+				"family": "Abdennebi",
+				"given": "Marwen"
+			},
+			{
+				"family": "Didi",
+				"given": "Fedoua"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/CD9U97VE",
+		"type": "article",
+		"title": "Network Selection schemes in Heterogeneous Wireless Networks"
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/V69NNJCY",
+		"type": "article-journal",
+		"title": "Survey On Scheduling And Radio Resources Allocation In Lte",
+		"container-title": "International Journal of Next-Generation Networks",
+		"page": "17-29",
+		"volume": "6",
+		"issue": "1",
+		"source": "arXiv.org",
+		"abstract": "This paper focuses on an essential task of the enhanced NodeB eNodeB element in LTE architecture, the Radio Resource Manager RRM, which aims to accept or reject requests for connection to the network based on some constraints and ensuring optimal distribution of radio resources between Users Equipments UEs. Its main functionalities include Admission Control AC and Packet Scheduling PS. This paper will center mainly on the PS part of the RRM task, which performs the radio resource allocation in both uplink and downlink directions. Several approaches and algorithms have been proposed in the literature to address this need ie : allocate resources efficiently, the diversity and multitude of algorithms is related to the factors considered for the optimal management of radio resource, specifically, the traffic type and the QoS Quality of Service requested by the UE. In this article, an art's state of the radio resource allocation strategies and a detailed study of several scheduling algorithms proposed for LTE (uplink and downlink) are made. Therefore, we offer our evaluation and criticism.",
+		"URL": "http://arxiv.org/abs/1404.2759",
+		"DOI": "10.5121/ijngn.2014.6102",
+		"ISSN": "09757252, 09757023",
+		"note": "arXiv: 1404.2759",
+		"journalAbbreviation": "IJNGN",
+		"author": [
+			{
+				"family": "Bendaoud",
+				"given": "Fayssal"
+			},
+			{
+				"family": "Abdennebi",
+				"given": "Marwen"
+			},
+			{
+				"family": "Didi",
+				"given": "Fedoua"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					3,
+					31
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/3dVBSljf/items/WF78SEKD",
+		"type": "article-journal",
+		"title": "Performances des algorithmes d’ordonnancement dans LTE Uplink",
+		"container-title": "Revue Méditerranéenne des Télécommunications",
+		"volume": "4",
+		"issue": "2",
+		"source": "revues.imist.ma",
+		"abstract": "Dans cet article nous nous sommes intéressés à l’allocation des ressources radio dans les réseaux LTE (liaison montante Uplink) notamment avec une étude comparative entre quatre algorithmes d'ordonnancement des flux qui sont :Round Robin RR, First Maximum Expansion FME, Recursive Maximum Expansion RME et Improved Recursive Maximum Expansion IRME. Nous avons considéré les flux temps réel ou RT (Vidéo et VoIP), en considérant les critères de QoS : délai, efficacité spectral et débit. Les résultats obtenus montrent les avantages et les inconvénients de l'utilisation d'un algorithme par rapport à un autre.",
+		"URL": "https://revues.imist.ma/index.php?journal=RMT&page=article&op=view&path%5B%5D=2339",
+		"ISSN": "2458-6765",
+		"language": "fr",
+		"author": [
+			{
+				"family": "Bendaoud",
+				"given": "Fayssal"
+			},
+			{
+				"family": "Abdennebi",
+				"given": "Marwen"
+			},
+			{
+				"family": "Didi",
+				"given": "Fedoua"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2019",
+					11,
+					8
+				]
+			]
+		}
+	}
+]
