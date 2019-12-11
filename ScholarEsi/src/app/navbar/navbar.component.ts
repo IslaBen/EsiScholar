@@ -1,5 +1,5 @@
-import { Component, OnInit } from '@angular/core';
-import { faArrowDown } from '@fortawesome/free-solid-svg-icons'
+import {Component, EventEmitter, Input, OnInit, Output} from '@angular/core';
+import { faArrowDown, faTimesCircle, faDownload, faShareSquare } from '@fortawesome/free-solid-svg-icons'
 
 @Component({
   selector: 'app-navbar',
@@ -7,21 +7,31 @@ import { faArrowDown } from '@fortawesome/free-solid-svg-icons'
   styleUrls: ['./navbar.component.css']
 })
 export class NavbarComponent implements OnInit {
-  icon = faArrowDown;
   constructor() { }
-
   ngOnInit() {
+    console.log(this.downloadBox)
   }
 
+  @Input() downloadBox : {}[];
+  @Output() navBarEventEmitter = new EventEmitter();
+
+  arrowIcon = faArrowDown;
+  timesCircleIcon = faTimesCircle;
+  downloadIcon = faDownload;
+  shareSquareIcon = faShareSquare;
+
+  navBarEventListner (eventId) {
+    this.navBarEventEmitter.emit(eventId);
+  }
   toggle() {
+    let parentWidth = document.getElementById("sidenav").parentElement.parentElement.offsetWidth;
     const sidenav = document.getElementById("sidenav");
     const icon2 = document.getElementById('icon2');
     const badge = document.getElementById('badge');
     const iconDHandler = document.getElementById('download-icon-handler');
     const position = sidenav.style['right'];
-    console.log(position);
     if (position == '0px') {
-      sidenav.style['right'] = "-350px";
+      sidenav.style['right'] = -parentWidth * 0.3+"px";
       icon2.style['animation-name'] = 'rotation1';
       badge.style.visibility = 'visible';
       iconDHandler.style['padding'] = '4px 6px';

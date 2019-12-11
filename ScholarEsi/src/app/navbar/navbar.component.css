@@ -1,15 +1,7 @@
 .nav {
   z-index: 100;
 }
-#sidenav {
-  transition: right 1s;
-  transition-timing-function: cubic-bezier(1, 0, 0, 1);
-  width: 345px;
-  right: -350px;
-  height: 100%;
-  z-index: 100;
-  box-shadow: -0.125rem 0.125rem 0.15rem rgba(0, 0, 0, 0.075) !important;
-}
+
 #download-icon-handler {
   cursor: pointer;
   border: 2px #2EACFF solid;
@@ -23,11 +15,49 @@
   animation-fill-mode: forwards !important;
   display: block !important;
 }
-
 #badge {
   transition: visibility 1s;
   animation-timing-function: cubic-bezier(1, 0, 0, 1) !important;
 }
+
+#sidenav {
+  transition: right 1s;
+  transition-timing-function: cubic-bezier(1, 0, 0, 1);
+  width: 29%;
+  right: -30%;
+  min-height: 80%;
+  z-index: 100;
+  box-shadow: -0.125rem 0.125rem 0.15rem rgba(0, 0, 0, 0.075) !important;
+}
+#sidenav #d-item {
+  width: 100%; min-height: 85px;
+  padding: 5px; margin-bottom: 5px;
+  border-bottom: 1px solid #CED4DA;
+}
+#sidenav p{
+  width: 100%;
+  line-height: 1.5em;
+  height: 3em;
+  text-overflow: ellipsis;  white-space: normal; overflow: hidden;
+}
+#sidenav fa-icon {
+  cursor: pointer;
+}
+#sidenav-menu div{
+  cursor: pointer;
+  font-weight: bold;
+  line-height: 40px;
+  color: #6C757D;
+}
+#sidenav-menu div:nth-child(1):hover{
+  color: white;
+  background-color: #50B767;
+}
+#sidenav-menu div:nth-child(2):hover{
+  color: white;
+  background-color: #DC3545;
+}
+
 
 @keyframes rotation2 {
   from {

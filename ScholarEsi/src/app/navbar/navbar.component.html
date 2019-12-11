@@ -1,10 +1,30 @@
 <nav class="navbar bg-white border-bottom">
   <a class="navbar-brand" href="#">Bootstrap</a>
   <div class="position-relative rounded" (click)="toggle()" id="download-icon-handler">
-    <fa-icon [icon]="icon" id="icon2" size="1x" [styles]="{'color' : '#2EACFF'}"></fa-icon>
-    <span class="position-absolute badge-warning badge" id="badge" style="top: -6px; right: -6px">1</span>
+    <fa-icon [icon]="arrowIcon" id="icon2" size="1x" [styles]="{'color' : '#2EACFF'}"></fa-icon>
+    <span class="position-absolute badge-warning badge" id="badge" style="top: -6px; right: -6px">{{ downloadBox.length }}</span>
   </div>
 </nav>
 <div class="position-absolute bg-white border-left" id="sidenav">
-
+  <div class="row m-0" *ngFor="let d of downloadBox" id="d-item">
+    <div class="col-1 p-0 px-2 border-right border-light">
+      <input class="form-control" type="checkbox">
+    </div>
+    <div class="col-10">
+      <p class="my-auto" title="{{ d.id }}"><span class="font-weight-bold">title :</span> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor dolores, facere hic incidunt ipsam provident quam quasi repellendus repudiandae sunt. Ea facilis fugiat hic maiores nemo recusandae sit ullam voluptate.</p>
+      <p class="my-auto" title="{{ d.id }}" style="height: 1.5em"><span class="font-weight-bold">authors :</span> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor dolores, facere hic incidunt ipsam provident quam quasi repellendus repudiandae sunt. Ea facilis fugiat hic maiores nemo recusandae sit ullam voluptate.</p>
+    </div>
+    <div class="col-1 border-left  border-light p-0 px-2">
+      <fa-icon [icon]="timesCircleIcon" size="xs" [styles]="{'color' : '#DC3545'}"></fa-icon><br>
+      <fa-icon [icon]="downloadIcon"    size="xs" [styles]="{'color' : '#31AB4D'}"></fa-icon><br>
+      <fa-icon [icon]="shareSquareIcon" size="xs" [styles]="{'color' : '#3B9AFF'}"></fa-icon><br>
+    </div>
+  </div>
+  <div id="sidenav-menu" class="row position-absolute m-0 border-top border-light w-100" style="bottom: 0; min-height: 30px">
+    <div class="col-6 p-0 text-center border-right border-light"><span >download selected</span></div>
+    <div class="col-5 p-0 text-center border-right border-light"><span >delete selected</span></div>
+    <div class="col-1 p-0">
+      <input type="checkbox" class="form-control mx-auto" style="width: 15px">
+    </div>
+  </div>
 </div>

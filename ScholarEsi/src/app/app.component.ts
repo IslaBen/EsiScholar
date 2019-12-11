@@ -1,39 +1,70 @@
-import { Component } from '@angular/core';
-import { faCalendar, faUserFriends, faFileSignature } from '@fortawesome/free-solid-svg-icons'
+import {Component, OnInit, Output} from '@angular/core';
+import {faCalendar, faUserFriends, faFileSignature, faArrowRight, faArrowAltCircleDown} from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {
-  navBar : any;
-  sticky: any;
-  body: any;
+export class AppComponent implements OnInit{
+  constructor() {
+
+  }
   ngOnInit(): void {
     this.navBar = document.getElementById("nav2");
     this.body = document.getElementById("body");
     this.sticky = this.navBar.offsetTop;
   }
-  constructor() {
-  }
+  navBar : any;
+  sticky: any;
+  body: any;
+
+  downloadBox = [{"id" : "id1", "state" : true}, {"id" : "id2", "state" : true}];
+  displayType = 'articles';
+  authors = ['auth1', 'auth1', 'auth1', 'auth1', 'auth1', 'auth1', 'auth1', 'auth1', ]; // TODO should be updated in ngOnInit()
+  Articles = ['Article1', 'Article1', 'Article1', 'Article1', 'Article1', 'Article1', 'Article1', 'Article1', ]; // TODO should be updated in ngOnInit()
+
+  //------------------------------ icons
   user = faUserFriends;
   file = faFileSignature;
   calendar = faCalendar;
-  public searchText = "";
+  rightArrow = faArrowRight;
+  CartArrowDown = faArrowAltCircleDown;
+  //------------------------------ end icons
+  public searchValue = "";
   public contexts = ["name", "degree", "group"];
-  public searchContext = this.contexts[0];
-  public autoCompleteDataArray = [
+
+  public autoCompleteDataArray = [ // TODO should be updated in ngOnInit()
     ["name1", "name2", "name3", "name4", "name5", "name6", "name7"],
     ["degree1", "degree2", "degree3", "degree4", ],
     ["group1", "group2", "group3", "group4", "group5", ]
   ];
   public autoCompleteData =  this.autoCompleteDataArray[0];
-  contextClick(v) {
-    this.autoCompleteData = this.autoCompleteDataArray[this.contexts.indexOf(v)];
+
+  contextClick(value) { // update autocomplete values according to select option
+    this.autoCompleteData = this.autoCompleteDataArray[this.contexts.indexOf(value)];
   }
+  searchInputChange(value) { // bind local value with child component value
+    this.searchValue = value;
+  }
+
+  navBarEventReceiver(eventId) {
+    switch (eventId) {
+      case -1: {
+        console.log("empty download box");
+        this.downloadBox.splice(0, this.downloadBox.length);
+        break;
+      }
+      default: {
+        if (this.downloadBox[eventId] != null) {
+          this.downloadBox.splice(eventId, 1);
+          break;
+        }
+      }
+    }
+  }
+
   onScroll(event) {
-    console.log(this.sticky, event.srcElement.scrollTop);
     if (event.srcElement.scrollTop >= this.sticky) {
       this.navBar.classList.add("sticky");
       this.body.classList.add("sticky-content");
@@ -42,8 +73,7 @@ export class AppComponent {
       this.body.classList.remove("sticky-content");
     }
   }
-
-  f1Click(id) {
+  filterClicked(id) {
     const form1 = document.getElementById('form1');
     const form2 = document.getElementById('form2');
     const form3 = document.getElementById('form3');

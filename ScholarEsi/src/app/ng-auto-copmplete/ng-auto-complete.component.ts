@@ -1,4 +1,4 @@
-import {Component, Input, OnChanges, OnInit} from '@angular/core';
+import {Component, EventEmitter, Input, OnChanges, OnInit, Output} from '@angular/core';
 
 @Component({
   selector: 'app-ng-auto-complete',
@@ -6,8 +6,11 @@ import {Component, Input, OnChanges, OnInit} from '@angular/core';
   styleUrls: ['./ng-auto-complete.component.css']
 })
 export class NgAutoCompleteComponent implements OnInit, OnChanges {
+  constructor() { }
 
-  @Input() autoCompleteData: any;
+  ngOnInit() {
+    this.autocomplete(document.getElementById("myInput"), this);
+  }
   ngOnChanges(changes: any) {
     if (changes['autoCompleteData']) {
       let x = document.getElementsByClassName("autocomplete-items")[0];
@@ -15,11 +18,11 @@ export class NgAutoCompleteComponent implements OnInit, OnChanges {
       (<HTMLInputElement>document.getElementById("myInput")).value = "";
     }
   }
-  constructor() { }
 
-  ngOnInit() {
-    this.autocomplete(document.getElementById("myInput"), this);
-  }
+  @Input() autoCompleteData: any;
+  @Output() searchInputChange = new EventEmitter();
+
+  inputValue : string;
 
   autocomplete(inp, that) {
     let currentFocus = 0;
@@ -61,7 +64,7 @@ export class NgAutoCompleteComponent implements OnInit, OnChanges {
         } else if (e.keyCode == 13) { // Enter pressed
           e.preventDefault();
           if (currentFocus > -1) {
-            if (x) x.children[currentFocus].click();
+            if (x) (<HTMLElement>x.children[currentFocus]).click();
           }
         }
       }
@@ -92,4 +95,7 @@ export class NgAutoCompleteComponent implements OnInit, OnChanges {
     // });
   }
 
+  inputChanged() {
+    this.searchInputChange.emit(this.inputValue);
+  }
 }

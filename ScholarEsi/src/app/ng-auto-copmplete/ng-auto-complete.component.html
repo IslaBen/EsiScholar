@@ -1,3 +1,4 @@
 <div class="autocomplete">
-  <input id="myInput" type="text" name="myCountry" placeholder="" autocomplete="off">
+  <input id="myInput" type="text" name="myCountry" [(ngModel)]="inputValue"
+         (input)="inputChanged()" placeholder="search for teachers or context here " autocomplete="off">
 </div>
