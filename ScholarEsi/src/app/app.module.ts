@@ -5,16 +5,21 @@ import { AppComponent } from './app.component';
 import { NoopAnimationsModule } from '@angular/platform-browser/animations';
 import { NavbarComponent } from './navbar/navbar.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
-import {FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { DetailComponent } from './detail/detail.component';
 import { NgAutoCompleteComponent } from './ng-auto-copmplete/ng-auto-complete.component';
+import { HttpClientModule} from '@angular/common/http';
+import { HomeComponent } from './home/home.component';
+import {ChartsModule} from 'ng2-charts';
+
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
     DetailComponent,
-    NgAutoCompleteComponent
+    NgAutoCompleteComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
@@ -23,11 +28,13 @@ import { NgAutoCompleteComponent } from './ng-auto-copmplete/ng-auto-complete.co
     FontAwesomeModule,
     FormsModule,
     ReactiveFormsModule,
+    HttpClientModule,
+    ChartsModule
   ],
   exports: [
     ReactiveFormsModule,
   ],
-  providers: [],
+  providers: [AppComponent],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

@@ -1,1 +1,51 @@
-<p>detail works!</p>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-6 px-1">
+      <div *ngFor="let article of Articles; let i = index" class="card w-100 p-3 my-2 position-relative article-wrapper">
+          <div class="w-100 position-absolute content-div p-3">
+            <span class="font-weight-bold">Abstract :</span>
+            abstract
+          </div>
+          <div class="my-1" style="text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">
+            <span class="font-weight-bold">Title :</span>
+            title
+          </div>
+          <div class="my-1"><span class="font-weight-bold">container-title :</span>abstract</div>
+          <div class="my-1"><span class="font-weight-bold">Authors :</span>Amar Bensaber Djamel | Adjoudj Reda</div>
+          <div class="row">
+            <a class="btn btn-outline-primary float-left mt-3 mx-2" style="z-index: 20; width: 30%" routerLink="/Detail/{{ article._id }}">
+              See more  <fa-icon [icon]="rightArrow" size="xs" [styles]="{'color' : '#FFFFFF'}"></fa-icon>
+            </a>
+            <a class="btn btn-outline-warning float-left mt-3 mx-2" style="z-index: 20; width: 30%" (click)="addToDownload(i)">
+              add to download  <fa-icon [icon]="CartArrowDown" size="sm" [styles]="{'color' : '#FFFFFF'}"></fa-icon>
+            </a>
+          </div>
+  </div>
+    </div>
+
+    <div class="col-6 px-1">
+      <div class="w-100 bg-white my-2 p-2 rounded shadow-sm">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ9n3qqVGzSz7zwKCDzGPb8AKXMfRnQYH1R5iLMZ4VKDUZNNXJt"
+             class="border rounded-circle w-25 mx-auto  shadow-sm" style="display: block;" alt="...">
+        <div class="border-top text-center mt-3 p-3">
+          <h5 class="card-title ">john doe</h5>
+          <p>
+            <span class="card-text"><span class="font-weight-bold">Rank :</span> Rank</span><br/>
+            <span class="card-text"><span class="font-weight-bold">Domain :</span> Domain</span>
+          </p>
+        </div>
+      </div>
+      <div class="w-100 bg-white my-2 p-2 rounded shadow-sm">
+        <canvas
+          baseChart
+          [chartType]="'line'"
+          [datasets]="chartData"
+          [labels]="chartLabels"
+          [options]="chartOptions"
+          [legend]="true"
+          (chartClick)="onChartClick($event)">
+        </canvas>
+      </div>
+    </div>
+  </div>
+</div>

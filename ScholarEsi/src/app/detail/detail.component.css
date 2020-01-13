@@ -1,0 +1,19 @@
+.article-wrapper {
+  overflow: hidden;
+}
+.article-wrapper:hover > .content-div {
+  right: 0;
+}
+.content-div {
+  z-index: 10;
+  width: 100%;
+  right : -102%;
+  top: 0;
+  bottom: 35%;
+  transition: right 1s;
+  transition-timing-function: cubic-bezier(0.55, 0.93, 0.65, 1);
+  box-shadow: -0.125rem -0.125rem 0.15rem rgba(0, 0, 0, 0.3) !important;
+  background-color: #FFFFFF;
+  overflow: hidden !important;
+  display: inline-block;
+}

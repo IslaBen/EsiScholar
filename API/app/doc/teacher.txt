@@ -9,7 +9,6 @@ GET http://127.0.0.1:3000/scholarESI/teachers/5de8f5f59fc7795033e9dc90
 POST http://127.0.0.1:3000/scholarESI/teachers
 
 {
-       
         "image": "./images/youcef.jpg",
         "firstName": "adel youcef",
         "lastName": "mecheref",

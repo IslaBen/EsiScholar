@@ -11,8 +11,8 @@
       <input class="form-control" type="checkbox">
     </div>
     <div class="col-10">
-      <p class="my-auto" title="{{ d.id }}"><span class="font-weight-bold">title :</span> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor dolores, facere hic incidunt ipsam provident quam quasi repellendus repudiandae sunt. Ea facilis fugiat hic maiores nemo recusandae sit ullam voluptate.</p>
-      <p class="my-auto" title="{{ d.id }}" style="height: 1.5em"><span class="font-weight-bold">authors :</span> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor dolores, facere hic incidunt ipsam provident quam quasi repellendus repudiandae sunt. Ea facilis fugiat hic maiores nemo recusandae sit ullam voluptate.</p>
+      <p class="my-auto"><span class="font-weight-bold">title :</span>{{ d.title }}</p>
+      <p class="my-auto" style="height: 1.5em"><span class="font-weight-bold">authors :</span>{{ d.authors }}</p>
     </div>
     <div class="col-1 border-left  border-light p-0 px-2">
       <fa-icon [icon]="timesCircleIcon" size="xs" [styles]="{'color' : '#DC3545'}"></fa-icon><br>

@@ -1,4 +1,4 @@
-const envs = require('../config/envs');
+
 const cors = require('../app/middlewares/cors');
 const errors = require('../app/middlewares/errors');
 const accessLogStream = require('./middlewares/accessLogStream');
@@ -32,7 +32,6 @@ app.use(logger('combined', { stream: accessLogStream }));
 // app.use(formidableMiddleware());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: false}));
-
 
 // public route
 app.use('/scholarESI', teacher);
